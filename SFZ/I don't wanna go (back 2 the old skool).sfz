@@ -1,0 +1,124 @@
+// this file was generated from I don't wanna go (back 2 the old skool).exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=5 hikey=36 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=867 end=398884 sample=../Audio/I don't wanna go (back 2 the old skool)/36-RTV4.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=882 end=396581 sample=../Audio/I don't wanna go (back 2 the old skool)/37-DJJW.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=908 end=397100 sample=../Audio/I don't wanna go (back 2 the old skool)/38-OSEQ.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=877 end=391525 sample=../Audio/I don't wanna go (back 2 the old skool)/39-WEXM.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=547 end=392229 sample=../Audio/I don't wanna go (back 2 the old skool)/40-GPTI.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=944 end=388843 sample=../Audio/I don't wanna go (back 2 the old skool)/41-Q9OW.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=964 end=389267 sample=../Audio/I don't wanna go (back 2 the old skool)/42-9IBG.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1022 sample=../Audio/I don't wanna go (back 2 the old skool)/43-AAIP.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1160 end=383668 sample=../Audio/I don't wanna go (back 2 the old skool)/44-O7LL.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=884 end=382922 sample=../Audio/I don't wanna go (back 2 the old skool)/45-HZC1.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=718 end=383360 sample=../Audio/I don't wanna go (back 2 the old skool)/46-AJB3.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=891 end=379594 sample=../Audio/I don't wanna go (back 2 the old skool)/47-QWL7.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=663 end=380339 sample=../Audio/I don't wanna go (back 2 the old skool)/48-34MS.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=674 end=378256 sample=../Audio/I don't wanna go (back 2 the old skool)/49-BZ6I.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=958 sample=../Audio/I don't wanna go (back 2 the old skool)/50-VHIF.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=315 end=376429 sample=../Audio/I don't wanna go (back 2 the old skool)/51-LH0N.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=809 end=375602 sample=../Audio/I don't wanna go (back 2 the old skool)/52-ESC5.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=581 end=374915 sample=../Audio/I don't wanna go (back 2 the old skool)/53-2D6T.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=749 end=376448 sample=../Audio/I don't wanna go (back 2 the old skool)/54-CPEF.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=991 end=373458 sample=../Audio/I don't wanna go (back 2 the old skool)/55-HXJD.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1222 end=374797 sample=../Audio/I don't wanna go (back 2 the old skool)/56-7NBA.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=922 end=372224 sample=../Audio/I don't wanna go (back 2 the old skool)/57-80FY.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=619 end=373275 sample=../Audio/I don't wanna go (back 2 the old skool)/58-U96Z.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1111 end=371787 sample=../Audio/I don't wanna go (back 2 the old skool)/59-R42M.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=637 end=371083 sample=../Audio/I don't wanna go (back 2 the old skool)/60-H4MW.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=830 end=370446 sample=../Audio/I don't wanna go (back 2 the old skool)/61-P8LV.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1082 end=371969 sample=../Audio/I don't wanna go (back 2 the old skool)/62-KJ7X.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=460 end=369761 sample=../Audio/I don't wanna go (back 2 the old skool)/63-GW84.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=560 end=370269 sample=../Audio/I don't wanna go (back 2 the old skool)/64-STB9.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1080 sample=../Audio/I don't wanna go (back 2 the old skool)/65-Q2GF.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=598 end=370198 sample=../Audio/I don't wanna go (back 2 the old skool)/66-A6WZ.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=483 end=368671 sample=../Audio/I don't wanna go (back 2 the old skool)/67-TQS2.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1020 sample=../Audio/I don't wanna go (back 2 the old skool)/68-CKVT.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1301 end=368547 sample=../Audio/I don't wanna go (back 2 the old skool)/69-IWIV.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1259 end=369051 sample=../Audio/I don't wanna go (back 2 the old skool)/70-958J.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1008 end=367296 sample=../Audio/I don't wanna go (back 2 the old skool)/71-88CY.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=567 end=367769 sample=../Audio/I don't wanna go (back 2 the old skool)/72-DZT1.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=858 end=366632 sample=../Audio/I don't wanna go (back 2 the old skool)/73-7ZOC.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1010 end=367626 sample=../Audio/I don't wanna go (back 2 the old skool)/74-D7HK.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=785 end=366353 sample=../Audio/I don't wanna go (back 2 the old skool)/75-YCUJ.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=502 sample=../Audio/I don't wanna go (back 2 the old skool)/76-F5UZ.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1023 end=366516 sample=../Audio/I don't wanna go (back 2 the old skool)/77-C8DJ.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1111 end=366848 sample=../Audio/I don't wanna go (back 2 the old skool)/78-9ECI.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1094 end=365896 sample=../Audio/I don't wanna go (back 2 the old skool)/79-FVN8.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=679 end=366098 sample=../Audio/I don't wanna go (back 2 the old skool)/80-WZXQ.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=857 end=365057 sample=../Audio/I don't wanna go (back 2 the old skool)/81-H9ZQ.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=798 end=365581 sample=../Audio/I don't wanna go (back 2 the old skool)/82-X2VP.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=529 end=364306 sample=../Audio/I don't wanna go (back 2 the old skool)/83-W33F.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1233 end=364441 sample=../Audio/I don't wanna go (back 2 the old skool)/84-PU1C.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=496 end=364611 sample=../Audio/I don't wanna go (back 2 the old skool)/85-DXP8.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=541 end=364418 sample=../Audio/I don't wanna go (back 2 the old skool)/86-WY94.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=572 end=363522 sample=../Audio/I don't wanna go (back 2 the old skool)/87-MXFS.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1162 end=363814 sample=../Audio/I don't wanna go (back 2 the old skool)/88-R6R2.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=910 end=364051 sample=../Audio/I don't wanna go (back 2 the old skool)/89-V54U.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1006 end=364046 sample=../Audio/I don't wanna go (back 2 the old skool)/90-G6XK.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=625 end=363528 sample=../Audio/I don't wanna go (back 2 the old skool)/91-RHPW.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=895 end=362980 sample=../Audio/I don't wanna go (back 2 the old skool)/92-QKS7.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1333 end=363666 sample=../Audio/I don't wanna go (back 2 the old skool)/93-GCF8.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1086 end=363778 sample=../Audio/I don't wanna go (back 2 the old skool)/94-LB48.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=880 end=362954 sample=../Audio/I don't wanna go (back 2 the old skool)/95-Q8E4.aif
+<group>lokey=96 hikey=125 pitch_keycenter=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=683 end=362767 sample=../Audio/I don't wanna go (back 2 the old skool)/96-OGQQ.aif

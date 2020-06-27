@@ -1,0 +1,263 @@
+// this file was generated from EasilyLost.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=21 pitch_keycenter=21 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=787 end=617738 sample=../Audio/EasilyLost/21-95VI.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=744 end=618790 sample=../Audio/EasilyLost/21-FQIM.aif
+<group> key=22 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=782 end=618793 sample=../Audio/EasilyLost/22-M8BE.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=727 end=614056 sample=../Audio/EasilyLost/22-EE8M.aif
+<group> key=23 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=685 end=616095 sample=../Audio/EasilyLost/23-4UGE.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=895 end=613005 sample=../Audio/EasilyLost/23-19NC.aif
+<group> key=24 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=684 end=618267 sample=../Audio/EasilyLost/24-BPGF.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=857 end=617376 sample=../Audio/EasilyLost/24-6EXO.aif
+<group> key=25 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=514 end=617424 sample=../Audio/EasilyLost/25-P4TQ.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1074 end=618411 sample=../Audio/EasilyLost/25-0YHX.aif
+<group> key=26 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=967 end=618345 sample=../Audio/EasilyLost/26-4HMK.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=762 end=618282 sample=../Audio/EasilyLost/26-WFX6.aif
+<group> key=27 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=789 end=617933 sample=../Audio/EasilyLost/27-P3M5.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=519 end=618266 sample=../Audio/EasilyLost/27-WEUY.aif
+<group> key=28 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=388 end=618260 sample=../Audio/EasilyLost/28-YP0Z.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=770 sample=../Audio/EasilyLost/28-AQOH.aif
+<group> key=29 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=510 sample=../Audio/EasilyLost/29-371D.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=495 sample=../Audio/EasilyLost/29-BO56.aif
+<group> key=30 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=802 sample=../Audio/EasilyLost/30-QSR7.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=841 end=617822 sample=../Audio/EasilyLost/30-M1MO.aif
+<group> key=31 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=640 sample=../Audio/EasilyLost/31-BSGZ.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=784 sample=../Audio/EasilyLost/31-7TAF.aif
+<group> key=32 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=994 end=618305 sample=../Audio/EasilyLost/32-M6AG.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=631 end=618263 sample=../Audio/EasilyLost/32-L2B1.aif
+<group> key=33 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=933 end=618280 sample=../Audio/EasilyLost/33-NUNX.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1053 end=618796 sample=../Audio/EasilyLost/33-D88C.aif
+<group> key=34 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=591 end=617845 sample=../Audio/EasilyLost/34-R20E.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=999 end=613888 sample=../Audio/EasilyLost/34-257T.aif
+<group> key=35 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=645 end=615260 sample=../Audio/EasilyLost/35-DZW5.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=859 end=613179 sample=../Audio/EasilyLost/35-ZX2U.aif
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=484 sample=../Audio/EasilyLost/36-WT9C.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=652 end=618779 sample=../Audio/EasilyLost/36-S5Z4.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=791 sample=../Audio/EasilyLost/37-SEBX.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=858 end=617733 sample=../Audio/EasilyLost/37-X43C.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1174 sample=../Audio/EasilyLost/38-HWFD.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=911 sample=../Audio/EasilyLost/38-XSXT.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=889 end=617772 sample=../Audio/EasilyLost/39-R9LR.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=747 end=618374 sample=../Audio/EasilyLost/39-NAEW.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=548 end=617326 sample=../Audio/EasilyLost/40-0QWL.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=639 end=618307 sample=../Audio/EasilyLost/40-6NHC.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=644 end=617879 sample=../Audio/EasilyLost/41-8FR6.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=857 sample=../Audio/EasilyLost/41-44RU.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=750 end=617730 sample=../Audio/EasilyLost/42-W6U1.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=965 end=617778 sample=../Audio/EasilyLost/42-S3EQ.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=957 end=618798 sample=../Audio/EasilyLost/43-SJJF.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=652 end=618258 sample=../Audio/EasilyLost/43-NDAD.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=803 end=617939 sample=../Audio/EasilyLost/44-RX3N.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=406 end=617832 sample=../Audio/EasilyLost/44-4NTJ.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1001 end=617728 sample=../Audio/EasilyLost/45-T74H.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1068 end=618292 sample=../Audio/EasilyLost/45-639N.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=628 sample=../Audio/EasilyLost/46-B4Y3.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1052 end=613916 sample=../Audio/EasilyLost/46-3YOX.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=967 end=616192 sample=../Audio/EasilyLost/47-17LM.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=879 end=612096 sample=../Audio/EasilyLost/47-ZJNC.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1108 end=615252 sample=../Audio/EasilyLost/48-8I8J.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=657 end=608797 sample=../Audio/EasilyLost/48-DO6U.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=983 end=606146 sample=../Audio/EasilyLost/49-3256.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1051 end=606628 sample=../Audio/EasilyLost/49-JPKJ.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=950 end=608939 sample=../Audio/EasilyLost/50-Y6JQ.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=941 end=603016 sample=../Audio/EasilyLost/50-Y04Z.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=626 sample=../Audio/EasilyLost/51-NY08.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=381 end=601401 sample=../Audio/EasilyLost/51-GAL2.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=858 end=603666 sample=../Audio/EasilyLost/52-5LP0.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=650 end=599680 sample=../Audio/EasilyLost/52-APJU.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1173 sample=../Audio/EasilyLost/53-ZIQY.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=802 end=597276 sample=../Audio/EasilyLost/53-H1B1.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=829 sample=../Audio/EasilyLost/54-64XG.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=710 end=594132 sample=../Audio/EasilyLost/54-CSX1.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=780 sample=../Audio/EasilyLost/55-B84Z.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=786 end=593460 sample=../Audio/EasilyLost/55-ZMX0.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=618 end=595357 sample=../Audio/EasilyLost/56-P54P.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=508 sample=../Audio/EasilyLost/56-4Q6C.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=684 sample=../Audio/EasilyLost/57-P9YR.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=990 end=589824 sample=../Audio/EasilyLost/57-YQRG.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=774 sample=../Audio/EasilyLost/58-TG92.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=783 sample=../Audio/EasilyLost/58-ACYQ.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=818 sample=../Audio/EasilyLost/59-FO0R.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=544 sample=../Audio/EasilyLost/59-KX8Y.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1062 end=587915 sample=../Audio/EasilyLost/60-PB4V.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=845 end=585515 sample=../Audio/EasilyLost/60-LFHL.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=659 sample=../Audio/EasilyLost/61-Z6AZ.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=969 end=584107 sample=../Audio/EasilyLost/61-4A8T.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=723 sample=../Audio/EasilyLost/62-YWU9.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=611 end=581632 sample=../Audio/EasilyLost/62-NNPW.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1011 end=583969 sample=../Audio/EasilyLost/63-WVPR.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=559 end=581430 sample=../Audio/EasilyLost/63-MIQC.aif
+<group>lokey=64 hikey=65 pitch_keycenter=64 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=913 end=582928 sample=../Audio/EasilyLost/64-HMEM.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=838 sample=../Audio/EasilyLost/64-BMFU.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1054 sample=../Audio/EasilyLost/66-JCZP.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=893 sample=../Audio/EasilyLost/66-Q0A5.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=483 end=577323 sample=../Audio/EasilyLost/67-FMA5.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=705 end=579234 sample=../Audio/EasilyLost/67-A9GF.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=728 end=576512 sample=../Audio/EasilyLost/68-Z44R.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=594 end=575758 sample=../Audio/EasilyLost/68-IL40.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=783 sample=../Audio/EasilyLost/69-5F5Y.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=930 sample=../Audio/EasilyLost/69-OLOW.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=911 end=573473 sample=../Audio/EasilyLost/70-YLC0.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=595 sample=../Audio/EasilyLost/70-4G89.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=776 sample=../Audio/EasilyLost/71-UZ17.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=309 end=575624 sample=../Audio/EasilyLost/71-PF1H.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=688 end=571807 sample=../Audio/EasilyLost/72-U92R.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=777 end=572050 sample=../Audio/EasilyLost/72-H1GU.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=895 end=571428 sample=../Audio/EasilyLost/73-7RLM.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=914 end=573830 sample=../Audio/EasilyLost/73-F50G.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=700 end=570134 sample=../Audio/EasilyLost/74-1CG7.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=607 end=572423 sample=../Audio/EasilyLost/74-ICFE.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1079 end=570252 sample=../Audio/EasilyLost/75-TIL7.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=613 end=571934 sample=../Audio/EasilyLost/75-R2B0.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=860 end=569347 sample=../Audio/EasilyLost/76-WMXI.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1143 end=569344 sample=../Audio/EasilyLost/76-K98R.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1068 end=568583 sample=../Audio/EasilyLost/77-EYIQ.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=588 end=571044 sample=../Audio/EasilyLost/77-WNEY.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=929 end=567049 sample=../Audio/EasilyLost/78-7STW.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1035 end=570112 sample=../Audio/EasilyLost/78-D0BG.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=779 end=566690 sample=../Audio/EasilyLost/79-F3GF.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=580 end=569097 sample=../Audio/EasilyLost/79-5CTP.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=405 end=566160 sample=../Audio/EasilyLost/80-LAR2.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1229 end=566149 sample=../Audio/EasilyLost/80-VXW0.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=745 end=566272 sample=../Audio/EasilyLost/81-0AAN.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=686 end=567573 sample=../Audio/EasilyLost/81-6ULE.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=950 end=564745 sample=../Audio/EasilyLost/82-H3ZO.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=734 end=566164 sample=../Audio/EasilyLost/82-1NMC.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=910 end=564615 sample=../Audio/EasilyLost/83-9A84.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=738 end=566273 sample=../Audio/EasilyLost/83-2TGS.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=809 end=564736 sample=../Audio/EasilyLost/84-WI0C.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1100 end=564224 sample=../Audio/EasilyLost/84-XLTS.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=801 end=563335 sample=../Audio/EasilyLost/85-OFU9.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1102 end=566016 sample=../Audio/EasilyLost/85-0YG7.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=970 end=562689 sample=../Audio/EasilyLost/86-SGTS.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=890 end=564352 sample=../Audio/EasilyLost/86-4RDR.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=946 end=562314 sample=../Audio/EasilyLost/87-K0G7.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=733 end=564899 sample=../Audio/EasilyLost/87-YHV9.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=748 end=561262 sample=../Audio/EasilyLost/88-YFOK.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=713 end=561162 sample=../Audio/EasilyLost/88-L922.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=967 end=561553 sample=../Audio/EasilyLost/89-XPQY.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1117 sample=../Audio/EasilyLost/89-74YH.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=778 end=560391 sample=../Audio/EasilyLost/90-EKLE.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=816 sample=../Audio/EasilyLost/90-EV7P.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=667 end=560780 sample=../Audio/EasilyLost/91-Q11T.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=610 end=562561 sample=../Audio/EasilyLost/91-2UUX.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=585 end=559502 sample=../Audio/EasilyLost/92-WNBO.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=548 end=559627 sample=../Audio/EasilyLost/92-4WPN.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=709 end=559385 sample=../Audio/EasilyLost/93-H9PV.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=658 end=560812 sample=../Audio/EasilyLost/93-NQC6.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=440 end=558226 sample=../Audio/EasilyLost/94-ER1Q.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=481 end=560287 sample=../Audio/EasilyLost/94-LEOK.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1028 end=559132 sample=../Audio/EasilyLost/95-B4TL.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=926 end=561027 sample=../Audio/EasilyLost/95-VATV.aif
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=747 sample=../Audio/EasilyLost/96-4DKK.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=681 end=558470 sample=../Audio/EasilyLost/96-SUV3.aif
+<group> key=97 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=898 end=563354 sample=../Audio/EasilyLost/97-5LQ1.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=895 end=565385 sample=../Audio/EasilyLost/97-A2RO.aif
+<group> key=98 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=881 end=562313 sample=../Audio/EasilyLost/98-5219.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=581 end=564117 sample=../Audio/EasilyLost/98-S0OI.aif
+<group> key=99 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=864 end=562978 sample=../Audio/EasilyLost/99-ZSCY.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=818 sample=../Audio/EasilyLost/99-3LJA.aif
+<group> key=100 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=570 sample=../Audio/EasilyLost/100-EXT5.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=904 end=561920 sample=../Audio/EasilyLost/100-WQLJ.aif
+<group> key=101 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1205 sample=../Audio/EasilyLost/101-NJWX.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=902 end=563356 sample=../Audio/EasilyLost/101-7ALO.aif
+<group> key=102 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=598 end=560658 sample=../Audio/EasilyLost/102-F6EE.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=476 sample=../Audio/EasilyLost/102-4HPD.aif
+<group> key=103 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=690 end=560514 sample=../Audio/EasilyLost/103-TCM0.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=765 end=562572 sample=../Audio/EasilyLost/103-EDC5.aif
+<group> key=104 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=471 end=560170 sample=../Audio/EasilyLost/104-KVRK.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=893 end=560136 sample=../Audio/EasilyLost/104-LSL1.aif
+<group> key=105 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=794 end=559928 sample=../Audio/EasilyLost/105-9F9A.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=840 end=561424 sample=../Audio/EasilyLost/105-N8Y4.aif
+<group> key=106 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=696 end=558217 sample=../Audio/EasilyLost/106-BD14.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=527 end=560320 sample=../Audio/EasilyLost/106-QT90.aif
+<group> key=107 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=933 end=559621 sample=../Audio/EasilyLost/107-UWEV.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=844 end=560898 sample=../Audio/EasilyLost/107-IJ0B.aif
+<group>lokey=108 hikey=127 pitch_keycenter=108 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=571 sample=../Audio/EasilyLost/108-WIG1.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=953 end=559238 sample=../Audio/EasilyLost/108-4P76.aif

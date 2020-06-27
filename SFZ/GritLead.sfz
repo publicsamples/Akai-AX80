@@ -1,0 +1,124 @@
+// this file was generated from GritLead.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=814 end=542728 loop_mode=loop_sustain loop_start=303158 loop_end=469057 sample=../Audio/GritLead/36-8HH3.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=579 end=543841 loop_mode=loop_sustain loop_start=270818 loop_end=433708 sample=../Audio/GritLead/37-VA02.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=518 end=542338 loop_mode=loop_sustain loop_start=271045 loop_end=423597 sample=../Audio/GritLead/38-I2XD.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=760 end=548567 loop_mode=loop_sustain loop_start=389991 loop_end=453543 sample=../Audio/GritLead/39-EQH0.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=788 end=545789 loop_mode=loop_sustain loop_start=409608 loop_end=467466 sample=../Audio/GritLead/40-4LLL.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=1172 loop_mode=loop_sustain loop_start=278796 loop_end=343434 sample=../Audio/GritLead/41-G237.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=448 end=551125 loop_mode=loop_sustain loop_start=415646 loop_end=471929 sample=../Audio/GritLead/42-8E39.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=611 end=548857 loop_mode=loop_sustain loop_start=355755 loop_end=409771 sample=../Audio/GritLead/43-RSCF.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=764 end=539815 loop_mode=loop_sustain loop_start=420495 loop_end=474853 sample=../Audio/GritLead/44-FHXS.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=1016 end=546854 loop_mode=loop_sustain loop_start=329287 loop_end=385377 sample=../Audio/GritLead/45-96W9.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=783 end=538009 loop_mode=loop_sustain loop_start=300088 loop_end=353775 sample=../Audio/GritLead/46-3CRM.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=1018 end=548692 loop_mode=loop_sustain loop_start=337113 loop_end=390610 sample=../Audio/GritLead/47-XA9J.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=809 end=543319 loop_mode=loop_sustain loop_start=311369 loop_end=473927 sample=../Audio/GritLead/48-Y7GB.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=542 end=547847 loop_mode=loop_sustain loop_start=282916 loop_end=446437 sample=../Audio/GritLead/49-B7TR.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=519 loop_mode=loop_sustain loop_start=312146 loop_end=422722 sample=../Audio/GritLead/50-INI3.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=564 end=532511 loop_mode=loop_sustain loop_start=288287 loop_end=397688 sample=../Audio/GritLead/51-NTMP.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=684 end=547822 loop_mode=loop_sustain loop_start=378663 loop_end=443950 sample=../Audio/GritLead/52-DPL9.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=587 end=538869 loop_mode=loop_sustain loop_start=305038 loop_end=468148 sample=../Audio/GritLead/53-BT59.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=1130 end=545301 loop_mode=loop_sustain loop_start=287873 loop_end=340839 sample=../Audio/GritLead/54-A413.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=772 end=544142 loop_mode=loop_sustain loop_start=426898 loop_end=482251 sample=../Audio/GritLead/55-TV5C.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=1130 end=545909 loop_mode=loop_sustain loop_start=346476 loop_end=400833 sample=../Audio/GritLead/56-1UX0.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=1000 end=546385 loop_mode=loop_sustain loop_start=264910 loop_end=319001 sample=../Audio/GritLead/57-OH5Z.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=1164 end=540619 loop_mode=loop_sustain loop_start=300250 loop_end=462598 sample=../Audio/GritLead/58-AK5D.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=746 end=544852 loop_mode=loop_sustain loop_start=269661 loop_end=379675 sample=../Audio/GritLead/59-GDSG.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=766 end=540993 loop_mode=loop_sustain loop_start=364485 loop_end=473001 sample=../Audio/GritLead/60-R5HC.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=1005 end=536047 loop_mode=loop_sustain loop_start=286912 loop_end=450108 sample=../Audio/GritLead/61-KDFR.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=850 end=546168 loop_mode=loop_sustain loop_start=373913 loop_end=427417 sample=../Audio/GritLead/62-0DHA.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=914 end=534134 loop_mode=loop_sustain loop_start=349056 loop_end=403480 sample=../Audio/GritLead/63-G9TA.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=812 loop_mode=loop_sustain loop_start=387240 loop_end=440720 sample=../Audio/GritLead/64-WZB4.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=631 loop_mode=loop_sustain loop_start=356030 loop_end=465887 sample=../Audio/GritLead/65-5SCQ.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=474 loop_mode=loop_sustain loop_start=281815 loop_end=445803 sample=../Audio/GritLead/66-G8CL.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=637 end=541900 loop_mode=loop_sustain loop_start=307982 loop_end=361772 sample=../Audio/GritLead/67-UUUE.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=858 end=543913 loop_mode=loop_sustain loop_start=290228 loop_end=344585 sample=../Audio/GritLead/68-2WZP.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=993 end=546121 loop_mode=loop_sustain loop_start=317337 loop_end=480683 sample=../Audio/GritLead/69-ZCRB.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=1003 end=539186 loop_mode=loop_sustain loop_start=363822 loop_end=473148 sample=../Audio/GritLead/70-RJKC.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=1137 end=546524 loop_mode=loop_sustain loop_start=390854 loop_end=445866 sample=../Audio/GritLead/71-29ZG.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=484 end=542138 loop_mode=loop_sustain loop_start=308895 loop_end=363319 sample=../Audio/GritLead/72-P7GH.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=436 loop_mode=loop_sustain loop_start=341289 loop_end=450578 sample=../Audio/GritLead/73-LFBX.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=639 loop_mode=loop_sustain loop_start=324587 loop_end=378355 sample=../Audio/GritLead/74-VSQC.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=433 end=537986 loop_mode=loop_sustain loop_start=351525 loop_end=405934 sample=../Audio/GritLead/75-SIJB.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=1078 end=548141 loop_mode=loop_sustain loop_start=277547 loop_end=331423 sample=../Audio/GritLead/76-30FR.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=964 loop_mode=loop_sustain loop_start=363745 loop_end=418043 sample=../Audio/GritLead/77-XX8B.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=1221 end=546588 loop_mode=loop_sustain loop_start=288222 loop_end=452056 sample=../Audio/GritLead/78-UNWG.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=527 end=543933 loop_mode=loop_sustain loop_start=317654 loop_end=481295 sample=../Audio/GritLead/79-F7MD.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=1238 end=534163 loop_mode=loop_sustain loop_start=292723 loop_end=456207 sample=../Audio/GritLead/80-DCFO.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=768 end=546741 loop_mode=loop_sustain loop_start=308015 loop_end=471932 sample=../Audio/GritLead/81-61WO.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=468 end=539981 loop_mode=loop_sustain loop_start=306892 loop_end=470490 sample=../Audio/GritLead/82-9I0X.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=774 end=546356 loop_mode=loop_sustain loop_start=281713 loop_end=445080 sample=../Audio/GritLead/83-33R8.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=549 end=547196 loop_mode=loop_sustain loop_start=314347 loop_end=478129 sample=../Audio/GritLead/84-8YUL.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=1113 loop_mode=loop_sustain loop_start=286570 loop_end=450476 sample=../Audio/GritLead/85-IDTY.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=891 end=544851 loop_mode=loop_sustain loop_start=302872 loop_end=466111 sample=../Audio/GritLead/86-75ZX.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=1266 end=536540 loop_mode=loop_sustain loop_start=297964 loop_end=461372 sample=../Audio/GritLead/87-JI1J.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=1165 end=547121 loop_mode=loop_sustain loop_start=278787 loop_end=443266 sample=../Audio/GritLead/88-ZYTI.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=886 loop_mode=loop_sustain loop_start=307459 loop_end=471233 sample=../Audio/GritLead/89-6OZA.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=425 end=536162 loop_mode=loop_sustain loop_start=290198 loop_end=454061 sample=../Audio/GritLead/90-OWWU.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=1134 loop_mode=loop_sustain loop_start=280910 loop_end=444798 sample=../Audio/GritLead/91-QND7.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=914 loop_mode=loop_sustain loop_start=307209 loop_end=471394 sample=../Audio/GritLead/92-32GO.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=952 loop_mode=loop_sustain loop_start=296403 loop_end=460433 sample=../Audio/GritLead/93-IBD4.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=911 loop_mode=loop_sustain loop_start=312875 loop_end=476486 sample=../Audio/GritLead/94-KBLC.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=732 end=535849 loop_mode=loop_sustain loop_start=295510 loop_end=460130 sample=../Audio/GritLead/95-U8AD.aif
+<group> key=96 pitch_keytrack=1
+	<region> lovel=004 hivel=127 amp_velcurve_127=1 offset=617 end=546173 loop_mode=loop_sustain loop_start=280504 loop_end=444017 sample=../Audio/GritLead/96-EKF5.aif

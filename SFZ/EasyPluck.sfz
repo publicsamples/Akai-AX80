@@ -1,0 +1,124 @@
+// this file was generated from EasyPluck.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=8 hikey=36 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=874 end=529166 sample=../Audio/EasyPluck/36-CA7R.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1052 sample=../Audio/EasyPluck/37-J1PZ.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1180 sample=../Audio/EasyPluck/38-Y565.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=983 end=530431 sample=../Audio/EasyPluck/39-LE3X.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=677 end=529234 sample=../Audio/EasyPluck/40-59GT.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=836 end=530427 sample=../Audio/EasyPluck/41-UCUF.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=849 end=530354 sample=../Audio/EasyPluck/42-UOLI.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=662 sample=../Audio/EasyPluck/43-5VWI.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1062 sample=../Audio/EasyPluck/44-X80O.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=753 end=529854 sample=../Audio/EasyPluck/45-6SRP.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=727 end=529674 sample=../Audio/EasyPluck/46-JAU3.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=819 sample=../Audio/EasyPluck/47-98S4.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=839 sample=../Audio/EasyPluck/48-TCQ9.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=470 end=530196 sample=../Audio/EasyPluck/49-01FB.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=876 end=530324 sample=../Audio/EasyPluck/50-S8RL.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=448 end=529900 sample=../Audio/EasyPluck/51-O3UW.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1094 end=530233 sample=../Audio/EasyPluck/52-V7TF.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=886 sample=../Audio/EasyPluck/53-G74Q.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=851 end=530251 sample=../Audio/EasyPluck/54-ES4Q.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=539 end=529676 sample=../Audio/EasyPluck/55-NS2C.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=875 end=530346 sample=../Audio/EasyPluck/56-5A79.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=836 end=529775 sample=../Audio/EasyPluck/57-THZM.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=711 end=530202 sample=../Audio/EasyPluck/58-DGVI.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=994 end=529734 sample=../Audio/EasyPluck/59-CQJW.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1017 end=529381 sample=../Audio/EasyPluck/60-85QA.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1002 end=530343 sample=../Audio/EasyPluck/61-NMGD.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=742 sample=../Audio/EasyPluck/62-Z141.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1048 end=530343 sample=../Audio/EasyPluck/63-S11Y.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=439 end=529741 sample=../Audio/EasyPluck/64-G4NR.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=631 end=529717 sample=../Audio/EasyPluck/65-PSI3.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1063 sample=../Audio/EasyPluck/66-M49O.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=586 sample=../Audio/EasyPluck/67-HK5X.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=696 end=529669 sample=../Audio/EasyPluck/68-QYXI.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=648 end=530192 sample=../Audio/EasyPluck/69-J9UA.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=639 sample=../Audio/EasyPluck/70-80R5.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=725 end=529790 sample=../Audio/EasyPluck/71-6WM8.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=979 end=530184 sample=../Audio/EasyPluck/72-FZDR.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=575 end=529174 sample=../Audio/EasyPluck/73-8HQN.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=564 end=530337 sample=../Audio/EasyPluck/74-0K5G.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=680 end=529397 sample=../Audio/EasyPluck/75-MHXR.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=841 end=529670 sample=../Audio/EasyPluck/76-SAT2.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1105 end=529683 sample=../Audio/EasyPluck/77-QBG1.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=563 sample=../Audio/EasyPluck/78-BH0O.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=651 sample=../Audio/EasyPluck/79-KWN9.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=634 end=530178 sample=../Audio/EasyPluck/80-QW7W.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=920 sample=../Audio/EasyPluck/81-9JP7.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=344 end=529761 sample=../Audio/EasyPluck/82-VATN.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=702 sample=../Audio/EasyPluck/83-AKM2.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=925 end=530314 sample=../Audio/EasyPluck/84-UGWH.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=937 end=529743 sample=../Audio/EasyPluck/85-77LS.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1030 sample=../Audio/EasyPluck/86-E7CC.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=518 sample=../Audio/EasyPluck/87-MIUE.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=410 end=529245 sample=../Audio/EasyPluck/88-IF9Z.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=720 end=529737 sample=../Audio/EasyPluck/89-4A8C.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=738 end=530220 sample=../Audio/EasyPluck/90-CMKI.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=494 sample=../Audio/EasyPluck/91-293T.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=714 end=529768 sample=../Audio/EasyPluck/92-LBRJ.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=824 sample=../Audio/EasyPluck/93-5FB0.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=948 end=529758 sample=../Audio/EasyPluck/94-MGD5.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=899 sample=../Audio/EasyPluck/95-K8JE.aif
+<group>lokey=96 hikey=127 pitch_keycenter=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=579 sample=../Audio/EasyPluck/96-GVRO.aif

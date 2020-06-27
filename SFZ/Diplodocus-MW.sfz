@@ -1,0 +1,246 @@
+// this file was generated from Diplodocus-MW.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=5 hikey=36 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=952 loop_mode=loop_sustain loop_start=202434 loop_end=308794 sample=../Audio/Diplodocus/36-EWP6.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=857 end=529918 loop_mode=loop_sustain loop_start=202273 loop_end=308636 sample=../Audio/Diplodocus/36-UVLJ.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=615 end=529668 loop_mode=loop_sustain loop_start=100421 loop_end=206791 sample=../Audio/Diplodocus/36-ZPB6.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=1273 loop_mode=loop_sustain loop_start=96693 loop_end=202140 sample=../Audio/Diplodocus/37-M1HC.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=780 end=529829 loop_mode=loop_sustain loop_start=195957 loop_end=301390 sample=../Audio/Diplodocus/37-G2G0.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=626 end=529337 loop_mode=loop_sustain loop_start=204634 loop_end=305009 sample=../Audio/Diplodocus/37-RG53.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=404 end=529818 loop_mode=loop_sustain loop_start=186897 loop_end=278076 sample=../Audio/Diplodocus/38-EZUD.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=944 end=529710 loop_mode=loop_sustain loop_start=92018 loop_end=364353 sample=../Audio/Diplodocus/38-94QH.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=726 loop_mode=loop_sustain loop_start=89518 loop_end=361862 sample=../Audio/Diplodocus/38-7KYO.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=752 end=529677 loop_mode=loop_sustain loop_start=90150 loop_end=359571 sample=../Audio/Diplodocus/39-CE6B.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=590 end=529685 loop_mode=loop_sustain loop_start=26539 loop_end=293721 sample=../Audio/Diplodocus/39-KV9U.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=781 end=529703 loop_mode=loop_sustain loop_start=89599 loop_end=356785 sample=../Audio/Diplodocus/39-QYPA.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=781 loop_mode=loop_sustain loop_start=87273 loop_end=252916 sample=../Audio/Diplodocus/40-NYLA.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=694 end=530375 loop_mode=loop_sustain loop_start=166286 loop_end=331929 sample=../Audio/Diplodocus/40-6TLX.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=988 end=529742 loop_mode=loop_sustain loop_start=168712 loop_end=334355 sample=../Audio/Diplodocus/40-DE1F.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=1065 end=529664 loop_mode=loop_sustain loop_start=79723 loop_end=234056 sample=../Audio/Diplodocus/41-I4UN.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=853 end=529347 loop_mode=loop_sustain loop_start=175522 loop_end=253191 sample=../Audio/Diplodocus/41-ZKNG.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=570 end=529888 loop_mode=loop_sustain loop_start=153862 loop_end=307195 sample=../Audio/Diplodocus/41-C6Q8.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=1279 end=530275 loop_mode=loop_sustain loop_start=72897 loop_end=291892 sample=../Audio/Diplodocus/42-IOCF.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=649 end=529158 loop_mode=loop_sustain loop_start=80296 loop_end=299291 sample=../Audio/Diplodocus/42-ZMNK.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=748 end=529258 loop_mode=loop_sustain loop_start=147088 loop_end=365127 sample=../Audio/Diplodocus/42-LBRF.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=1022 loop_mode=loop_sustain loop_start=74867 loop_end=347178 sample=../Audio/Diplodocus/43-0WLE.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=803 end=529312 loop_mode=loop_sustain loop_start=146081 loop_end=353680 sample=../Audio/Diplodocus/43-B5VT.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=787 end=530361 loop_mode=loop_sustain loop_start=65687 loop_end=344282 sample=../Audio/Diplodocus/43-FGX2.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=869 end=529827 loop_mode=loop_sustain loop_start=67122 loop_end=333445 sample=../Audio/Diplodocus/44-0SSP.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=894 end=530322 loop_mode=loop_sustain loop_start=32948 loop_end=300102 sample=../Audio/Diplodocus/44-PA6H.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=1152 end=529914 loop_mode=loop_sustain loop_start=65314 loop_end=331630 sample=../Audio/Diplodocus/44-0M88.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=865 loop_mode=loop_sustain loop_start=64106 loop_end=248253 sample=../Audio/Diplodocus/45-KYHW.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=724 end=530357 loop_mode=loop_sustain loop_start=185294 loop_end=310975 sample=../Audio/Diplodocus/45-GH4D.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=485 end=529240 loop_mode=loop_sustain loop_start=193728 loop_end=317815 sample=../Audio/Diplodocus/45-KCAC.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=876 end=529673 loop_mode=loop_sustain loop_start=64269 loop_end=354454 sample=../Audio/Diplodocus/46-SEHL.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=628 end=529714 loop_mode=loop_sustain loop_start=68551 loop_end=359493 sample=../Audio/Diplodocus/46-PX8O.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=765 end=530219 loop_mode=loop_sustain loop_start=140667 loop_end=259302 sample=../Audio/Diplodocus/46-66EI.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=764 end=529197 loop_mode=loop_sustain loop_start=115987 loop_end=334965 sample=../Audio/Diplodocus/47-1T6Y.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=864 end=529808 loop_mode=loop_sustain loop_start=55556 loop_end=275239 sample=../Audio/Diplodocus/47-319P.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=665 end=529221 loop_mode=loop_sustain loop_start=167858 loop_end=334039 sample=../Audio/Diplodocus/47-UKMR.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=885 end=529201 loop_mode=loop_sustain loop_start=256484 loop_end=362838 sample=../Audio/Diplodocus/48-MQGH.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=748 end=529872 loop_mode=loop_sustain loop_start=56940 loop_end=364625 sample=../Audio/Diplodocus/48-R36E.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=674 loop_mode=loop_sustain loop_start=154626 loop_end=362657 sample=../Audio/Diplodocus/48-NCAQ.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=659 end=529809 loop_mode=loop_sustain loop_start=197757 loop_end=299412 sample=../Audio/Diplodocus/49-7YNC.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=671 end=529804 loop_mode=loop_sustain loop_start=260011 loop_end=360393 sample=../Audio/Diplodocus/49-9R1S.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=767 end=529244 loop_mode=loop_sustain loop_start=100268 loop_end=296618 sample=../Audio/Diplodocus/49-LDWS.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=761 loop_mode=loop_sustain loop_start=232385 loop_end=327147 sample=../Audio/Diplodocus/50-XZD7.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=1054 end=529783 loop_mode=loop_sustain loop_start=38399 loop_end=365268 sample=../Audio/Diplodocus/50-XC83.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=892 loop_mode=loop_sustain loop_start=38612 loop_end=363696 sample=../Audio/Diplodocus/50-SRYK.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=819 end=529780 loop_mode=loop_sustain loop_start=50358 loop_end=269995 sample=../Audio/Diplodocus/51-KUIF.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=961 end=529878 loop_mode=loop_sustain loop_start=88969 loop_end=307480 sample=../Audio/Diplodocus/51-RNN1.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=861 end=530318 loop_mode=loop_sustain loop_start=89429 loop_end=308503 sample=../Audio/Diplodocus/51-DL3L.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=1137 loop_mode=loop_sustain loop_start=165864 loop_end=330961 sample=../Audio/Diplodocus/52-7SD7.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=1020 end=530364 loop_mode=loop_sustain loop_start=82691 loop_end=248332 sample=../Audio/Diplodocus/52-54MW.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=593 end=529700 loop_mode=loop_sustain loop_start=181231 loop_end=347404 sample=../Audio/Diplodocus/52-8XWJ.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=1227 end=529862 loop_mode=loop_sustain loop_start=42390 loop_end=315247 sample=../Audio/Diplodocus/53-QTFF.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=666 end=529152 loop_mode=loop_sustain loop_start=36417 loop_end=148912 sample=../Audio/Diplodocus/53-84DU.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=857 end=529289 loop_mode=loop_sustain loop_start=78816 loop_end=190813 sample=../Audio/Diplodocus/53-OB5F.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=495 loop_mode=loop_sustain loop_start=224522 loop_end=336852 sample=../Audio/Diplodocus/54-5B69.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=501 end=529252 loop_mode=loop_sustain loop_start=36508 loop_end=149788 sample=../Audio/Diplodocus/54-TSB8.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=1015 end=530361 loop_mode=loop_sustain loop_start=185060 loop_end=296444 sample=../Audio/Diplodocus/54-GN38.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=601 end=529738 loop_mode=loop_sustain loop_start=70624 loop_end=177109 sample=../Audio/Diplodocus/55-PJK8.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=866 end=529721 loop_mode=loop_sustain loop_start=74977 loop_end=347717 sample=../Audio/Diplodocus/55-AXOE.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=1119 end=530413 loop_mode=loop_sustain loop_start=35504 loop_end=141986 sample=../Audio/Diplodocus/55-R097.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=1064 end=529744 loop_mode=loop_sustain loop_start=66233 loop_end=327056 sample=../Audio/Diplodocus/56-M30V.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=740 end=529733 loop_mode=loop_sustain loop_start=34395 loop_end=360963 sample=../Audio/Diplodocus/56-R6DN.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=1125 end=530409 loop_mode=loop_sustain loop_start=66359 loop_end=361955 sample=../Audio/Diplodocus/56-YHES.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=1204 loop_mode=loop_sustain loop_start=185170 loop_end=339276 sample=../Audio/Diplodocus/57-JQCL.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=843 loop_mode=loop_sustain loop_start=154799 loop_end=308907 sample=../Audio/Diplodocus/57-VAG5.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=1065 end=530349 loop_mode=loop_sustain loop_start=30332 loop_end=308930 sample=../Audio/Diplodocus/57-GCR9.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=860 loop_mode=loop_sustain loop_start=92324 loop_end=181856 sample=../Audio/Diplodocus/58-5GCK.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=911 end=529691 loop_mode=loop_sustain loop_start=34162 loop_end=354945 sample=../Audio/Diplodocus/58-1TR0.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=730 loop_mode=loop_sustain loop_start=240085 loop_end=359087 sample=../Audio/Diplodocus/58-8L60.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=718 loop_mode=loop_sustain loop_start=138157 loop_end=356414 sample=../Audio/Diplodocus/59-CHR8.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=754 end=529771 loop_mode=loop_sustain loop_start=87536 loop_end=306138 sample=../Audio/Diplodocus/59-5IQJ.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=501 end=529694 loop_mode=loop_sustain loop_start=111697 loop_end=331020 sample=../Audio/Diplodocus/59-FIKF.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=833 end=529696 loop_mode=loop_sustain loop_start=53703 loop_end=183969 sample=../Audio/Diplodocus/60-C5NL.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=696 loop_mode=loop_sustain loop_start=53311 loop_end=361988 sample=../Audio/Diplodocus/60-57B7.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=913 loop_mode=loop_sustain loop_start=39447 loop_end=270035 sample=../Audio/Diplodocus/60-J6NR.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=547 end=529753 loop_mode=loop_sustain loop_start=128270 loop_end=298884 sample=../Audio/Diplodocus/61-L3OQ.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=787 end=529796 loop_mode=loop_sustain loop_start=95814 loop_end=267689 sample=../Audio/Diplodocus/61-CRNM.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=845 end=529313 loop_mode=loop_sustain loop_start=28280 loop_end=200477 sample=../Audio/Diplodocus/61-4CPY.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=869 end=529681 loop_mode=loop_sustain loop_start=23902 loop_end=349855 sample=../Audio/Diplodocus/62-S9J8.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=836 loop_mode=loop_sustain loop_start=121980 loop_end=352879 sample=../Audio/Diplodocus/62-XFSU.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=1117 end=530201 loop_mode=loop_sustain loop_start=74891 loop_end=352573 sample=../Audio/Diplodocus/62-VJRH.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=1030 end=529679 loop_mode=loop_sustain loop_start=112536 loop_end=331601 sample=../Audio/Diplodocus/63-UT2L.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=866 end=529858 loop_mode=loop_sustain loop_start=88741 loop_end=307521 sample=../Audio/Diplodocus/63-EUD8.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=470 loop_mode=loop_sustain loop_start=65715 loop_end=285069 sample=../Audio/Diplodocus/63-345Y.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=687 end=529669 loop_mode=loop_sustain loop_start=46072 loop_end=354375 sample=../Audio/Diplodocus/64-HBSS.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=843 loop_mode=loop_sustain loop_start=137004 loop_end=362226 sample=../Audio/Diplodocus/64-QF5J.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=657 end=529666 loop_mode=loop_sustain loop_start=26931 loop_end=251619 sample=../Audio/Diplodocus/64-A82C.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=695 end=530230 loop_mode=loop_sustain loop_start=59403 loop_end=332242 sample=../Audio/Diplodocus/65-C9GA.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=1048 end=530196 loop_mode=loop_sustain loop_start=27631 loop_end=139870 sample=../Audio/Diplodocus/65-35NN.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=1077 end=530419 loop_mode=loop_sustain loop_start=172946 loop_end=344689 sample=../Audio/Diplodocus/65-D0A1.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=1085 end=529665 loop_mode=loop_sustain loop_start=185276 loop_end=351153 sample=../Audio/Diplodocus/66-RCFR.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=916 end=529809 loop_mode=loop_sustain loop_start=97392 loop_end=264209 sample=../Audio/Diplodocus/66-EQJH.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=1005 end=529774 loop_mode=loop_sustain loop_start=149252 loop_end=315128 sample=../Audio/Diplodocus/66-1ODU.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=923 end=529691 loop_mode=loop_sustain loop_start=22246 loop_end=126935 sample=../Audio/Diplodocus/67-AJWG.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=749 end=529694 loop_mode=loop_sustain loop_start=172673 loop_end=279144 sample=../Audio/Diplodocus/67-4JFX.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=681 loop_mode=loop_sustain loop_start=91298 loop_end=198884 sample=../Audio/Diplodocus/67-I3K1.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=755 end=529172 loop_mode=loop_sustain loop_start=66019 loop_end=232035 sample=../Audio/Diplodocus/68-51XU.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=968 end=529715 loop_mode=loop_sustain loop_start=66265 loop_end=232073 sample=../Audio/Diplodocus/68-TA8P.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=722 end=529154 loop_mode=loop_sustain loop_start=195975 loop_end=361998 sample=../Audio/Diplodocus/68-Z26Z.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=722 end=530381 loop_mode=loop_sustain loop_start=202859 loop_end=309726 sample=../Audio/Diplodocus/69-JGB5.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=935 end=529715 loop_mode=loop_sustain loop_start=98478 loop_end=329032 sample=../Audio/Diplodocus/69-8OGJ.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=498 end=529187 loop_mode=loop_sustain loop_start=68762 loop_end=299717 sample=../Audio/Diplodocus/69-O6XM.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=692 end=529350 loop_mode=loop_sustain loop_start=131519 loop_end=321178 sample=../Audio/Diplodocus/70-0WZA.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=1002 end=529687 loop_mode=loop_sustain loop_start=30531 loop_end=249653 sample=../Audio/Diplodocus/70-5NWG.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=1118 loop_mode=loop_sustain loop_start=88917 loop_end=308039 sample=../Audio/Diplodocus/70-U4FT.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=615 end=530187 loop_mode=loop_sustain loop_start=32725 loop_end=145217 sample=../Audio/Diplodocus/71-5EWE.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=1223 loop_mode=loop_sustain loop_start=96240 loop_end=208906 sample=../Audio/Diplodocus/71-W9P1.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=1020 end=529773 loop_mode=loop_sustain loop_start=187448 loop_end=300116 sample=../Audio/Diplodocus/71-0P2P.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=995 end=530178 loop_mode=loop_sustain loop_start=122270 loop_end=341055 sample=../Audio/Diplodocus/72-INWU.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=539 loop_mode=loop_sustain loop_start=43883 loop_end=263991 sample=../Audio/Diplodocus/72-Y1AQ.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=884 end=529676 loop_mode=loop_sustain loop_start=29178 loop_end=325540 sample=../Audio/Diplodocus/72-AYIG.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=850 end=530368 loop_mode=loop_sustain loop_start=65058 loop_end=349522 sample=../Audio/Diplodocus/73-041F.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=744 loop_mode=loop_sustain loop_start=104378 loop_end=275293 sample=../Audio/Diplodocus/73-G6TL.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=755 loop_mode=loop_sustain loop_start=172562 loop_end=285328 sample=../Audio/Diplodocus/73-VZXK.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=1214 end=529851 loop_mode=loop_sustain loop_start=161342 loop_end=333446 sample=../Audio/Diplodocus/74-OV7Q.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=626 end=529186 loop_mode=loop_sustain loop_start=136596 loop_end=308552 sample=../Audio/Diplodocus/74-JWEF.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=849 end=529178 loop_mode=loop_sustain loop_start=171967 loop_end=343771 sample=../Audio/Diplodocus/74-149A.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=731 end=529166 loop_mode=loop_sustain loop_start=78505 loop_end=363203 sample=../Audio/Diplodocus/75-CWFZ.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=728 loop_mode=loop_sustain loop_start=219458 loop_end=338607 sample=../Audio/Diplodocus/75-WV0O.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=871 end=530188 loop_mode=loop_sustain loop_start=89342 loop_end=308383 sample=../Audio/Diplodocus/75-HOSR.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=744 loop_mode=loop_sustain loop_start=214307 loop_end=326510 sample=../Audio/Diplodocus/76-NC1J.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=1262 end=529683 loop_mode=loop_sustain loop_start=60581 loop_end=232497 sample=../Audio/Diplodocus/76-3RVA.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=1090 end=529741 loop_mode=loop_sustain loop_start=173084 loop_end=345001 sample=../Audio/Diplodocus/76-BKNM.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=893 loop_mode=loop_sustain loop_start=208743 loop_end=327487 sample=../Audio/Diplodocus/77-2MJC.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=790 end=530334 loop_mode=loop_sustain loop_start=181065 loop_end=299558 sample=../Audio/Diplodocus/77-0OJC.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=1112 end=530818 loop_mode=loop_sustain loop_start=119043 loop_end=237536 sample=../Audio/Diplodocus/77-01L2.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=857 loop_mode=loop_sustain loop_start=131857 loop_end=297698 sample=../Audio/Diplodocus/78-OQ8J.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=1150 loop_mode=loop_sustain loop_start=195398 loop_end=361957 sample=../Audio/Diplodocus/78-MYEB.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=642 end=529692 loop_mode=loop_sustain loop_start=177598 loop_end=343916 sample=../Audio/Diplodocus/78-24AC.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=846 end=529672 loop_mode=loop_sustain loop_start=141749 loop_end=307618 sample=../Audio/Diplodocus/79-EEGL.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=979 end=529749 loop_mode=loop_sustain loop_start=240624 loop_end=352488 sample=../Audio/Diplodocus/79-BN3S.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=894 end=530346 loop_mode=loop_sustain loop_start=142605 loop_end=255359 sample=../Audio/Diplodocus/79-CM44.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=852 end=530213 loop_mode=loop_sustain loop_start=237959 loop_end=356455 sample=../Audio/Diplodocus/80-7Z7C.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=664 end=530229 loop_mode=loop_sustain loop_start=74724 loop_end=193219 sample=../Audio/Diplodocus/80-64E4.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=799 loop_mode=loop_sustain loop_start=234599 loop_end=353096 sample=../Audio/Diplodocus/80-RGAB.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=1014 end=530215 loop_mode=loop_sustain loop_start=94810 loop_end=272692 sample=../Audio/Diplodocus/81-14IU.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=828 end=529674 loop_mode=loop_sustain loop_start=116164 loop_end=293948 sample=../Audio/Diplodocus/81-8GT9.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=889 loop_mode=loop_sustain loop_start=122227 loop_end=300010 sample=../Audio/Diplodocus/81-C9UX.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=862 end=529668 loop_mode=loop_sustain loop_start=141864 loop_end=260375 sample=../Audio/Diplodocus/82-FCGU.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=1004 end=530215 loop_mode=loop_sustain loop_start=234375 loop_end=353355 sample=../Audio/Diplodocus/82-OVH0.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=998 end=529669 loop_mode=loop_sustain loop_start=205234 loop_end=323748 sample=../Audio/Diplodocus/82-YVKJ.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=1100 end=529680 loop_mode=loop_sustain loop_start=98857 loop_end=205466 sample=../Audio/Diplodocus/83-8DTB.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=1004 end=529673 loop_mode=loop_sustain loop_start=38980 loop_end=150595 sample=../Audio/Diplodocus/83-ZPG5.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=753 end=529735 loop_mode=loop_sustain loop_start=39132 loop_end=151719 sample=../Audio/Diplodocus/83-1DN2.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=1147 end=530199 loop_mode=loop_sustain loop_start=51922 loop_end=360132 sample=../Audio/Diplodocus/84-6M9N.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=1140 end=530180 loop_mode=loop_sustain loop_start=29164 loop_end=147602 sample=../Audio/Diplodocus/84-JZB7.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=842 end=529175 loop_mode=loop_sustain loop_start=60221 loop_end=178993 sample=../Audio/Diplodocus/84-IJP9.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=1020 end=530181 loop_mode=loop_sustain loop_start=152355 loop_end=330185 sample=../Audio/Diplodocus/85-D50Q.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=852 end=529675 loop_mode=loop_sustain loop_start=181470 loop_end=353264 sample=../Audio/Diplodocus/85-AE3O.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=751 end=530177 loop_mode=loop_sustain loop_start=175361 loop_end=347156 sample=../Audio/Diplodocus/85-G6JC.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=940 loop_mode=loop_sustain loop_start=172810 loop_end=338690 sample=../Audio/Diplodocus/86-YI8V.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=614 end=529818 loop_mode=loop_sustain loop_start=172593 loop_end=344470 sample=../Audio/Diplodocus/86-3483.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=869 end=529689 loop_mode=loop_sustain loop_start=172494 loop_end=344297 sample=../Audio/Diplodocus/86-PKVC.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=963 end=530198 loop_mode=loop_sustain loop_start=136223 loop_end=303031 sample=../Audio/Diplodocus/87-YYG6.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=1239 end=530264 loop_mode=loop_sustain loop_start=39902 loop_end=342082 sample=../Audio/Diplodocus/87-U9C7.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=616 end=529739 loop_mode=loop_sustain loop_start=59792 loop_end=225735 sample=../Audio/Diplodocus/87-40RJ.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=761 end=529693 loop_mode=loop_sustain loop_start=134396 loop_end=359615 sample=../Audio/Diplodocus/88-NPNH.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=877 loop_mode=loop_sustain loop_start=98324 loop_end=210535 sample=../Audio/Diplodocus/88-9ZMT.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=862 loop_mode=loop_sustain loop_start=143144 loop_end=255749 sample=../Audio/Diplodocus/88-A1I3.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=980 end=530195 loop_mode=loop_sustain loop_start=158166 loop_end=276721 sample=../Audio/Diplodocus/89-4F08.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=970 end=530206 loop_mode=loop_sustain loop_start=196395 loop_end=315013 sample=../Audio/Diplodocus/89-EH5F.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=1022 end=530179 loop_mode=loop_sustain loop_start=142658 loop_end=261214 sample=../Audio/Diplodocus/89-H3DB.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=633 loop_mode=loop_sustain loop_start=223241 loop_end=329954 sample=../Audio/Diplodocus/90-POYA.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=1015 end=530695 loop_mode=loop_sustain loop_start=65944 loop_end=362345 sample=../Audio/Diplodocus/90-KZEF.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=726 loop_mode=loop_sustain loop_start=60012 loop_end=231854 sample=../Audio/Diplodocus/90-U17D.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=934 end=530695 loop_mode=loop_sustain loop_start=110806 loop_end=229341 sample=../Audio/Diplodocus/91-DK8Q.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=1255 end=530184 loop_mode=loop_sustain loop_start=97564 loop_end=216321 sample=../Audio/Diplodocus/91-QUXH.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=850 end=529664 loop_mode=loop_sustain loop_start=36223 loop_end=154759 sample=../Audio/Diplodocus/91-T7MP.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=1276 end=530225 loop_mode=loop_sustain loop_start=170394 loop_end=336387 sample=../Audio/Diplodocus/92-STP4.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=754 end=530207 loop_mode=loop_sustain loop_start=226025 loop_end=338611 sample=../Audio/Diplodocus/92-TS3H.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=688 end=529679 loop_mode=loop_sustain loop_start=142139 loop_end=254834 sample=../Audio/Diplodocus/92-K12A.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=999 end=530396 loop_mode=loop_sustain loop_start=105062 loop_end=223605 sample=../Audio/Diplodocus/93-EWJF.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=1023 loop_mode=loop_sustain loop_start=188141 loop_end=306684 sample=../Audio/Diplodocus/93-O54A.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=736 end=529689 loop_mode=loop_sustain loop_start=47814 loop_end=166308 sample=../Audio/Diplodocus/93-XP77.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=633 loop_mode=loop_sustain loop_start=104386 loop_end=270311 sample=../Audio/Diplodocus/94-2UA3.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=850 end=530185 loop_mode=loop_sustain loop_start=92354 loop_end=204937 sample=../Audio/Diplodocus/94-3NSN.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=1023 loop_mode=loop_sustain loop_start=232111 loop_end=344696 sample=../Audio/Diplodocus/94-I5TV.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=626 end=529680 loop_mode=loop_sustain loop_start=71873 loop_end=237799 sample=../Audio/Diplodocus/95-6U2W.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=991 end=530197 loop_mode=loop_sustain loop_start=98742 loop_end=270593 sample=../Audio/Diplodocus/95-0IW7.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=971 end=529217 loop_mode=loop_sustain loop_start=98640 loop_end=270581 sample=../Audio/Diplodocus/95-LLAY.aif
+<group>lokey=96 hikey=125 pitch_keycenter=96 pitch_keytrack=1
+	<region> lovel=001 hivel=014 amp_velcurve_014=1 offset=878 end=530186 loop_mode=loop_sustain loop_start=163384 loop_end=329704 sample=../Audio/Diplodocus/96-KRH0.aif
+	<region> lovel=015 hivel=056 amp_velcurve_056=1 offset=695 end=529671 loop_mode=loop_sustain loop_start=181085 loop_end=346411 sample=../Audio/Diplodocus/96-YQV9.aif
+	<region> lovel=057 hivel=127 amp_velcurve_127=1 offset=534 loop_mode=loop_sustain loop_start=144684 loop_end=269923 sample=../Audio/Diplodocus/96-2AZA.aif

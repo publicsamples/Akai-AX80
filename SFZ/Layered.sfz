@@ -1,0 +1,307 @@
+// this file was generated from Layered.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=8 hikey=36 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=970 sample=../Audio/Layered/36-LZ9H.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=1044 end=529677 sample=../Audio/Layered/36-SIU5.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=457 end=529771 sample=../Audio/Layered/36-1ELA.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=757 end=530341 sample=../Audio/Layered/36-84RB.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=372 end=529670 sample=../Audio/Layered/37-857M.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=512 end=529698 sample=../Audio/Layered/37-27EX.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=1042 end=530207 sample=../Audio/Layered/37-XV85.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=589 end=529867 sample=../Audio/Layered/37-MWE2.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=704 sample=../Audio/Layered/38-3G4M.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=720 end=529266 sample=../Audio/Layered/38-I9BA.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=766 sample=../Audio/Layered/38-7727.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=551 end=529664 sample=../Audio/Layered/38-SJP7.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=727 end=529160 sample=../Audio/Layered/39-G8CZ.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=406 sample=../Audio/Layered/39-5G0G.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=698 sample=../Audio/Layered/39-C2G9.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=350 end=529862 sample=../Audio/Layered/39-UCEH.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=612 end=529797 sample=../Audio/Layered/40-FRRD.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=751 end=529664 sample=../Audio/Layered/40-8LNK.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=657 end=529829 sample=../Audio/Layered/40-OW9V.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=562 sample=../Audio/Layered/40-IQI0.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=726 end=529158 sample=../Audio/Layered/41-IYCC.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=742 sample=../Audio/Layered/41-8812.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=415 sample=../Audio/Layered/41-YH4M.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=732 end=529703 sample=../Audio/Layered/41-8KIS.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=597 end=529690 sample=../Audio/Layered/42-WH7U.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=861 sample=../Audio/Layered/42-FRRK.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=1048 end=530370 sample=../Audio/Layered/42-BP0Y.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=849 end=529680 sample=../Audio/Layered/42-KRKC.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=535 end=529178 sample=../Audio/Layered/43-BK62.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=555 end=529674 sample=../Audio/Layered/43-U24U.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=671 end=530227 sample=../Audio/Layered/43-EG0G.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=786 end=530754 sample=../Audio/Layered/43-V710.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=726 sample=../Audio/Layered/44-R8LL.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=998 end=529664 sample=../Audio/Layered/44-2WW1.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=713 end=529213 sample=../Audio/Layered/44-KFJ7.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=831 end=530193 sample=../Audio/Layered/44-NIIU.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=727 end=529668 sample=../Audio/Layered/45-1F2H.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=650 end=529679 sample=../Audio/Layered/45-C0IA.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=727 sample=../Audio/Layered/45-CXR9.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=737 end=529717 sample=../Audio/Layered/45-ETMH.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=970 end=529171 sample=../Audio/Layered/46-DN9I.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=609 end=530206 sample=../Audio/Layered/46-A88M.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=547 end=529152 sample=../Audio/Layered/46-AFNB.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=913 end=530184 sample=../Audio/Layered/46-RE5E.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=649 sample=../Audio/Layered/47-J8D6.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=793 end=530740 sample=../Audio/Layered/47-DZE8.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=724 end=529668 sample=../Audio/Layered/47-CONS.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=344 end=529725 sample=../Audio/Layered/47-LDPX.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=617 end=529200 sample=../Audio/Layered/48-V3QR.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=507 end=529712 sample=../Audio/Layered/48-DSXQ.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=1105 end=529729 sample=../Audio/Layered/48-P1A1.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=922 sample=../Audio/Layered/48-1XDM.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=762 end=529267 sample=../Audio/Layered/49-STB5.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=804 end=529687 sample=../Audio/Layered/49-Q7UI.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=773 end=529682 sample=../Audio/Layered/49-ZGPG.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=478 end=530235 sample=../Audio/Layered/49-R35Q.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=797 end=529894 sample=../Audio/Layered/50-7LLT.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=965 end=529664 sample=../Audio/Layered/50-JBN4.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=1037 end=529668 sample=../Audio/Layered/50-5YM4.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=758 end=529839 sample=../Audio/Layered/50-HL8O.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=626 end=529163 sample=../Audio/Layered/51-6U5E.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=697 end=530197 sample=../Audio/Layered/51-FU22.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=790 end=529689 sample=../Audio/Layered/51-QRWA.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=289 end=529753 sample=../Audio/Layered/51-QL7T.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=1085 end=530196 sample=../Audio/Layered/52-VZPW.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=754 end=529671 sample=../Audio/Layered/52-XUJ4.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=731 end=529688 sample=../Audio/Layered/52-0DWG.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=834 end=529664 sample=../Audio/Layered/52-F1MD.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=1094 end=530321 sample=../Audio/Layered/53-3MFY.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=522 sample=../Audio/Layered/53-G4NH.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=896 sample=../Audio/Layered/53-LXPU.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=884 end=529715 sample=../Audio/Layered/53-YDSD.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=447 end=529686 sample=../Audio/Layered/54-ZUSG.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=765 sample=../Audio/Layered/54-IUQP.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=737 end=529664 sample=../Audio/Layered/54-STLU.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=476 end=530252 sample=../Audio/Layered/54-4ZAS.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=620 end=529673 sample=../Audio/Layered/55-LQKB.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=943 end=530181 sample=../Audio/Layered/55-7430.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=408 end=529670 sample=../Audio/Layered/55-S3SM.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=693 end=530221 sample=../Audio/Layered/55-83FF.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=887 sample=../Audio/Layered/56-H2CW.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=821 end=529684 sample=../Audio/Layered/56-7Q8X.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=849 sample=../Audio/Layered/56-VNB3.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=1018 end=529814 sample=../Audio/Layered/56-7JNH.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=530 end=530190 sample=../Audio/Layered/57-2RKD.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=585 end=529680 sample=../Audio/Layered/57-P0LZ.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=363 end=529203 sample=../Audio/Layered/57-HLS7.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=597 sample=../Audio/Layered/57-PL2H.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=966 end=530710 sample=../Audio/Layered/58-GZRC.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=451 sample=../Audio/Layered/58-ZL6F.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=949 end=529674 sample=../Audio/Layered/58-K7KH.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=596 end=530292 sample=../Audio/Layered/58-IS5G.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=518 sample=../Audio/Layered/59-PTFV.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=514 sample=../Audio/Layered/59-YBCE.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=663 end=529666 sample=../Audio/Layered/59-EA44.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=698 sample=../Audio/Layered/59-762W.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=964 end=529712 sample=../Audio/Layered/60-W8NP.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=1140 end=529674 sample=../Audio/Layered/60-LMAG.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=697 sample=../Audio/Layered/60-RZ8Y.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=802 sample=../Audio/Layered/60-GJIV.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=898 end=529676 sample=../Audio/Layered/61-22QC.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=334 end=529160 sample=../Audio/Layered/61-C1MG.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=822 end=529677 sample=../Audio/Layered/61-UQ6O.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=433 end=529349 sample=../Audio/Layered/61-A6B3.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=724 end=530199 sample=../Audio/Layered/62-0FM4.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=767 sample=../Audio/Layered/62-C4G5.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=970 end=529690 sample=../Audio/Layered/62-VNX3.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=813 sample=../Audio/Layered/62-87CD.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=1038 end=530239 sample=../Audio/Layered/63-FF1V.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=1030 end=530714 sample=../Audio/Layered/63-CH1L.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=729 end=529171 sample=../Audio/Layered/63-K4TB.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=990 end=529685 sample=../Audio/Layered/63-HADK.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=1063 end=529691 sample=../Audio/Layered/64-Y3GG.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=668 end=529193 sample=../Audio/Layered/64-0C39.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=1047 sample=../Audio/Layered/64-YTEI.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=647 end=529671 sample=../Audio/Layered/64-0SIR.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=646 end=529204 sample=../Audio/Layered/65-SZWZ.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=520 end=530184 sample=../Audio/Layered/65-TDU3.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=842 end=530256 sample=../Audio/Layered/65-JFF3.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=930 end=529666 sample=../Audio/Layered/65-RGGU.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=783 end=529276 sample=../Audio/Layered/66-Y5Z7.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=934 end=529699 sample=../Audio/Layered/66-NSLJ.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=952 end=530702 sample=../Audio/Layered/66-P7PW.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=699 sample=../Audio/Layered/66-RLYM.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=621 end=529165 sample=../Audio/Layered/67-JEYN.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=937 end=529705 sample=../Audio/Layered/67-XNLA.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=617 end=529196 sample=../Audio/Layered/67-VIIP.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=461 end=529160 sample=../Audio/Layered/67-6ADS.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=557 end=529667 sample=../Audio/Layered/68-Q2ZF.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=914 sample=../Audio/Layered/68-LOTM.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=1004 end=529665 sample=../Audio/Layered/68-1HCR.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=585 sample=../Audio/Layered/68-26TW.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=804 end=529212 sample=../Audio/Layered/69-Z9YA.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=1021 end=529152 sample=../Audio/Layered/69-R1I8.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=842 end=529699 sample=../Audio/Layered/69-ZSKJ.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=427 sample=../Audio/Layered/69-4K39.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=692 sample=../Audio/Layered/70-417G.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=674 end=529282 sample=../Audio/Layered/70-SLQ3.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=535 sample=../Audio/Layered/70-O0H0.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=801 end=529664 sample=../Audio/Layered/70-KHB6.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=801 sample=../Audio/Layered/71-9SWR.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=683 end=529205 sample=../Audio/Layered/71-EYC8.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=544 sample=../Audio/Layered/71-KYLK.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=935 sample=../Audio/Layered/71-ES4E.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=632 sample=../Audio/Layered/72-ADIW.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=928 end=529167 sample=../Audio/Layered/72-117N.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=1107 end=530187 sample=../Audio/Layered/72-2JFM.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=776 sample=../Audio/Layered/72-GBN3.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=414 end=529204 sample=../Audio/Layered/73-LN0W.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=591 end=529673 sample=../Audio/Layered/73-0E9E.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=763 sample=../Audio/Layered/73-XWP8.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=441 end=530180 sample=../Audio/Layered/73-HSOI.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=933 end=529693 sample=../Audio/Layered/74-P6EZ.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=1041 end=530179 sample=../Audio/Layered/74-PTVA.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=744 sample=../Audio/Layered/74-O50K.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=579 end=530201 sample=../Audio/Layered/74-6IQS.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=1045 end=529681 sample=../Audio/Layered/75-EDIJ.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=568 sample=../Audio/Layered/75-RAS7.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=447 end=530209 sample=../Audio/Layered/75-PA9N.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=443 end=529667 sample=../Audio/Layered/75-KFPJ.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=628 end=529709 sample=../Audio/Layered/76-NCWY.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=658 end=529740 sample=../Audio/Layered/76-LEQC.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=908 end=529222 sample=../Audio/Layered/76-A7DS.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=786 sample=../Audio/Layered/76-M2FT.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=933 end=529723 sample=../Audio/Layered/77-J4MG.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=530 end=529713 sample=../Audio/Layered/77-X900.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=1077 end=529827 sample=../Audio/Layered/77-P3W6.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=582 end=529171 sample=../Audio/Layered/77-LTHW.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=1137 sample=../Audio/Layered/78-CTNE.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=942 end=530250 sample=../Audio/Layered/78-ZD61.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=462 end=529665 sample=../Audio/Layered/78-JKUQ.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=747 end=530185 sample=../Audio/Layered/78-YC4U.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=831 sample=../Audio/Layered/79-CGFN.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=559 sample=../Audio/Layered/79-DRYF.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=908 sample=../Audio/Layered/79-38FF.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=771 end=529666 sample=../Audio/Layered/79-KEA4.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=707 sample=../Audio/Layered/80-VEHB.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=1117 sample=../Audio/Layered/80-LW5C.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=860 sample=../Audio/Layered/80-0OD6.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=1082 end=530213 sample=../Audio/Layered/80-9XHC.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=860 end=529279 sample=../Audio/Layered/81-50NV.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=508 sample=../Audio/Layered/81-RBB5.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=549 end=529676 sample=../Audio/Layered/81-1JD6.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=557 sample=../Audio/Layered/81-HU9C.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=660 end=529206 sample=../Audio/Layered/82-NPNR.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=811 end=529731 sample=../Audio/Layered/82-6G2R.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=922 end=529668 sample=../Audio/Layered/82-OHET.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=872 sample=../Audio/Layered/82-PUMN.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=964 end=530288 sample=../Audio/Layered/83-BSZB.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=702 end=530245 sample=../Audio/Layered/83-AOOY.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=522 sample=../Audio/Layered/83-KL78.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=1001 end=529686 sample=../Audio/Layered/83-WN2V.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=535 end=530200 sample=../Audio/Layered/84-V0ZY.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=1076 end=530258 sample=../Audio/Layered/84-06J4.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=960 end=529667 sample=../Audio/Layered/84-BLND.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=1107 sample=../Audio/Layered/84-VHCT.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=856 end=530254 sample=../Audio/Layered/85-SMDX.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=776 sample=../Audio/Layered/85-1TPZ.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=419 end=528641 sample=../Audio/Layered/85-8A3V.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=586 end=529703 sample=../Audio/Layered/85-V033.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=1064 end=529668 sample=../Audio/Layered/86-ZPTX.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=658 sample=../Audio/Layered/86-JDFW.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=964 end=529706 sample=../Audio/Layered/86-7VGA.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=794 end=530200 sample=../Audio/Layered/86-D97J.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=616 sample=../Audio/Layered/87-F31P.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=582 sample=../Audio/Layered/87-7X8Q.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=778 sample=../Audio/Layered/87-IS2D.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=853 end=529681 sample=../Audio/Layered/87-BYH5.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=1109 end=530207 sample=../Audio/Layered/88-UQ1S.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=777 end=529773 sample=../Audio/Layered/88-HZLE.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=660 end=529703 sample=../Audio/Layered/88-4AH4.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=658 end=529171 sample=../Audio/Layered/88-AGE5.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=1030 end=530181 sample=../Audio/Layered/89-X0LO.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=892 sample=../Audio/Layered/89-NRFT.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=782 sample=../Audio/Layered/89-KFEU.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=660 end=529187 sample=../Audio/Layered/89-S6M0.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=560 end=529192 sample=../Audio/Layered/90-DZJW.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=871 end=529690 sample=../Audio/Layered/90-0KS0.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=863 end=530190 sample=../Audio/Layered/90-VMG7.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=799 end=529709 sample=../Audio/Layered/90-UVTQ.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=1075 end=530240 sample=../Audio/Layered/91-PKB8.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=976 sample=../Audio/Layered/91-N3V3.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=741 sample=../Audio/Layered/91-2E58.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=744 sample=../Audio/Layered/91-BR1J.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=953 end=529703 sample=../Audio/Layered/92-MY19.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=982 end=530316 sample=../Audio/Layered/92-SQJM.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=843 sample=../Audio/Layered/92-57K5.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=952 end=529664 sample=../Audio/Layered/92-PV1U.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=954 end=530179 sample=../Audio/Layered/93-06RA.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=702 end=529718 sample=../Audio/Layered/93-86RE.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=341 end=529682 sample=../Audio/Layered/93-IPWN.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=909 sample=../Audio/Layered/93-GV0Z.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=660 end=530178 sample=../Audio/Layered/94-SEPG.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=1022 sample=../Audio/Layered/94-1EGJ.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=881 end=530190 sample=../Audio/Layered/94-QYSG.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=598 end=529698 sample=../Audio/Layered/94-798B.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=383 end=529675 sample=../Audio/Layered/95-GCXS.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=416 end=529683 sample=../Audio/Layered/95-RKZB.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=516 end=530346 sample=../Audio/Layered/95-OWVG.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=773 end=530183 sample=../Audio/Layered/95-NW89.aif
+<group>lokey=96 hikey=127 pitch_keycenter=96 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=438 sample=../Audio/Layered/96-SITL.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=563 sample=../Audio/Layered/96-AI80.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=781 sample=../Audio/Layered/96-M6OP.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=955 end=529679 sample=../Audio/Layered/96-ZDMM.aif
