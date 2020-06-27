@@ -1,0 +1,124 @@
+// this file was generated from Simple Rise.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=6 hikey=36 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=962 end=353880 sample=../Audio/Simple Rise/36-HTAP.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=799 end=354183 sample=../Audio/Simple Rise/37-KY0F.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=693 end=353735 sample=../Audio/Simple Rise/38-4OCA.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=705 end=354563 sample=../Audio/Simple Rise/39-N60G.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=535 end=353889 sample=../Audio/Simple Rise/40-R45Y.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=773 end=353856 sample=../Audio/Simple Rise/41-8UV7.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=810 end=354301 sample=../Audio/Simple Rise/42-AMRK.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=464 end=354237 sample=../Audio/Simple Rise/43-H87M.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=922 end=354197 sample=../Audio/Simple Rise/44-76E9.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=706 end=353956 sample=../Audio/Simple Rise/45-XARQ.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=591 end=353911 sample=../Audio/Simple Rise/46-DVWN.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=744 end=354355 sample=../Audio/Simple Rise/47-109M.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=543 end=353958 sample=../Audio/Simple Rise/48-H61B.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=557 end=353487 sample=../Audio/Simple Rise/49-XPB8.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=805 end=354049 sample=../Audio/Simple Rise/50-Q5HS.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=578 end=353522 sample=../Audio/Simple Rise/51-H3M9.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1059 end=354617 sample=../Audio/Simple Rise/52-NHTZ.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=467 end=353980 sample=../Audio/Simple Rise/53-74HA.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=743 end=353853 sample=../Audio/Simple Rise/54-S2SY.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=926 end=354525 sample=../Audio/Simple Rise/55-0ZHH.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=816 end=354470 sample=../Audio/Simple Rise/56-2R69.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1127 end=354104 sample=../Audio/Simple Rise/57-S4A5.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=393 end=354307 sample=../Audio/Simple Rise/58-ZMBR.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=710 end=354250 sample=../Audio/Simple Rise/59-VUGB.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=941 end=354522 sample=../Audio/Simple Rise/60-5H2R.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1012 end=353981 sample=../Audio/Simple Rise/61-KUTC.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1032 end=354312 sample=../Audio/Simple Rise/62-KRKY.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=671 end=354221 sample=../Audio/Simple Rise/63-HBC8.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=518 end=354106 sample=../Audio/Simple Rise/64-IXC5.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=822 end=354445 sample=../Audio/Simple Rise/65-ERB5.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1123 end=354743 sample=../Audio/Simple Rise/66-NXZ6.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=330 end=354113 sample=../Audio/Simple Rise/67-5NUD.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=825 end=354460 sample=../Audio/Simple Rise/68-0YHD.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=522 end=354055 sample=../Audio/Simple Rise/69-B78O.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=804 end=354111 sample=../Audio/Simple Rise/70-Q9Y7.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=829 end=354447 sample=../Audio/Simple Rise/71-MJ18.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=622 end=353874 sample=../Audio/Simple Rise/72-K5TL.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=799 end=353750 sample=../Audio/Simple Rise/73-J72O.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=995 end=354338 sample=../Audio/Simple Rise/74-EXR8.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=849 end=354054 sample=../Audio/Simple Rise/75-GE46.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1078 end=354645 sample=../Audio/Simple Rise/76-GDJ8.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1047 end=353890 sample=../Audio/Simple Rise/77-PN18.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=596 end=354159 sample=../Audio/Simple Rise/78-HELT.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=639 end=353798 sample=../Audio/Simple Rise/79-JMU2.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=916 end=353975 sample=../Audio/Simple Rise/80-WATE.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=795 end=354126 sample=../Audio/Simple Rise/81-P61B.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=932 end=354079 sample=../Audio/Simple Rise/82-8EEF.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=826 end=354394 sample=../Audio/Simple Rise/83-93J7.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1142 end=354664 sample=../Audio/Simple Rise/84-DR0Q.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=666 end=354219 sample=../Audio/Simple Rise/85-TS6W.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=569 end=353478 sample=../Audio/Simple Rise/86-Y0BU.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=710 end=354536 sample=../Audio/Simple Rise/87-GEE0.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=494 end=354040 sample=../Audio/Simple Rise/88-NGAG.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=862 end=353889 sample=../Audio/Simple Rise/89-8SVR.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=609 end=354033 sample=../Audio/Simple Rise/90-7OCE.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=797 end=353907 sample=../Audio/Simple Rise/91-A733.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=649 end=354153 sample=../Audio/Simple Rise/92-7AVX.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=870 end=353688 sample=../Audio/Simple Rise/93-BVOI.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=875 end=354366 sample=../Audio/Simple Rise/94-AK9C.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=625 end=353488 sample=../Audio/Simple Rise/95-C5B8.aif
+<group>lokey=96 hikey=125 pitch_keycenter=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=558 sample=../Audio/Simple Rise/96-KMFU.aif

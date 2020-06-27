@@ -1,0 +1,307 @@
+// this file was generated from VeloBass.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=36 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=732 end=180993 sample=../Audio/VeloBass/36-H4TO.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=920 end=182649 sample=../Audio/VeloBass/36-38KC.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=777 end=182118 sample=../Audio/VeloBass/36-6YCE.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=544 sample=../Audio/VeloBass/36-RCJO.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=566 end=183439 sample=../Audio/VeloBass/37-OFE2.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=916 end=188099 sample=../Audio/VeloBass/37-U7W7.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=650 end=188161 sample=../Audio/VeloBass/37-DF88.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=698 end=181593 sample=../Audio/VeloBass/37-WN6X.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=933 end=186614 sample=../Audio/VeloBass/38-3D1P.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=615 end=190843 sample=../Audio/VeloBass/38-0F2A.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=743 sample=../Audio/VeloBass/38-LJ4V.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=617 end=183125 sample=../Audio/VeloBass/38-P42G.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=972 end=183484 sample=../Audio/VeloBass/39-U68K.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=842 sample=../Audio/VeloBass/39-XY8R.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=711 end=183119 sample=../Audio/VeloBass/39-5M94.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=865 end=183864 sample=../Audio/VeloBass/39-8ZGU.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=839 end=186071 sample=../Audio/VeloBass/40-QTRC.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=651 end=180684 sample=../Audio/VeloBass/40-N3IE.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=1140 end=179130 sample=../Audio/VeloBass/40-0GRW.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=761 end=185558 sample=../Audio/VeloBass/40-OD37.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=688 end=191566 sample=../Audio/VeloBass/41-GMST.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=652 end=184824 sample=../Audio/VeloBass/41-N5SG.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=777 end=178760 sample=../Audio/VeloBass/41-SFDB.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=938 end=189500 sample=../Audio/VeloBass/41-L4XS.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=669 end=181727 sample=../Audio/VeloBass/42-FQ4C.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=848 end=184203 sample=../Audio/VeloBass/42-6WW4.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=842 end=189696 sample=../Audio/VeloBass/42-LNVZ.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=1005 end=184309 sample=../Audio/VeloBass/42-P680.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=631 end=184235 sample=../Audio/VeloBass/43-5T0N.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=747 end=180158 sample=../Audio/VeloBass/43-W4PS.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=971 end=185452 sample=../Audio/VeloBass/43-X9E5.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=852 end=183946 sample=../Audio/VeloBass/43-F5SX.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=844 end=179506 sample=../Audio/VeloBass/44-JP9Q.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=641 end=181968 sample=../Audio/VeloBass/44-WQON.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=606 end=181974 sample=../Audio/VeloBass/44-W1IT.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=873 end=185565 sample=../Audio/VeloBass/44-G0LG.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=526 end=179306 sample=../Audio/VeloBass/45-YE5A.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=724 end=179494 sample=../Audio/VeloBass/45-YGEJ.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=979 end=184405 sample=../Audio/VeloBass/45-RVI1.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=852 end=184174 sample=../Audio/VeloBass/45-3EPB.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=829 end=187863 sample=../Audio/VeloBass/46-GBVJ.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=834 end=185225 sample=../Audio/VeloBass/46-DG8F.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=765 end=180712 sample=../Audio/VeloBass/46-2E3H.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=813 end=179001 sample=../Audio/VeloBass/46-A5K6.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=844 end=184712 sample=../Audio/VeloBass/47-3HMZ.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=918 end=184253 sample=../Audio/VeloBass/47-VUPT.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=649 end=178540 sample=../Audio/VeloBass/47-IHI9.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=690 end=178732 sample=../Audio/VeloBass/47-QNWG.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=646 sample=../Audio/VeloBass/48-K1Q7.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=964 end=181689 sample=../Audio/VeloBass/48-Q13F.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=693 end=179035 sample=../Audio/VeloBass/48-LCWY.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=810 end=182060 sample=../Audio/VeloBass/48-NAT0.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=819 end=181982 sample=../Audio/VeloBass/49-01CJ.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=538 end=182626 sample=../Audio/VeloBass/49-1H7D.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=776 end=181517 sample=../Audio/VeloBass/49-VCGI.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=814 end=181919 sample=../Audio/VeloBass/49-N0TN.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=1055 end=187803 sample=../Audio/VeloBass/50-EAB2.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=889 end=184351 sample=../Audio/VeloBass/50-8Z06.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=997 end=183079 sample=../Audio/VeloBass/50-5LTD.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=505 end=185103 sample=../Audio/VeloBass/50-H2HS.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=661 end=183843 sample=../Audio/VeloBass/51-ZRAW.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=1144 end=182749 sample=../Audio/VeloBass/51-R8IM.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=628 end=182498 sample=../Audio/VeloBass/51-J0ZZ.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=515 end=184308 sample=../Audio/VeloBass/51-XDTO.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=1006 end=180271 sample=../Audio/VeloBass/52-W4R9.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=571 end=183393 sample=../Audio/VeloBass/52-V9DO.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=926 end=183463 sample=../Audio/VeloBass/52-LBWL.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=943 end=179034 sample=../Audio/VeloBass/52-YYKU.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=1079 end=178166 sample=../Audio/VeloBass/53-3FGX.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=625 end=182591 sample=../Audio/VeloBass/53-SVQ2.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=626 end=182986 sample=../Audio/VeloBass/53-UYFE.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=788 end=185183 sample=../Audio/VeloBass/53-MAMD.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=1279 end=184301 sample=../Audio/VeloBass/54-TXQP.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=439 end=178533 sample=../Audio/VeloBass/54-DAL7.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=956 end=181059 sample=../Audio/VeloBass/54-6MJK.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=968 end=184326 sample=../Audio/VeloBass/54-KN3Q.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=614 end=186084 sample=../Audio/VeloBass/55-I53R.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=439 end=183035 sample=../Audio/VeloBass/55-DR4W.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=831 end=182145 sample=../Audio/VeloBass/55-GVTJ.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=713 end=182762 sample=../Audio/VeloBass/55-8CPR.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=1223 end=182685 sample=../Audio/VeloBass/56-JOQ8.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=907 end=183517 sample=../Audio/VeloBass/56-MY5T.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=804 end=182766 sample=../Audio/VeloBass/56-CR0C.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=492 sample=../Audio/VeloBass/56-198R.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=676 end=180484 sample=../Audio/VeloBass/57-P22T.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=860 sample=../Audio/VeloBass/57-6OFM.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=464 end=178746 sample=../Audio/VeloBass/57-EBXH.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=472 end=180615 sample=../Audio/VeloBass/57-81GG.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=706 end=182287 sample=../Audio/VeloBass/58-QD49.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=645 end=184154 sample=../Audio/VeloBass/58-9EZ2.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=777 end=181981 sample=../Audio/VeloBass/58-0050.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=670 end=188530 sample=../Audio/VeloBass/58-XTEY.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=978 end=178792 sample=../Audio/VeloBass/59-4QX9.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=936 end=184217 sample=../Audio/VeloBass/59-Z77D.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=670 end=188834 sample=../Audio/VeloBass/59-NZQ9.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=576 end=178920 sample=../Audio/VeloBass/59-8T8X.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=692 end=183304 sample=../Audio/VeloBass/60-42AN.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=999 end=181068 sample=../Audio/VeloBass/60-M0EJ.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=627 end=183630 sample=../Audio/VeloBass/60-JW1Q.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=1003 end=182712 sample=../Audio/VeloBass/60-CLJQ.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=675 end=184937 sample=../Audio/VeloBass/61-PA43.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=745 end=183866 sample=../Audio/VeloBass/61-2DI2.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=845 end=180755 sample=../Audio/VeloBass/61-I9TI.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=367 end=181913 sample=../Audio/VeloBass/61-17EZ.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=1089 end=183545 sample=../Audio/VeloBass/62-D6AB.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=796 end=179795 sample=../Audio/VeloBass/62-2PRR.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=1037 end=183638 sample=../Audio/VeloBass/62-J9M8.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=678 end=182764 sample=../Audio/VeloBass/62-VN5B.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=844 end=179442 sample=../Audio/VeloBass/63-AZFJ.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=907 end=183944 sample=../Audio/VeloBass/63-DF0Z.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=641 sample=../Audio/VeloBass/63-UBFU.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=932 end=179068 sample=../Audio/VeloBass/63-VGRN.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=665 end=184028 sample=../Audio/VeloBass/64-27LQ.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=1125 end=181135 sample=../Audio/VeloBass/64-AV87.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=1114 end=182642 sample=../Audio/VeloBass/64-IAQJ.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=489 end=182900 sample=../Audio/VeloBass/64-H2MR.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=922 end=180580 sample=../Audio/VeloBass/65-5J7K.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=754 end=182476 sample=../Audio/VeloBass/65-0C3O.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=596 sample=../Audio/VeloBass/65-978F.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=868 end=183321 sample=../Audio/VeloBass/65-FT38.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=991 end=184421 sample=../Audio/VeloBass/66-OPBT.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=938 end=182589 sample=../Audio/VeloBass/66-NYAG.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=1047 end=184902 sample=../Audio/VeloBass/66-1HEA.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=1078 end=184034 sample=../Audio/VeloBass/66-V7O8.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=988 end=184448 sample=../Audio/VeloBass/67-YZ3X.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=675 end=182898 sample=../Audio/VeloBass/67-8Q3M.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=554 end=182730 sample=../Audio/VeloBass/67-C5GL.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=715 sample=../Audio/VeloBass/67-5M28.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=439 end=183049 sample=../Audio/VeloBass/68-U8Z7.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=879 end=182742 sample=../Audio/VeloBass/68-DTKV.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=611 end=185209 sample=../Audio/VeloBass/68-2SLN.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=1016 end=183360 sample=../Audio/VeloBass/68-VXSG.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=658 end=182178 sample=../Audio/VeloBass/69-CMBP.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=606 end=185502 sample=../Audio/VeloBass/69-76TH.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=593 end=182335 sample=../Audio/VeloBass/69-T5SF.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=488 end=181388 sample=../Audio/VeloBass/69-T6IA.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=1099 end=181854 sample=../Audio/VeloBass/70-TAVC.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=652 end=182640 sample=../Audio/VeloBass/70-74NQ.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=620 end=181719 sample=../Audio/VeloBass/70-ID57.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=1025 end=183059 sample=../Audio/VeloBass/70-8OQV.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=441 end=183609 sample=../Audio/VeloBass/71-E5NH.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=1022 end=185865 sample=../Audio/VeloBass/71-MINI.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=902 end=182839 sample=../Audio/VeloBass/71-JAXF.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=796 sample=../Audio/VeloBass/71-LNFQ.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=909 end=184743 sample=../Audio/VeloBass/72-WJ86.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=718 end=183472 sample=../Audio/VeloBass/72-EZLL.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=591 end=183250 sample=../Audio/VeloBass/72-GMZD.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=507 end=185105 sample=../Audio/VeloBass/72-PULE.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=877 end=183467 sample=../Audio/VeloBass/73-QGTB.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=573 end=181961 sample=../Audio/VeloBass/73-1KY4.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=569 end=184118 sample=../Audio/VeloBass/73-SRIQ.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=455 end=182885 sample=../Audio/VeloBass/73-P5V3.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=1202 end=182105 sample=../Audio/VeloBass/74-NVKN.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=745 end=184936 sample=../Audio/VeloBass/74-GCRP.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=463 end=182330 sample=../Audio/VeloBass/74-S72X.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=984 end=183594 sample=../Audio/VeloBass/74-ZSXH.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=755 end=178671 sample=../Audio/VeloBass/75-6BE0.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=706 end=182963 sample=../Audio/VeloBass/75-P13H.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=952 end=183044 sample=../Audio/VeloBass/75-A878.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=780 end=181421 sample=../Audio/VeloBass/75-R9FL.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=1058 sample=../Audio/VeloBass/76-00Q5.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=609 end=182352 sample=../Audio/VeloBass/76-7ILY.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=1102 end=183582 sample=../Audio/VeloBass/76-8R00.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=1004 end=179049 sample=../Audio/VeloBass/76-FJ1S.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=634 end=181949 sample=../Audio/VeloBass/77-DSHA.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=1030 end=184373 sample=../Audio/VeloBass/77-E9G7.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=583 end=181603 sample=../Audio/VeloBass/77-GU0Q.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=843 end=183440 sample=../Audio/VeloBass/77-JZXB.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=1071 sample=../Audio/VeloBass/78-YV36.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=776 sample=../Audio/VeloBass/78-KRL0.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=492 end=177787 sample=../Audio/VeloBass/78-DVY1.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=899 end=182224 sample=../Audio/VeloBass/78-NPK0.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=675 end=183996 sample=../Audio/VeloBass/79-JVYJ.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=635 end=182171 sample=../Audio/VeloBass/79-GZP4.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=736 end=182981 sample=../Audio/VeloBass/79-TVGR.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=627 end=183651 sample=../Audio/VeloBass/79-Z7OS.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=1138 end=184349 sample=../Audio/VeloBass/80-BILC.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=1204 end=182857 sample=../Audio/VeloBass/80-DH38.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=1049 end=178622 sample=../Audio/VeloBass/80-EL85.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=803 end=184525 sample=../Audio/VeloBass/80-YJN4.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=962 end=180559 sample=../Audio/VeloBass/81-LAZ6.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=665 end=182129 sample=../Audio/VeloBass/81-96PD.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=397 end=184591 sample=../Audio/VeloBass/81-RXTZ.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=678 end=182484 sample=../Audio/VeloBass/81-R8K8.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=1205 end=183070 sample=../Audio/VeloBass/82-G8YF.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=628 end=183429 sample=../Audio/VeloBass/82-6AW8.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=999 end=183375 sample=../Audio/VeloBass/82-FKAO.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=1136 end=182146 sample=../Audio/VeloBass/82-XI2Q.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=801 end=183752 sample=../Audio/VeloBass/83-REKW.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=988 end=184717 sample=../Audio/VeloBass/83-93RL.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=741 end=181215 sample=../Audio/VeloBass/83-QB77.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=871 end=183054 sample=../Audio/VeloBass/83-QOMI.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=705 end=184536 sample=../Audio/VeloBass/84-HEMO.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=803 end=183079 sample=../Audio/VeloBass/84-P4WR.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=822 end=182542 sample=../Audio/VeloBass/84-V8TI.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=1047 sample=../Audio/VeloBass/84-75AN.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=553 end=184157 sample=../Audio/VeloBass/85-R2NX.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=618 end=177727 sample=../Audio/VeloBass/85-Z4YA.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=871 end=182714 sample=../Audio/VeloBass/85-QNHL.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=530 end=184263 sample=../Audio/VeloBass/85-W44X.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=669 end=184083 sample=../Audio/VeloBass/86-3N3Z.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=941 end=182705 sample=../Audio/VeloBass/86-O6PC.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=742 end=182374 sample=../Audio/VeloBass/86-FT6O.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=883 end=184505 sample=../Audio/VeloBass/86-TKCG.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=707 end=184373 sample=../Audio/VeloBass/87-TAZB.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=514 end=183866 sample=../Audio/VeloBass/87-R101.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=742 end=182012 sample=../Audio/VeloBass/87-QCB0.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=494 end=180574 sample=../Audio/VeloBass/87-0X8B.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=746 sample=../Audio/VeloBass/88-W0WL.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=687 end=181457 sample=../Audio/VeloBass/88-U00U.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=1074 end=183289 sample=../Audio/VeloBass/88-CGVS.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=430 end=181474 sample=../Audio/VeloBass/88-QWBW.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=1094 end=183947 sample=../Audio/VeloBass/89-4WIQ.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=791 sample=../Audio/VeloBass/89-8BPG.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=804 end=182609 sample=../Audio/VeloBass/89-1MDV.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=689 end=183100 sample=../Audio/VeloBass/89-OAJU.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=934 end=184222 sample=../Audio/VeloBass/90-G3W0.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=998 end=181652 sample=../Audio/VeloBass/90-X3ZW.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=840 end=182778 sample=../Audio/VeloBass/90-PC5K.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=602 end=184169 sample=../Audio/VeloBass/90-RRI2.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=906 end=182201 sample=../Audio/VeloBass/91-ZNCU.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=592 end=183288 sample=../Audio/VeloBass/91-7Y80.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=703 end=178451 sample=../Audio/VeloBass/91-SEPB.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=509 end=184230 sample=../Audio/VeloBass/91-OJSH.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=816 end=178414 sample=../Audio/VeloBass/92-LX2L.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=730 end=182759 sample=../Audio/VeloBass/92-ZRRJ.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=707 end=180207 sample=../Audio/VeloBass/92-7J0R.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=962 end=183909 sample=../Audio/VeloBass/92-0H3X.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=736 end=182005 sample=../Audio/VeloBass/93-Z4QX.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=534 end=182782 sample=../Audio/VeloBass/93-0WDC.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=901 end=184288 sample=../Audio/VeloBass/93-4F43.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=523 end=183421 sample=../Audio/VeloBass/93-88H7.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=741 end=183321 sample=../Audio/VeloBass/94-Q4E2.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=550 end=181995 sample=../Audio/VeloBass/94-JTEO.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=540 end=184298 sample=../Audio/VeloBass/94-EA4F.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=567 end=181095 sample=../Audio/VeloBass/94-QVNN.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=1090 end=183653 sample=../Audio/VeloBass/95-P8AL.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=512 end=182076 sample=../Audio/VeloBass/95-OVCL.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=1011 end=184338 sample=../Audio/VeloBass/95-5UKJ.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=764 sample=../Audio/VeloBass/95-4IRK.aif
+<group>lokey=96 hikey=127 pitch_keycenter=96 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=6 offset=962 end=183607 sample=../Audio/VeloBass/96-BXTX.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=6 offset=659 end=183608 sample=../Audio/VeloBass/96-EBQF.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=6 offset=764 end=183612 sample=../Audio/VeloBass/96-6NXO.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=6 offset=882 end=182225 sample=../Audio/VeloBass/96-94X2.aif

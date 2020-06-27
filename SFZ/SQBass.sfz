@@ -1,0 +1,129 @@
+<global>
+
+ pitchlfo_freq=4
+ pitchlfo_depth=0 //default setting
+ pitchlfo_depth_oncc1=200  //pitch variation in cents using the mod wheel
+ 
+ 
+<group>lokey=7 hikey=36 pitch_keycenter=36 pitch_keytrack=100
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=819 end=117331 sample=../Audio/SQBass/36-QW2V.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=979 end=117998 sample=../Audio/SQBass/37-F6KC.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=587 sample=../Audio/SQBass/38-FBIE.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=921 end=115985 sample=../Audio/SQBass/39-HRLQ.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=402 end=123476 sample=../Audio/SQBass/40-EJHA.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1017 end=119204 sample=../Audio/SQBass/41-TIMF.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=604 end=126023 sample=../Audio/SQBass/42-ZFO5.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=306 end=118687 sample=../Audio/SQBass/43-1MTU.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=571 end=117893 sample=../Audio/SQBass/44-M82T.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=814 end=118407 sample=../Audio/SQBass/45-TMA5.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=809 end=126603 sample=../Audio/SQBass/46-TJVZ.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=883 end=116445 sample=../Audio/SQBass/47-PXID.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=621 end=124235 sample=../Audio/SQBass/48-W94W.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=443 end=118416 sample=../Audio/SQBass/49-EKDI.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=437 end=124755 sample=../Audio/SQBass/50-EV87.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=651 end=118276 sample=../Audio/SQBass/51-7CS8.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=838 end=116736 sample=../Audio/SQBass/52-3EAQ.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1026 end=116957 sample=../Audio/SQBass/53-LHOR.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=576 end=120509 sample=../Audio/SQBass/54-DPF7.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=805 end=113101 sample=../Audio/SQBass/55-EU2N.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=795 end=117841 sample=../Audio/SQBass/56-YFTO.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=658 end=113546 sample=../Audio/SQBass/57-JCMX.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=765 end=117376 sample=../Audio/SQBass/58-N642.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=502 end=111441 sample=../Audio/SQBass/59-JW6S.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=846 end=109277 sample=../Audio/SQBass/60-WU4H.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1226 end=108343 sample=../Audio/SQBass/61-3SZC.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=715 end=110832 sample=../Audio/SQBass/62-SWZK.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=581 end=101974 sample=../Audio/SQBass/63-UV9G.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=814 end=103596 sample=../Audio/SQBass/64-MC7O.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=935 end=99209 sample=../Audio/SQBass/65-K2DY.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=703 end=98593 sample=../Audio/SQBass/66-CKEC.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=845 end=93240 sample=../Audio/SQBass/67-GLH4.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=679 end=89485 sample=../Audio/SQBass/68-XDE7.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=699 end=87040 sample=../Audio/SQBass/69-I103.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=845 end=85633 sample=../Audio/SQBass/70-OLOK.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1008 end=77121 sample=../Audio/SQBass/71-0J1D.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=683 end=78011 sample=../Audio/SQBass/72-KM5T.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=888 sample=../Audio/SQBass/73-XPB6.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=972 end=70528 sample=../Audio/SQBass/74-H01N.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=793 end=60049 sample=../Audio/SQBass/75-UKUZ.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=709 end=57509 sample=../Audio/SQBass/76-NA4I.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=941 end=52224 sample=../Audio/SQBass/77-MJ9F.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1070 end=49952 sample=../Audio/SQBass/78-AG1N.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=926 end=45097 sample=../Audio/SQBass/79-XUG5.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=546 sample=../Audio/SQBass/80-MAOL.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=957 end=41856 sample=../Audio/SQBass/81-60K9.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=639 end=41488 sample=../Audio/SQBass/82-ZN8G.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=961 sample=../Audio/SQBass/83-Y003.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=720 end=35459 sample=../Audio/SQBass/84-ARDU.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=662 end=30098 sample=../Audio/SQBass/85-TP2V.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=872 end=31621 sample=../Audio/SQBass/86-ET1N.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1091 end=29058 sample=../Audio/SQBass/87-SWOA.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=686 end=31504 sample=../Audio/SQBass/88-2JHH.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=660 end=24596 sample=../Audio/SQBass/89-9Z8Y.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=896 end=29207 sample=../Audio/SQBass/90-4IAR.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=890 end=24205 sample=../Audio/SQBass/91-K9T2.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1215 end=24064 sample=../Audio/SQBass/92-XBUS.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=443 end=21376 sample=../Audio/SQBass/93-ZAQY.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=833 end=29445 sample=../Audio/SQBass/94-H0HV.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=956 end=20864 sample=../Audio/SQBass/95-Z0PD.aif
+<group>lokey=96 hikey=127 pitch_keycenter=96 pitch_keytrack=100
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=831 end=20864 sample=../Audio/SQBass/96-5G7F.aif

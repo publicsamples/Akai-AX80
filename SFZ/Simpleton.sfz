@@ -1,0 +1,52 @@
+// this file was generated from Simpleton.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=6 hikey=36 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=881 end=362200 sample=../Audio/Simpleton/36-FT1K.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=546 end=364799 sample=../Audio/Simpleton/37-CL9I.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=838 end=361994 sample=../Audio/Simpleton/38-QV7V.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=837 end=360613 sample=../Audio/Simpleton/39-Y073.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=736 end=365301 sample=../Audio/Simpleton/40-R6IH.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=500 end=362988 sample=../Audio/Simpleton/41-ZS73.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=816 end=365883 sample=../Audio/Simpleton/42-85YV.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=475 end=368495 sample=../Audio/Simpleton/43-4JJH.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=687 end=356944 sample=../Audio/Simpleton/44-4Y6K.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=809 end=370345 sample=../Audio/Simpleton/45-SXYG.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=935 end=370610 sample=../Audio/Simpleton/46-QSIA.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=961 end=363833 sample=../Audio/Simpleton/47-OEFE.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=763 end=360789 sample=../Audio/Simpleton/48-BV6D.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=512 end=363696 sample=../Audio/Simpleton/49-ZHHX.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=484 end=370928 sample=../Audio/Simpleton/50-51QG.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=556 end=355211 sample=../Audio/Simpleton/51-AW6Q.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=987 end=368805 sample=../Audio/Simpleton/52-6V40.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=882 end=368281 sample=../Audio/Simpleton/53-J8LX.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=805 sample=../Audio/Simpleton/54-5O5P.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=898 end=358733 sample=../Audio/Simpleton/55-5Z5S.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=902 end=366336 sample=../Audio/Simpleton/56-PUX3.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=759 end=372708 sample=../Audio/Simpleton/57-JW39.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=520 end=354784 sample=../Audio/Simpleton/58-QTOD.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=451 end=370645 sample=../Audio/Simpleton/59-YXZX.aif
+<group>lokey=60 hikey=116 pitch_keycenter=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=950 end=366848 sample=../Audio/Simpleton/60-A0JB.aif

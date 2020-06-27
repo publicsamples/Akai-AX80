@@ -1,14 +1,13 @@
 
-# Akai AX 80 Sample Library Part 1
+# Akai AX 80
 
 The Akai AX-80 is an aggressive sounding CEM based polysynth. Built in the early 80s this was Akai's first synthesiser. I think it looks cool.
 
--   **Patches**: 16
--   **Formats:** EXS24, Kontakt & SFZ
--   **Approx Size:** 1.6GB
--   **Info:** [Wikipedia](https://en.wikipedia.org/wiki/Akai_AX80)
--   **[Part 2](https://github.com/publicsamples/Akai-AX80-pt2)**
 
+-   **Formats:** EXS24, Kontakt & SFZ
+-   **Info:** [Wikipedia](https://en.wikipedia.org/wiki/Akai_AX80)
+
+**Audio:** https://www.dropbox.com/sh/164wbhj80fsibvw/AAAsQPPOeNFyOmKh2V7aMe6Ua?dl=0
 
 # Loading
 

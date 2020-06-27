@@ -1,0 +1,307 @@
+// this file was generated from SyncBassMW.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=6 hikey=36 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=771 end=184198 sample=../Audio/SyncBass/36-RYHU.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=562 end=186325 sample=../Audio/SyncBass/36-OUVK.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=934 end=184471 sample=../Audio/SyncBass/36-6IUH.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=871 end=182577 sample=../Audio/SyncBass/36-4GRF.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=668 end=184427 sample=../Audio/SyncBass/37-U4GZ.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=1063 end=182414 sample=../Audio/SyncBass/37-4XY5.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=768 end=186238 sample=../Audio/SyncBass/37-F131.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=264 end=186468 sample=../Audio/SyncBass/37-HPYH.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=1069 end=183658 sample=../Audio/SyncBass/38-SOJN.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=621 end=183148 sample=../Audio/SyncBass/38-TH5R.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=945 end=186314 sample=../Audio/SyncBass/38-H86L.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=1030 end=183443 sample=../Audio/SyncBass/38-54HY.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=896 end=183822 sample=../Audio/SyncBass/39-IJB1.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=1005 end=179120 sample=../Audio/SyncBass/39-82ZX.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=1028 end=185360 sample=../Audio/SyncBass/39-NBAA.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=844 end=183319 sample=../Audio/SyncBass/39-KJN4.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=890 end=185061 sample=../Audio/SyncBass/40-X3RZ.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=731 end=180877 sample=../Audio/SyncBass/40-QGT6.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=874 end=186354 sample=../Audio/SyncBass/40-T2OR.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=533 end=186041 sample=../Audio/SyncBass/40-8KU3.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=737 end=185879 sample=../Audio/SyncBass/41-BHVN.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=668 sample=../Audio/SyncBass/41-QT5Y.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=785 end=180364 sample=../Audio/SyncBass/41-TRI7.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=671 sample=../Audio/SyncBass/41-E37Q.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=909 end=185275 sample=../Audio/SyncBass/42-G4BJ.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=576 end=183404 sample=../Audio/SyncBass/42-CU9K.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=835 end=184513 sample=../Audio/SyncBass/42-II1V.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=463 end=184143 sample=../Audio/SyncBass/42-UY6T.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=477 end=184449 sample=../Audio/SyncBass/43-QTDZ.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=643 end=185734 sample=../Audio/SyncBass/43-TN94.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=856 end=185181 sample=../Audio/SyncBass/43-7GGR.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=845 end=184793 sample=../Audio/SyncBass/43-03ZZ.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=784 end=183260 sample=../Audio/SyncBass/44-R22W.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=1045 end=184361 sample=../Audio/SyncBass/44-JRAQ.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=481 end=183479 sample=../Audio/SyncBass/44-IXX1.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=695 end=184704 sample=../Audio/SyncBass/44-5032.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=950 end=183526 sample=../Audio/SyncBass/45-HPN6.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=1073 end=185171 sample=../Audio/SyncBass/45-G7NQ.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=1127 end=180884 sample=../Audio/SyncBass/45-EL3S.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=312 end=184816 sample=../Audio/SyncBass/45-OFBW.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=1116 end=183072 sample=../Audio/SyncBass/46-DRNK.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=1100 end=184371 sample=../Audio/SyncBass/46-6WBL.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=500 end=179283 sample=../Audio/SyncBass/46-A7YB.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=917 end=183424 sample=../Audio/SyncBass/46-BYAY.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=754 end=183290 sample=../Audio/SyncBass/47-MUBO.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=855 end=183887 sample=../Audio/SyncBass/47-P2AZ.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=764 end=181641 sample=../Audio/SyncBass/47-1H8S.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=935 end=179053 sample=../Audio/SyncBass/47-RWDT.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=796 end=179701 sample=../Audio/SyncBass/48-3WK2.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=1009 end=182852 sample=../Audio/SyncBass/48-EGNX.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=917 end=178890 sample=../Audio/SyncBass/48-DKG6.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=962 end=180302 sample=../Audio/SyncBass/48-XQOM.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=607 end=178283 sample=../Audio/SyncBass/49-CW9S.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=843 end=182838 sample=../Audio/SyncBass/49-FAZI.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=829 end=179170 sample=../Audio/SyncBass/49-W5ZZ.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=583 end=179729 sample=../Audio/SyncBass/49-90JW.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=689 end=181361 sample=../Audio/SyncBass/50-S58C.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=1028 end=179266 sample=../Audio/SyncBass/50-RH3L.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=501 end=182874 sample=../Audio/SyncBass/50-S4GN.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=907 end=184079 sample=../Audio/SyncBass/50-DWV4.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=814 end=182051 sample=../Audio/SyncBass/51-MIL0.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=895 end=182038 sample=../Audio/SyncBass/51-3LZ9.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=753 end=178716 sample=../Audio/SyncBass/51-XEEZ.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=485 end=181960 sample=../Audio/SyncBass/51-IIYQ.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=562 end=183516 sample=../Audio/SyncBass/52-W2SO.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=934 end=179205 sample=../Audio/SyncBass/52-Q3BF.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=710 end=182270 sample=../Audio/SyncBass/52-I3RS.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=1078 end=183598 sample=../Audio/SyncBass/52-SWBN.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=692 end=181092 sample=../Audio/SyncBass/53-OZKK.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=758 end=178756 sample=../Audio/SyncBass/53-K40G.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=581 end=183135 sample=../Audio/SyncBass/53-479R.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=807 end=181967 sample=../Audio/SyncBass/53-HN5N.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=742 end=181991 sample=../Audio/SyncBass/54-6G9T.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=916 end=182239 sample=../Audio/SyncBass/54-64U1.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=479 end=178182 sample=../Audio/SyncBass/54-1PYK.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=459 end=182555 sample=../Audio/SyncBass/54-6LZD.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=465 end=182645 sample=../Audio/SyncBass/55-GMMU.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=495 end=181983 sample=../Audio/SyncBass/55-3S4I.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=698 end=180012 sample=../Audio/SyncBass/55-E7BG.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=913 end=183319 sample=../Audio/SyncBass/55-GNBS.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=1087 end=179316 sample=../Audio/SyncBass/56-V7BR.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=970 end=181977 sample=../Audio/SyncBass/56-UZ7R.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=783 end=177744 sample=../Audio/SyncBass/56-YDG3.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=879 end=182503 sample=../Audio/SyncBass/56-01WN.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=709 end=178608 sample=../Audio/SyncBass/57-DX8U.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=857 end=182385 sample=../Audio/SyncBass/57-DA3V.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=542 end=181199 sample=../Audio/SyncBass/57-LXGT.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=987 end=181872 sample=../Audio/SyncBass/57-IZ6Y.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=764 end=177972 sample=../Audio/SyncBass/58-5TKF.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=1020 end=178089 sample=../Audio/SyncBass/58-LCQB.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=833 end=181628 sample=../Audio/SyncBass/58-TGNQ.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=783 end=182635 sample=../Audio/SyncBass/58-62K2.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=598 end=181990 sample=../Audio/SyncBass/59-TI8M.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=497 end=178374 sample=../Audio/SyncBass/59-JNZ5.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=658 end=178373 sample=../Audio/SyncBass/59-H1FM.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=342 end=179170 sample=../Audio/SyncBass/59-QFTL.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=724 end=182522 sample=../Audio/SyncBass/60-M511.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=735 end=180147 sample=../Audio/SyncBass/60-2CTN.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=759 end=179308 sample=../Audio/SyncBass/60-L95Y.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=937 end=178391 sample=../Audio/SyncBass/60-444N.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=1002 end=183870 sample=../Audio/SyncBass/61-SU9I.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=502 end=181801 sample=../Audio/SyncBass/61-4958.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=656 end=177899 sample=../Audio/SyncBass/61-YJJJ.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=590 end=178348 sample=../Audio/SyncBass/61-PKVJ.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=846 end=181947 sample=../Audio/SyncBass/62-K1QZ.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=727 end=183146 sample=../Audio/SyncBass/62-PGN7.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=736 end=179223 sample=../Audio/SyncBass/62-YPVC.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=1009 end=178857 sample=../Audio/SyncBass/62-CLXE.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=823 end=180851 sample=../Audio/SyncBass/63-6RYY.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=549 end=182697 sample=../Audio/SyncBass/63-RZ78.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=560 end=181630 sample=../Audio/SyncBass/63-KHUI.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=622 end=177710 sample=../Audio/SyncBass/63-W79O.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=610 end=180213 sample=../Audio/SyncBass/64-FVNI.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=836 end=182559 sample=../Audio/SyncBass/64-T4GQ.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=477 end=182330 sample=../Audio/SyncBass/64-QE3U.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=511 end=178399 sample=../Audio/SyncBass/64-295S.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=802 end=179058 sample=../Audio/SyncBass/65-TFEQ.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=511 end=181867 sample=../Audio/SyncBass/65-WE8U.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=535 end=182445 sample=../Audio/SyncBass/65-8LAP.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=961 end=178302 sample=../Audio/SyncBass/65-IRYV.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=797 end=181401 sample=../Audio/SyncBass/66-YJQV.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=574 end=181195 sample=../Audio/SyncBass/66-O838.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=636 end=182665 sample=../Audio/SyncBass/66-CJOD.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=1043 end=181494 sample=../Audio/SyncBass/66-0D2L.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=559 end=177919 sample=../Audio/SyncBass/67-5I3B.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=681 end=177139 sample=../Audio/SyncBass/67-2MA3.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=929 end=181962 sample=../Audio/SyncBass/67-IEJJ.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=828 end=182352 sample=../Audio/SyncBass/67-T01U.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=1052 end=181414 sample=../Audio/SyncBass/68-S98H.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=886 end=178704 sample=../Audio/SyncBass/68-0D2G.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=504 end=181470 sample=../Audio/SyncBass/68-HDR9.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=759 end=182878 sample=../Audio/SyncBass/68-MC2Q.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=398 end=177931 sample=../Audio/SyncBass/69-CJA3.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=605 end=177577 sample=../Audio/SyncBass/69-9SC8.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=721 end=177365 sample=../Audio/SyncBass/69-H2VB.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=723 end=182041 sample=../Audio/SyncBass/69-7WRV.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=673 end=182041 sample=../Audio/SyncBass/70-SBR8.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=1012 end=178137 sample=../Audio/SyncBass/70-8GB1.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=722 end=177826 sample=../Audio/SyncBass/70-2E3U.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=864 end=178341 sample=../Audio/SyncBass/70-6YES.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=863 end=182963 sample=../Audio/SyncBass/71-EMFC.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=566 end=181884 sample=../Audio/SyncBass/71-JBSZ.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=960 end=178198 sample=../Audio/SyncBass/71-B77J.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=812 end=179020 sample=../Audio/SyncBass/71-CQJP.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=741 end=182385 sample=../Audio/SyncBass/72-3MYI.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=845 end=182954 sample=../Audio/SyncBass/72-LVDF.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=549 end=177960 sample=../Audio/SyncBass/72-9CLL.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=425 end=178233 sample=../Audio/SyncBass/72-F3LP.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=793 end=182621 sample=../Audio/SyncBass/73-3K6O.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=395 end=182131 sample=../Audio/SyncBass/73-A28R.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=377 end=177918 sample=../Audio/SyncBass/73-8GS0.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=892 end=178001 sample=../Audio/SyncBass/73-TQZK.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=1209 end=182507 sample=../Audio/SyncBass/74-52VA.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=759 end=182605 sample=../Audio/SyncBass/74-PQQY.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=599 end=178078 sample=../Audio/SyncBass/74-5NVK.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=474 end=178154 sample=../Audio/SyncBass/74-VPE2.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=952 end=178366 sample=../Audio/SyncBass/75-BOVC.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=711 end=182786 sample=../Audio/SyncBass/75-ZRS9.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=873 end=179223 sample=../Audio/SyncBass/75-8TN2.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=970 end=178158 sample=../Audio/SyncBass/75-BGTY.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=1017 end=179049 sample=../Audio/SyncBass/76-GRR3.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=563 end=182923 sample=../Audio/SyncBass/76-9QJS.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=797 end=180185 sample=../Audio/SyncBass/76-MVAN.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=1015 end=177607 sample=../Audio/SyncBass/76-UNKW.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=482 end=177551 sample=../Audio/SyncBass/77-IECG.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=787 end=183037 sample=../Audio/SyncBass/77-MHZO.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=613 end=182513 sample=../Audio/SyncBass/77-FJMI.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=582 end=177763 sample=../Audio/SyncBass/77-EOFY.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=1128 sample=../Audio/SyncBass/78-OLDY.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=691 end=182143 sample=../Audio/SyncBass/78-T3ZF.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=781 end=182438 sample=../Audio/SyncBass/78-MSL4.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=616 end=177438 sample=../Audio/SyncBass/78-ACSN.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=585 end=177675 sample=../Audio/SyncBass/79-PUSK.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=517 end=180598 sample=../Audio/SyncBass/79-6AUB.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=840 end=183437 sample=../Audio/SyncBass/79-4IGP.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=680 end=178134 sample=../Audio/SyncBass/79-3HCJ.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=1092 end=181631 sample=../Audio/SyncBass/80-FG3R.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=1146 end=181068 sample=../Audio/SyncBass/80-Y4G1.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=976 end=183442 sample=../Audio/SyncBass/80-FO4H.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=805 end=181333 sample=../Audio/SyncBass/80-I898.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=518 end=178073 sample=../Audio/SyncBass/81-8SOO.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=449 end=183259 sample=../Audio/SyncBass/81-F716.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=907 end=182891 sample=../Audio/SyncBass/81-M2EE.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=865 end=177851 sample=../Audio/SyncBass/81-C681.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=777 end=180454 sample=../Audio/SyncBass/82-VE1W.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=838 end=183047 sample=../Audio/SyncBass/82-TWJ1.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=907 end=182191 sample=../Audio/SyncBass/82-QONO.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=719 end=177566 sample=../Audio/SyncBass/82-TWTU.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=789 end=177803 sample=../Audio/SyncBass/83-PJ9I.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=578 end=182512 sample=../Audio/SyncBass/83-YKB8.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=758 end=182156 sample=../Audio/SyncBass/83-HNN2.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=333 end=178124 sample=../Audio/SyncBass/83-YQSM.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=1019 end=181616 sample=../Audio/SyncBass/84-AW2D.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=547 sample=../Audio/SyncBass/84-ZZFB.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=720 end=183168 sample=../Audio/SyncBass/84-B1VT.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=672 end=182855 sample=../Audio/SyncBass/84-0MVT.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=358 end=177610 sample=../Audio/SyncBass/85-R9BX.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=531 end=177990 sample=../Audio/SyncBass/85-GW0H.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=461 end=182680 sample=../Audio/SyncBass/85-G4XQ.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=794 end=182500 sample=../Audio/SyncBass/85-OXOF.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=1068 end=178624 sample=../Audio/SyncBass/86-J7M4.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=1237 end=177915 sample=../Audio/SyncBass/86-5VYO.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=1030 end=183334 sample=../Audio/SyncBass/86-RJ6Q.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=718 end=182770 sample=../Audio/SyncBass/86-AJ44.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=421 end=177517 sample=../Audio/SyncBass/87-KU5M.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=841 end=182102 sample=../Audio/SyncBass/87-5QAX.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=668 end=182753 sample=../Audio/SyncBass/87-OWAD.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=351 end=178999 sample=../Audio/SyncBass/87-2B6V.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=858 end=181056 sample=../Audio/SyncBass/88-AOHK.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=507 end=181134 sample=../Audio/SyncBass/88-MGE3.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=1005 end=178523 sample=../Audio/SyncBass/88-QEMK.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=823 end=182135 sample=../Audio/SyncBass/88-SDMJ.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=650 sample=../Audio/SyncBass/89-BO8O.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=798 end=178968 sample=../Audio/SyncBass/89-AUTU.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=854 end=177654 sample=../Audio/SyncBass/89-VHBM.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=532 end=178130 sample=../Audio/SyncBass/89-30DT.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=788 end=182570 sample=../Audio/SyncBass/90-GMBT.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=959 end=182309 sample=../Audio/SyncBass/90-CMFU.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=743 end=177986 sample=../Audio/SyncBass/90-FLBQ.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=807 end=181831 sample=../Audio/SyncBass/90-0BWD.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=985 end=182836 sample=../Audio/SyncBass/91-YL6M.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=1010 end=179737 sample=../Audio/SyncBass/91-9FUY.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=790 end=177946 sample=../Audio/SyncBass/91-48SW.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=848 end=181719 sample=../Audio/SyncBass/91-5EZB.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=838 end=183014 sample=../Audio/SyncBass/92-TMZ4.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=727 end=178714 sample=../Audio/SyncBass/92-T7E9.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=1010 end=178081 sample=../Audio/SyncBass/92-Y4RQ.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=798 end=181178 sample=../Audio/SyncBass/92-6XH0.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=738 end=183309 sample=../Audio/SyncBass/93-DOE1.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=491 end=181809 sample=../Audio/SyncBass/93-18GT.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=667 end=177973 sample=../Audio/SyncBass/93-28GW.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=724 end=178241 sample=../Audio/SyncBass/93-CWFA.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=706 end=182166 sample=../Audio/SyncBass/94-94NE.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=481 end=182187 sample=../Audio/SyncBass/94-QVOE.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=902 end=177943 sample=../Audio/SyncBass/94-6HKT.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=960 end=178378 sample=../Audio/SyncBass/94-SHFX.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=671 end=177287 sample=../Audio/SyncBass/95-236Z.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=627 end=182734 sample=../Audio/SyncBass/95-1QW1.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=1176 end=182417 sample=../Audio/SyncBass/95-LGGE.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=598 end=177690 sample=../Audio/SyncBass/95-1R92.aif
+<group>lokey=96 hikey=126 pitch_keycenter=96 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=9 offset=851 end=180214 sample=../Audio/SyncBass/96-ZL25.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=9 offset=602 end=182094 sample=../Audio/SyncBass/96-KG0O.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=9 offset=669 end=182646 sample=../Audio/SyncBass/96-WLE2.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=9 offset=1115 end=178504 sample=../Audio/SyncBass/96-0UJL.aif

@@ -1,0 +1,124 @@
+// this file was generated from UniSync.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=36 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=975 end=359565 sample=../Audio/SyncCutting/36-KBP9.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=823 end=359030 sample=../Audio/SyncCutting/37-6P4R.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=502 end=360115 sample=../Audio/SyncCutting/38-VKRP.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=956 end=355503 sample=../Audio/SyncCutting/39-NY70.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=769 end=357813 sample=../Audio/SyncCutting/40-ZECU.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=556 end=354953 sample=../Audio/SyncCutting/41-TJSD.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=881 end=359669 sample=../Audio/SyncCutting/42-V216.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=334 end=358922 sample=../Audio/SyncCutting/43-KQ3I.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=842 end=359674 sample=../Audio/SyncCutting/44-67QM.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=933 end=359584 sample=../Audio/SyncCutting/45-BINM.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1240 end=359957 sample=../Audio/SyncCutting/46-JGQ6.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=901 end=355784 sample=../Audio/SyncCutting/47-97PZ.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=900 end=355839 sample=../Audio/SyncCutting/48-1SRX.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=972 end=356026 sample=../Audio/SyncCutting/49-QXUB.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=358 end=354793 sample=../Audio/SyncCutting/50-LJ7N.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=787 end=355567 sample=../Audio/SyncCutting/51-OKEX.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=850 end=357014 sample=../Audio/SyncCutting/52-1G8Z.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=620 end=354385 sample=../Audio/SyncCutting/53-X10D.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=939 end=358442 sample=../Audio/SyncCutting/54-K6VM.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=769 end=358193 sample=../Audio/SyncCutting/55-FUO1.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=708 end=358606 sample=../Audio/SyncCutting/56-B8ET.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=527 end=358073 sample=../Audio/SyncCutting/57-BNS5.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=835 end=357796 sample=../Audio/SyncCutting/58-2XEC.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1101 end=357981 sample=../Audio/SyncCutting/59-PYLZ.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=560 end=355332 sample=../Audio/SyncCutting/60-8WXO.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=976 end=359034 sample=../Audio/SyncCutting/61-F7KZ.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=916 end=356695 sample=../Audio/SyncCutting/62-LK41.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=824 end=358084 sample=../Audio/SyncCutting/63-P3U6.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=763 end=357971 sample=../Audio/SyncCutting/64-CN0T.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=747 end=358432 sample=../Audio/SyncCutting/65-XX99.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=287 end=358096 sample=../Audio/SyncCutting/66-EMZT.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=837 end=355905 sample=../Audio/SyncCutting/67-GLZF.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=590 end=356234 sample=../Audio/SyncCutting/68-YQZ0.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=569 end=357582 sample=../Audio/SyncCutting/69-K75V.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=659 end=357715 sample=../Audio/SyncCutting/70-9LJC.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=623 end=358458 sample=../Audio/SyncCutting/71-TPVH.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=652 end=357271 sample=../Audio/SyncCutting/72-C5Z6.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=688 end=357596 sample=../Audio/SyncCutting/73-Z136.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=671 end=357553 sample=../Audio/SyncCutting/74-2GQZ.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=386 end=357306 sample=../Audio/SyncCutting/75-61FB.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1040 end=357186 sample=../Audio/SyncCutting/76-I47J.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=693 end=357534 sample=../Audio/SyncCutting/77-UMC6.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=627 end=357248 sample=../Audio/SyncCutting/78-PED6.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=861 end=357974 sample=../Audio/SyncCutting/79-1EMS.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=748 end=357470 sample=../Audio/SyncCutting/80-5HIY.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=877 end=357985 sample=../Audio/SyncCutting/81-T33K.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=736 end=357243 sample=../Audio/SyncCutting/82-SNQ6.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=322 end=356908 sample=../Audio/SyncCutting/83-6035.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=873 end=354975 sample=../Audio/SyncCutting/84-6UYK.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=827 end=357249 sample=../Audio/SyncCutting/85-SLZQ.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=695 end=357484 sample=../Audio/SyncCutting/86-G60W.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=867 end=358630 sample=../Audio/SyncCutting/87-7NB0.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=389 end=357329 sample=../Audio/SyncCutting/88-8ZKT.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=981 end=358455 sample=../Audio/SyncCutting/89-0SW2.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=848 end=357220 sample=../Audio/SyncCutting/90-IPPS.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=877 end=357554 sample=../Audio/SyncCutting/91-HKUF.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=983 sample=../Audio/SyncCutting/92-PDRF.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1198 end=357709 sample=../Audio/SyncCutting/93-423V.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=772 end=357527 sample=../Audio/SyncCutting/94-Z6OZ.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=571 end=358126 sample=../Audio/SyncCutting/95-Z8C7.aif
+<group>lokey=96 hikey=124 pitch_keycenter=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=926 end=358222 sample=../Audio/SyncCutting/96-Y64Z.aif

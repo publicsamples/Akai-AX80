@@ -1,0 +1,124 @@
+// this file was generated from SyncBalls.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=4 hikey=36 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=997 sample=../Audio/SyncBalls/36-RYG1.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=513 end=441110 sample=../Audio/SyncBalls/37-3A1W.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=455 end=441130 sample=../Audio/SyncBalls/38-N85O.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=716 end=441088 sample=../Audio/SyncBalls/39-C52U.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=562 sample=../Audio/SyncBalls/40-7G0F.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=510 end=441611 sample=../Audio/SyncBalls/41-VZFE.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=752 end=441709 sample=../Audio/SyncBalls/42-SKX5.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=608 end=441139 sample=../Audio/SyncBalls/43-EBB4.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=787 end=441670 sample=../Audio/SyncBalls/44-AAL2.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=917 end=441641 sample=../Audio/SyncBalls/45-6DCO.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=468 end=441105 sample=../Audio/SyncBalls/46-9Q2L.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=964 end=441687 sample=../Audio/SyncBalls/47-B265.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=543 end=441650 sample=../Audio/SyncBalls/48-YAVL.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=1115 sample=../Audio/SyncBalls/49-29AK.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=797 sample=../Audio/SyncBalls/50-LF9E.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=843 sample=../Audio/SyncBalls/51-N15U.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=1067 end=441115 sample=../Audio/SyncBalls/52-YIJ0.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=1066 end=441651 sample=../Audio/SyncBalls/53-N1KE.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=1013 end=441179 sample=../Audio/SyncBalls/54-BR7Z.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=885 end=441613 sample=../Audio/SyncBalls/55-4VXP.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=990 sample=../Audio/SyncBalls/56-KLU2.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=538 end=441106 sample=../Audio/SyncBalls/57-Y8AC.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=776 end=442115 sample=../Audio/SyncBalls/58-C0MJ.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=499 end=441157 sample=../Audio/SyncBalls/59-CBNN.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=976 end=442130 sample=../Audio/SyncBalls/60-24ZN.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=1015 end=441613 sample=../Audio/SyncBalls/61-QIK7.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=825 end=441090 sample=../Audio/SyncBalls/62-9QBQ.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=530 end=442217 sample=../Audio/SyncBalls/63-W9JU.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=671 end=441112 sample=../Audio/SyncBalls/64-MHKZ.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=535 end=441643 sample=../Audio/SyncBalls/65-1L4B.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=613 end=441098 sample=../Audio/SyncBalls/66-VJF6.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=525 end=441610 sample=../Audio/SyncBalls/67-PQYN.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=960 end=441667 sample=../Audio/SyncBalls/68-DZOZ.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=859 sample=../Audio/SyncBalls/69-YST6.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=568 sample=../Audio/SyncBalls/70-OU7U.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=928 end=442131 sample=../Audio/SyncBalls/71-SFPD.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=737 end=442116 sample=../Audio/SyncBalls/72-YWX7.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=790 sample=../Audio/SyncBalls/73-QLTT.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=763 end=441804 sample=../Audio/SyncBalls/74-4T65.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=396 sample=../Audio/SyncBalls/75-V3HE.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=817 end=442129 sample=../Audio/SyncBalls/76-I3V9.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=984 end=441602 sample=../Audio/SyncBalls/77-3TTG.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=1050 end=442142 sample=../Audio/SyncBalls/78-HZXG.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=465 end=441627 sample=../Audio/SyncBalls/79-3QH6.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=695 sample=../Audio/SyncBalls/80-0QB2.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=373 sample=../Audio/SyncBalls/81-0KC4.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=833 sample=../Audio/SyncBalls/82-7IBX.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=686 end=441203 sample=../Audio/SyncBalls/83-SXB1.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=952 end=442140 sample=../Audio/SyncBalls/84-PMOD.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=684 end=441098 sample=../Audio/SyncBalls/85-5PKM.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=666 end=441627 sample=../Audio/SyncBalls/86-BEOX.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=816 end=441096 sample=../Audio/SyncBalls/87-J5E6.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=1065 sample=../Audio/SyncBalls/88-MP75.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=334 end=441643 sample=../Audio/SyncBalls/89-O83T.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=686 sample=../Audio/SyncBalls/90-CEKO.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=825 sample=../Audio/SyncBalls/91-XKFP.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=887 end=441667 sample=../Audio/SyncBalls/92-P0J4.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=802 sample=../Audio/SyncBalls/93-8CP2.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=645 end=441660 sample=../Audio/SyncBalls/94-4ZWK.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=617 end=442140 sample=../Audio/SyncBalls/95-B5IO.aif
+<group>lokey=96 hikey=124 pitch_keycenter=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=493 sample=../Audio/SyncBalls/96-KN6V.aif

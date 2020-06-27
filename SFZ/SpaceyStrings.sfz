@@ -1,0 +1,124 @@
+// this file was generated from SpaceyStrings.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=7 hikey=36 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1088 sample=../Audio/SpaceyStrings/36-VKJE.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=771 end=561948 sample=../Audio/SpaceyStrings/37-RM68.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=571 end=572736 sample=../Audio/SpaceyStrings/38-AXX4.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=939 end=559122 sample=../Audio/SpaceyStrings/39-1G9N.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=974 end=569600 sample=../Audio/SpaceyStrings/40-Q8UJ.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=681 end=561664 sample=../Audio/SpaceyStrings/41-CP38.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=651 end=573199 sample=../Audio/SpaceyStrings/42-JK4D.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=365 end=561918 sample=../Audio/SpaceyStrings/43-K5I3.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=943 end=561415 sample=../Audio/SpaceyStrings/44-2J66.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=981 sample=../Audio/SpaceyStrings/45-I6IT.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=655 end=571590 sample=../Audio/SpaceyStrings/46-XUEM.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=719 end=558093 sample=../Audio/SpaceyStrings/47-KFWN.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=809 end=570030 sample=../Audio/SpaceyStrings/48-11YH.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=487 end=561774 sample=../Audio/SpaceyStrings/49-QH40.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=347 end=572731 sample=../Audio/SpaceyStrings/50-YVQ6.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=338 end=562052 sample=../Audio/SpaceyStrings/51-JLB6.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=752 end=560599 sample=../Audio/SpaceyStrings/52-XK7K.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=877 end=561220 sample=../Audio/SpaceyStrings/53-V4G7.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=973 end=571536 sample=../Audio/SpaceyStrings/54-L0NC.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=745 end=558617 sample=../Audio/SpaceyStrings/55-SV99.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=889 end=569012 sample=../Audio/SpaceyStrings/56-XWK2.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=689 end=561805 sample=../Audio/SpaceyStrings/57-4MAM.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=948 end=572576 sample=../Audio/SpaceyStrings/58-Z0NJ.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=832 sample=../Audio/SpaceyStrings/59-45V8.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=751 end=560384 sample=../Audio/SpaceyStrings/60-7BHS.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=993 end=561280 sample=../Audio/SpaceyStrings/61-XFEH.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=639 end=571008 sample=../Audio/SpaceyStrings/62-8ZUH.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=966 end=558399 sample=../Audio/SpaceyStrings/63-5CIF.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1137 end=568745 sample=../Audio/SpaceyStrings/64-JAKC.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=504 end=561927 sample=../Audio/SpaceyStrings/65-1T50.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=846 end=572325 sample=../Audio/SpaceyStrings/66-SPLE.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1083 end=561664 sample=../Audio/SpaceyStrings/67-CFZ6.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=980 end=560006 sample=../Audio/SpaceyStrings/68-0W0Y.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=855 end=561435 sample=../Audio/SpaceyStrings/69-PR6S.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1020 end=571555 sample=../Audio/SpaceyStrings/70-9L7A.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=762 end=558482 sample=../Audio/SpaceyStrings/71-82X0.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=879 sample=../Audio/SpaceyStrings/72-LJZ8.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=721 end=562058 sample=../Audio/SpaceyStrings/73-43F2.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=767 end=571533 sample=../Audio/SpaceyStrings/74-8RCH.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=883 end=562470 sample=../Audio/SpaceyStrings/75-4HXQ.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=986 end=560537 sample=../Audio/SpaceyStrings/76-0IFY.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=975 end=561712 sample=../Audio/SpaceyStrings/77-KXGJ.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=590 end=570627 sample=../Audio/SpaceyStrings/78-LPMT.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=879 end=558336 sample=../Audio/SpaceyStrings/79-45WI.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=993 end=568836 sample=../Audio/SpaceyStrings/80-Q8R2.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=835 end=561442 sample=../Audio/SpaceyStrings/81-QEFK.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=533 end=571686 sample=../Audio/SpaceyStrings/82-4GKZ.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=738 end=562051 sample=../Audio/SpaceyStrings/83-CCXX.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=601 end=559775 sample=../Audio/SpaceyStrings/84-A1A7.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=709 end=560529 sample=../Audio/SpaceyStrings/85-TAT6.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=847 end=570517 sample=../Audio/SpaceyStrings/86-8IP3.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=973 end=558239 sample=../Audio/SpaceyStrings/87-HBV2.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=762 end=568725 sample=../Audio/SpaceyStrings/88-303N.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=761 end=561298 sample=../Audio/SpaceyStrings/89-YDLQ.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=989 end=572305 sample=../Audio/SpaceyStrings/90-2AHB.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=456 end=561040 sample=../Audio/SpaceyStrings/91-YP5P.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1102 end=560258 sample=../Audio/SpaceyStrings/92-O1TN.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1001 end=560394 sample=../Audio/SpaceyStrings/93-1Q6Y.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=473 end=569487 sample=../Audio/SpaceyStrings/94-JB0Y.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=502 end=557443 sample=../Audio/SpaceyStrings/95-UO83.aif
+<group>lokey=96 hikey=127 pitch_keycenter=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=852 end=568078 sample=../Audio/SpaceyStrings/96-9YAU.aif

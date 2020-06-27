@@ -1,0 +1,124 @@
+// this file was generated from WorkingStrings.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=36 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=800 end=565504 sample=../Audio/WorkingStrings/36-IX4D.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1025 end=566642 sample=../Audio/WorkingStrings/37-RRO6.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=950 end=567841 sample=../Audio/WorkingStrings/38-ADOI.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=766 end=564957 sample=../Audio/WorkingStrings/39-FO2M.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=800 end=567552 sample=../Audio/WorkingStrings/40-UWNH.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=469 end=565701 sample=../Audio/WorkingStrings/41-6HPA.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=636 end=567478 sample=../Audio/WorkingStrings/42-05WJ.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=730 end=566547 sample=../Audio/WorkingStrings/43-SGXA.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=769 end=566237 sample=../Audio/WorkingStrings/44-XQ01.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1063 end=565888 sample=../Audio/WorkingStrings/45-9TCV.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=738 end=567357 sample=../Audio/WorkingStrings/46-RTFT.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=729 end=565413 sample=../Audio/WorkingStrings/47-L86J.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1035 end=567835 sample=../Audio/WorkingStrings/48-RXDB.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=711 end=566350 sample=../Audio/WorkingStrings/49-YM6E.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=624 end=567620 sample=../Audio/WorkingStrings/50-VCG7.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=723 sample=../Audio/WorkingStrings/51-Q6KE.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=967 end=566144 sample=../Audio/WorkingStrings/52-OG9O.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=851 end=566219 sample=../Audio/WorkingStrings/53-FC19.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=558 sample=../Audio/WorkingStrings/54-ELZH.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1121 end=565120 sample=../Audio/WorkingStrings/55-EN9S.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=724 end=567040 sample=../Audio/WorkingStrings/56-V4GD.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=528 end=565656 sample=../Audio/WorkingStrings/57-CLZE.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=816 end=567835 sample=../Audio/WorkingStrings/58-A8II.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=744 end=566338 sample=../Audio/WorkingStrings/59-J8ZK.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1072 end=566423 sample=../Audio/WorkingStrings/60-ZLE5.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1086 end=566073 sample=../Audio/WorkingStrings/61-IP2O.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=784 end=567944 sample=../Audio/WorkingStrings/62-G1BU.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=581 end=565273 sample=../Audio/WorkingStrings/63-EEP9.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=873 end=566919 sample=../Audio/WorkingStrings/64-NMZH.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=951 end=566330 sample=../Audio/WorkingStrings/65-TGIT.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=487 end=567759 sample=../Audio/WorkingStrings/66-RX39.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=722 end=566090 sample=../Audio/WorkingStrings/67-5ZHE.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=799 end=565685 sample=../Audio/WorkingStrings/68-0SOS.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=832 end=566296 sample=../Audio/WorkingStrings/69-L6VF.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=993 sample=../Audio/WorkingStrings/70-HVYV.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1268 sample=../Audio/WorkingStrings/71-PYHB.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1132 sample=../Audio/WorkingStrings/72-L1WX.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=750 end=565918 sample=../Audio/WorkingStrings/73-X3BT.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=920 end=567843 sample=../Audio/WorkingStrings/74-DLKA.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=731 sample=../Audio/WorkingStrings/75-XQWI.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=753 sample=../Audio/WorkingStrings/76-K6P6.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=935 end=566144 sample=../Audio/WorkingStrings/77-WAQ3.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1094 end=568114 sample=../Audio/WorkingStrings/78-L3L6.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=935 end=565260 sample=../Audio/WorkingStrings/79-VFSN.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=875 sample=../Audio/WorkingStrings/80-VCQM.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=772 end=566173 sample=../Audio/WorkingStrings/81-VDEN.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=728 sample=../Audio/WorkingStrings/82-ZR7H.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=616 end=566288 sample=../Audio/WorkingStrings/83-ID49.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1150 end=565913 sample=../Audio/WorkingStrings/84-L0PR.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=760 end=566044 sample=../Audio/WorkingStrings/85-9854.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=518 end=567436 sample=../Audio/WorkingStrings/86-XQ3U.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1086 sample=../Audio/WorkingStrings/87-XLQN.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=855 end=568079 sample=../Audio/WorkingStrings/88-4HR6.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1014 end=565524 sample=../Audio/WorkingStrings/89-GUW6.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=894 end=567608 sample=../Audio/WorkingStrings/90-M4AK.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=854 end=566229 sample=../Audio/WorkingStrings/91-KMN1.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=630 sample=../Audio/WorkingStrings/92-3UMY.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=735 end=566042 sample=../Audio/WorkingStrings/93-P5BC.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=875 end=567443 sample=../Audio/WorkingStrings/94-LTOF.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=988 end=565772 sample=../Audio/WorkingStrings/95-RLRY.aif
+<group>lokey=96 hikey=127 pitch_keycenter=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1041 end=567208 sample=../Audio/WorkingStrings/96-X3H8.aif
