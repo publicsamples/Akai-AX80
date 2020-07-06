@@ -1,7 +1,7 @@
 
 # Akai AX 80
 
-The Akai AX-80 is an aggressive sounding CEM based polysynth. Built in the early 80s this was Akai's first synthesiser. I think it looks cool.
+The Akai AX-80 is an aggressive sounding CEM based polysynt from the early 80s. It looks cool.
 
 
 -   **Formats:** EXS24, Kontakt & SFZ
