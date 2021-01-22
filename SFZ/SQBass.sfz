@@ -1,129 +1,68 @@
-<global>
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - SQBass.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
 
- pitchlfo_freq=4
- pitchlfo_depth=0 //default setting
- pitchlfo_depth_oncc1=200  //pitch variation in cents using the mod wheel
- 
- 
-<group>lokey=7 hikey=36 pitch_keycenter=36 pitch_keytrack=100
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=819 end=117331 sample=../Audio/SQBass/36-QW2V.aif
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=979 end=117998 sample=../Audio/SQBass/37-F6KC.aif
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=587 sample=../Audio/SQBass/38-FBIE.aif
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=921 end=115985 sample=../Audio/SQBass/39-HRLQ.aif
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=402 end=123476 sample=../Audio/SQBass/40-EJHA.aif
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1017 end=119204 sample=../Audio/SQBass/41-TIMF.aif
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=604 end=126023 sample=../Audio/SQBass/42-ZFO5.aif
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=306 end=118687 sample=../Audio/SQBass/43-1MTU.aif
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=571 end=117893 sample=../Audio/SQBass/44-M82T.aif
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=814 end=118407 sample=../Audio/SQBass/45-TMA5.aif
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=809 end=126603 sample=../Audio/SQBass/46-TJVZ.aif
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=883 end=116445 sample=../Audio/SQBass/47-PXID.aif
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=621 end=124235 sample=../Audio/SQBass/48-W94W.aif
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=443 end=118416 sample=../Audio/SQBass/49-EKDI.aif
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=437 end=124755 sample=../Audio/SQBass/50-EV87.aif
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=651 end=118276 sample=../Audio/SQBass/51-7CS8.aif
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=838 end=116736 sample=../Audio/SQBass/52-3EAQ.aif
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1026 end=116957 sample=../Audio/SQBass/53-LHOR.aif
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=576 end=120509 sample=../Audio/SQBass/54-DPF7.aif
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=805 end=113101 sample=../Audio/SQBass/55-EU2N.aif
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=795 end=117841 sample=../Audio/SQBass/56-YFTO.aif
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=658 end=113546 sample=../Audio/SQBass/57-JCMX.aif
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=765 end=117376 sample=../Audio/SQBass/58-N642.aif
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=502 end=111441 sample=../Audio/SQBass/59-JW6S.aif
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=846 end=109277 sample=../Audio/SQBass/60-WU4H.aif
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1226 end=108343 sample=../Audio/SQBass/61-3SZC.aif
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=715 end=110832 sample=../Audio/SQBass/62-SWZK.aif
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=581 end=101974 sample=../Audio/SQBass/63-UV9G.aif
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=814 end=103596 sample=../Audio/SQBass/64-MC7O.aif
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=935 end=99209 sample=../Audio/SQBass/65-K2DY.aif
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=703 end=98593 sample=../Audio/SQBass/66-CKEC.aif
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=845 end=93240 sample=../Audio/SQBass/67-GLH4.aif
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=679 end=89485 sample=../Audio/SQBass/68-XDE7.aif
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=699 end=87040 sample=../Audio/SQBass/69-I103.aif
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=845 end=85633 sample=../Audio/SQBass/70-OLOK.aif
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1008 end=77121 sample=../Audio/SQBass/71-0J1D.aif
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=683 end=78011 sample=../Audio/SQBass/72-KM5T.aif
-<group> key=73 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=888 sample=../Audio/SQBass/73-XPB6.aif
-<group> key=74 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=972 end=70528 sample=../Audio/SQBass/74-H01N.aif
-<group> key=75 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=793 end=60049 sample=../Audio/SQBass/75-UKUZ.aif
-<group> key=76 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=709 end=57509 sample=../Audio/SQBass/76-NA4I.aif
-<group> key=77 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=941 end=52224 sample=../Audio/SQBass/77-MJ9F.aif
-<group> key=78 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1070 end=49952 sample=../Audio/SQBass/78-AG1N.aif
-<group> key=79 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=926 end=45097 sample=../Audio/SQBass/79-XUG5.aif
-<group> key=80 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=546 sample=../Audio/SQBass/80-MAOL.aif
-<group> key=81 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=957 end=41856 sample=../Audio/SQBass/81-60K9.aif
-<group> key=82 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=639 end=41488 sample=../Audio/SQBass/82-ZN8G.aif
-<group> key=83 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=961 sample=../Audio/SQBass/83-Y003.aif
-<group> key=84 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=720 end=35459 sample=../Audio/SQBass/84-ARDU.aif
-<group> key=85 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=662 end=30098 sample=../Audio/SQBass/85-TP2V.aif
-<group> key=86 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=872 end=31621 sample=../Audio/SQBass/86-ET1N.aif
-<group> key=87 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1091 end=29058 sample=../Audio/SQBass/87-SWOA.aif
-<group> key=88 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=686 end=31504 sample=../Audio/SQBass/88-2JHH.aif
-<group> key=89 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=660 end=24596 sample=../Audio/SQBass/89-9Z8Y.aif
-<group> key=90 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=896 end=29207 sample=../Audio/SQBass/90-4IAR.aif
-<group> key=91 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=890 end=24205 sample=../Audio/SQBass/91-K9T2.aif
-<group> key=92 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1215 end=24064 sample=../Audio/SQBass/92-XBUS.aif
-<group> key=93 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=443 end=21376 sample=../Audio/SQBass/93-ZAQY.aif
-<group> key=94 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=833 end=29445 sample=../Audio/SQBass/94-H0HV.aif
-<group> key=95 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=956 end=20864 sample=../Audio/SQBass/95-Z0PD.aif
-<group>lokey=96 hikey=127 pitch_keycenter=96 pitch_keytrack=100
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=831 end=20864 sample=../Audio/SQBass/96-5G7F.aif
+<control>
+default_path=../Audio/SQBass/
+
+<group>        // SQBass
+<region> sample=36-QW2V.aif key=36 lokey=7 hikey=36 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=819 end=117331 loop_mode=no_loop
+<region> sample=37-F6KC.aif key=37 lokey=37 hikey=37 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=979 end=117998 loop_mode=no_loop
+<region> sample=38-FBIE.aif key=38 lokey=38 hikey=38 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=587 loop_mode=no_loop
+<region> sample=39-HRLQ.aif key=39 lokey=39 hikey=39 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=921 end=115985 loop_mode=no_loop
+<region> sample=40-EJHA.aif key=40 lokey=40 hikey=40 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=402 end=123476 loop_mode=no_loop
+<region> sample=41-TIMF.aif key=41 lokey=41 hikey=41 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=1017 end=119204 loop_mode=no_loop
+<region> sample=42-ZFO5.aif key=42 lokey=42 hikey=42 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=604 end=126023 loop_mode=no_loop
+<region> sample=43-1MTU.aif key=43 lokey=43 hikey=43 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=306 end=118687 loop_mode=no_loop
+<region> sample=44-M82T.aif key=44 lokey=44 hikey=44 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=571 end=117893 loop_mode=no_loop
+<region> sample=45-TMA5.aif key=45 lokey=45 hikey=45 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=814 end=118407 loop_mode=no_loop
+<region> sample=46-TJVZ.aif key=46 lokey=46 hikey=46 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=809 end=126603 loop_mode=no_loop
+<region> sample=47-PXID.aif key=47 lokey=47 hikey=47 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=883 end=116445 loop_mode=no_loop
+<region> sample=48-W94W.aif key=48 lokey=48 hikey=48 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=621 end=124235 loop_mode=no_loop
+<region> sample=49-EKDI.aif key=49 lokey=49 hikey=49 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=443 end=118416 loop_mode=no_loop
+<region> sample=50-EV87.aif key=50 lokey=50 hikey=50 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=437 end=124755 loop_mode=no_loop
+<region> sample=51-7CS8.aif key=51 lokey=51 hikey=51 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=651 end=118276 loop_mode=no_loop
+<region> sample=52-3EAQ.aif key=52 lokey=52 hikey=52 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=838 end=116736 loop_mode=no_loop
+<region> sample=53-LHOR.aif key=53 lokey=53 hikey=53 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=1026 end=116957 loop_mode=no_loop
+<region> sample=54-DPF7.aif key=54 lokey=54 hikey=54 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=576 end=120509 loop_mode=no_loop
+<region> sample=55-EU2N.aif key=55 lokey=55 hikey=55 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=805 end=113101 loop_mode=no_loop
+<region> sample=56-YFTO.aif key=56 lokey=56 hikey=56 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=795 end=117841 loop_mode=no_loop
+<region> sample=57-JCMX.aif key=57 lokey=57 hikey=57 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=658 end=113546 loop_mode=no_loop
+<region> sample=58-N642.aif key=58 lokey=58 hikey=58 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=765 end=117376 loop_mode=no_loop
+<region> sample=59-JW6S.aif key=59 lokey=59 hikey=59 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=502 end=111441 loop_mode=no_loop
+<region> sample=60-WU4H.aif key=60 lokey=60 hikey=60 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=846 end=109277 loop_mode=no_loop
+<region> sample=61-3SZC.aif key=61 lokey=61 hikey=61 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=1226 end=108343 loop_mode=no_loop
+<region> sample=62-SWZK.aif key=62 lokey=62 hikey=62 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=715 end=110832 loop_mode=no_loop
+<region> sample=63-UV9G.aif key=63 lokey=63 hikey=63 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=581 end=101974 loop_mode=no_loop
+<region> sample=64-MC7O.aif key=64 lokey=64 hikey=64 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=814 end=103596 loop_mode=no_loop
+<region> sample=65-K2DY.aif key=65 lokey=65 hikey=65 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=935 end=99209 loop_mode=no_loop
+<region> sample=66-CKEC.aif key=66 lokey=66 hikey=66 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=703 end=98593 loop_mode=no_loop
+<region> sample=67-GLH4.aif key=67 lokey=67 hikey=67 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=845 end=93240 loop_mode=no_loop
+<region> sample=68-XDE7.aif key=68 lokey=68 hikey=68 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=679 end=89485 loop_mode=no_loop
+<region> sample=69-I103.aif key=69 lokey=69 hikey=69 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=699 end=87040 loop_mode=no_loop
+<region> sample=70-OLOK.aif key=70 lokey=70 hikey=70 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=845 end=85633 loop_mode=no_loop
+<region> sample=71-0J1D.aif key=71 lokey=71 hikey=71 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=1008 end=77121 loop_mode=no_loop
+<region> sample=72-KM5T.aif key=72 lokey=72 hikey=72 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=683 end=78011 loop_mode=no_loop
+<region> sample=73-XPB6.aif key=73 lokey=73 hikey=73 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=888 loop_mode=no_loop
+<region> sample=74-H01N.aif key=74 lokey=74 hikey=74 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=972 end=70528 loop_mode=no_loop
+<region> sample=75-UKUZ.aif key=75 lokey=75 hikey=75 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=793 end=60049 loop_mode=no_loop
+<region> sample=76-NA4I.aif key=76 lokey=76 hikey=76 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=709 end=57509 loop_mode=no_loop
+<region> sample=77-MJ9F.aif key=77 lokey=77 hikey=77 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=941 end=52224 loop_mode=no_loop
+<region> sample=78-AG1N.aif key=78 lokey=78 hikey=78 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=1070 end=49952 loop_mode=no_loop
+<region> sample=79-XUG5.aif key=79 lokey=79 hikey=79 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=926 end=45097 loop_mode=no_loop
+<region> sample=80-MAOL.aif key=80 lokey=80 hikey=80 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=546 loop_mode=no_loop
+<region> sample=81-60K9.aif key=81 lokey=81 hikey=81 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=957 end=41856 loop_mode=no_loop
+<region> sample=82-ZN8G.aif key=82 lokey=82 hikey=82 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=639 end=41488 loop_mode=no_loop
+<region> sample=83-Y003.aif key=83 lokey=83 hikey=83 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=961 loop_mode=no_loop
+<region> sample=84-ARDU.aif key=84 lokey=84 hikey=84 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=720 end=35459 loop_mode=no_loop
+<region> sample=85-TP2V.aif key=85 lokey=85 hikey=85 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=662 end=30098 loop_mode=no_loop
+<region> sample=86-ET1N.aif key=86 lokey=86 hikey=86 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=872 end=31621 loop_mode=no_loop
+<region> sample=87-SWOA.aif key=87 lokey=87 hikey=87 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=1091 end=29058 loop_mode=no_loop
+<region> sample=88-2JHH.aif key=88 lokey=88 hikey=88 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=686 end=31504 loop_mode=no_loop
+<region> sample=89-9Z8Y.aif key=89 lokey=89 hikey=89 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=660 end=24596 loop_mode=no_loop
+<region> sample=90-4IAR.aif key=90 lokey=90 hikey=90 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=896 end=29207 loop_mode=no_loop
+<region> sample=91-K9T2.aif key=91 lokey=91 hikey=91 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=890 end=24205 loop_mode=no_loop
+<region> sample=92-XBUS.aif key=92 lokey=92 hikey=92 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=1215 end=24064 loop_mode=no_loop
+<region> sample=93-ZAQY.aif key=93 lokey=93 hikey=93 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=443 end=21376 loop_mode=no_loop
+<region> sample=94-H0HV.aif key=94 lokey=94 hikey=94 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=833 end=29445 loop_mode=no_loop
+<region> sample=95-Z0PD.aif key=95 lokey=95 hikey=95 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=956 end=20864 loop_mode=no_loop
+<region> sample=96-5G7F.aif key=96 lokey=96 hikey=127 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=831 end=20864 loop_mode=no_loop

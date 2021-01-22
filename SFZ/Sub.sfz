@@ -1,28 +1,20 @@
-// this file was generated from Sub.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Sub.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
 
-<group>lokey=7 hikey=37 pitch_keycenter=36 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1020 end=449204 sample=../Audio/Sub/37-UHCD.aif
-<group>lokey=38 hikey=42 pitch_keycenter=41 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=651 end=443466 sample=../Audio/Sub/42-HPX8.aif
-<group>lokey=43 hikey=47 pitch_keycenter=46 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=391 end=443485 sample=../Audio/Sub/47-B58M.aif
-<group>lokey=48 hikey=52 pitch_keycenter=51 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=747 end=447805 sample=../Audio/Sub/52-FY6B.aif
-<group>lokey=53 hikey=57 pitch_keycenter=56 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=794 end=449023 sample=../Audio/Sub/57-6JKQ.aif
-<group>lokey=58 hikey=62 pitch_keycenter=61 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=835 end=448513 sample=../Audio/Sub/62-CI1F.aif
-<group>lokey=63 hikey=67 pitch_keycenter=66 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=760 end=443936 sample=../Audio/Sub/67-I1XH.aif
-<group>lokey=68 hikey=72 pitch_keycenter=71 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=620 end=444102 sample=../Audio/Sub/72-L13H.aif
-<group>lokey=73 hikey=77 pitch_keycenter=76 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=939 end=443297 sample=../Audio/Sub/77-SN4L.aif
-<group>lokey=78 hikey=82 pitch_keycenter=81 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=933 end=446256 sample=../Audio/Sub/82-HXXB.aif
-<group>lokey=83 hikey=87 pitch_keycenter=86 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1026 end=446792 sample=../Audio/Sub/87-CU8F.aif
-<group>lokey=88 hikey=92 pitch_keycenter=91 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=732 end=446174 sample=../Audio/Sub/92-ZW94.aif
-<group>lokey=93 hikey=127 pitch_keycenter=96 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=816 end=445185 sample=../Audio/Sub/96-DBDF.aif
+<control>
+default_path=../Audio/Sub/
+
+<group>        // Sub
+<region> sample=37-UHCD.aif key=36 lokey=7 hikey=37 lovel=1 hivel=127 offset=1020 end=449204 loop_mode=no_loop
+<region> sample=42-HPX8.aif key=41 lokey=38 hikey=42 lovel=1 hivel=127 offset=651 end=443466 loop_mode=no_loop
+<region> sample=47-B58M.aif key=46 lokey=43 hikey=47 lovel=1 hivel=127 offset=391 end=443485 loop_mode=no_loop
+<region> sample=52-FY6B.aif key=51 lokey=48 hikey=52 lovel=1 hivel=127 offset=747 end=447805 loop_mode=no_loop
+<region> sample=57-6JKQ.aif key=56 lokey=53 hikey=57 lovel=1 hivel=127 offset=794 end=449023 loop_mode=no_loop
+<region> sample=62-CI1F.aif key=61 lokey=58 hikey=62 lovel=1 hivel=127 offset=835 end=448513 loop_mode=no_loop
+<region> sample=67-I1XH.aif key=66 lokey=63 hikey=67 lovel=1 hivel=127 offset=760 end=443936 loop_mode=no_loop
+<region> sample=72-L13H.aif key=71 lokey=68 hikey=72 lovel=1 hivel=127 offset=620 end=444102 loop_mode=no_loop
+<region> sample=77-SN4L.aif key=76 lokey=73 hikey=77 lovel=1 hivel=127 offset=939 end=443297 loop_mode=no_loop
+<region> sample=82-HXXB.aif key=81 lokey=78 hikey=82 lovel=1 hivel=127 offset=933 end=446256 loop_mode=no_loop
+<region> sample=87-CU8F.aif key=86 lokey=83 hikey=87 lovel=1 hivel=127 offset=1026 end=446792 loop_mode=no_loop
+<region> sample=92-ZW94.aif key=91 lokey=88 hikey=92 lovel=1 hivel=127 offset=732 end=446174 loop_mode=no_loop
+<region> sample=96-DBDF.aif key=96 lokey=93 hikey=127 lovel=1 hivel=127 offset=816 end=445185 loop_mode=no_loop

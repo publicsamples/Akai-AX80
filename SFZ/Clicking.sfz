@@ -1,44 +1,28 @@
-// this file was generated from Clicking.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Clicking.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
 
-<group>lokey=5 hikey=36 pitch_keycenter=36 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=922 end=269185 sample=../Audio/Clicking/36-NBT2.aif
-<group>lokey=37 hikey=39 pitch_keycenter=39 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=792 end=269869 sample=../Audio/Clicking/39-NCP5.aif
-<group>lokey=40 hikey=42 pitch_keycenter=42 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=905 end=288514 sample=../Audio/Clicking/42-14TS.aif
-<group>lokey=43 hikey=45 pitch_keycenter=45 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=594 end=265577 sample=../Audio/Clicking/45-2JKW.aif
-<group>lokey=46 hikey=48 pitch_keycenter=48 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=468 end=285333 sample=../Audio/Clicking/48-8VQU.aif
-<group>lokey=49 hikey=51 pitch_keycenter=51 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=950 end=271522 sample=../Audio/Clicking/51-MXOQ.aif
-<group>lokey=52 hikey=54 pitch_keycenter=54 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=692 end=288964 sample=../Audio/Clicking/54-MFBA.aif
-<group>lokey=55 hikey=57 pitch_keycenter=57 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=899 end=272039 sample=../Audio/Clicking/57-XAHZ.aif
-<group>lokey=58 hikey=60 pitch_keycenter=60 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=989 end=269328 sample=../Audio/Clicking/60-71NF.aif
-<group>lokey=61 hikey=63 pitch_keycenter=63 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1127 end=270862 sample=../Audio/Clicking/63-6C78.aif
-<group>lokey=64 hikey=66 pitch_keycenter=66 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=737 end=288664 sample=../Audio/Clicking/66-5HIY.aif
-<group>lokey=67 hikey=69 pitch_keycenter=69 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=817 end=265472 sample=../Audio/Clicking/69-QPL1.aif
-<group>lokey=70 hikey=72 pitch_keycenter=72 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=818 end=284816 sample=../Audio/Clicking/72-0K1H.aif
-<group>lokey=73 hikey=75 pitch_keycenter=75 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=650 end=271897 sample=../Audio/Clicking/75-NKVP.aif
-<group>lokey=76 hikey=78 pitch_keycenter=78 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=639 end=290058 sample=../Audio/Clicking/78-E616.aif
-<group>lokey=79 hikey=81 pitch_keycenter=81 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=985 end=272393 sample=../Audio/Clicking/81-NPPU.aif
-<group>lokey=82 hikey=84 pitch_keycenter=84 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=780 end=269471 sample=../Audio/Clicking/84-H2A9.aif
-<group>lokey=85 hikey=87 pitch_keycenter=87 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=929 end=270218 sample=../Audio/Clicking/87-J9ZK.aif
-<group>lokey=88 hikey=90 pitch_keycenter=90 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=544 end=288128 sample=../Audio/Clicking/90-5STD.aif
-<group>lokey=91 hikey=93 pitch_keycenter=93 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=880 end=265482 sample=../Audio/Clicking/93-7AUR.aif
-<group>lokey=94 hikey=125 pitch_keycenter=96 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=899 end=284430 sample=../Audio/Clicking/96-E28J.aif
+<control>
+default_path=../Audio/Clicking/
+
+<group>        // Clicking
+<region> sample=36-NBT2.aif key=36 lokey=5 hikey=36 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=922 end=269185 loop_mode=no_loop
+<region> sample=39-NCP5.aif key=39 lokey=37 hikey=39 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=792 end=269869 loop_mode=no_loop
+<region> sample=42-14TS.aif key=42 lokey=40 hikey=42 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=905 end=288514 loop_mode=no_loop
+<region> sample=45-2JKW.aif key=45 lokey=43 hikey=45 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=594 end=265577 loop_mode=no_loop
+<region> sample=48-8VQU.aif key=48 lokey=46 hikey=48 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=468 end=285333 loop_mode=no_loop
+<region> sample=51-MXOQ.aif key=51 lokey=49 hikey=51 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=950 end=271522 loop_mode=no_loop
+<region> sample=54-MFBA.aif key=54 lokey=52 hikey=54 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=692 end=288964 loop_mode=no_loop
+<region> sample=57-XAHZ.aif key=57 lokey=55 hikey=57 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=899 end=272039 loop_mode=no_loop
+<region> sample=60-71NF.aif key=60 lokey=58 hikey=60 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=989 end=269328 loop_mode=no_loop
+<region> sample=63-6C78.aif key=63 lokey=61 hikey=63 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=1127 end=270862 loop_mode=no_loop
+<region> sample=66-5HIY.aif key=66 lokey=64 hikey=66 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=737 end=288664 loop_mode=no_loop
+<region> sample=69-QPL1.aif key=69 lokey=67 hikey=69 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=817 end=265472 loop_mode=no_loop
+<region> sample=72-0K1H.aif key=72 lokey=70 hikey=72 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=818 end=284816 loop_mode=no_loop
+<region> sample=75-NKVP.aif key=75 lokey=73 hikey=75 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=650 end=271897 loop_mode=no_loop
+<region> sample=78-E616.aif key=78 lokey=76 hikey=78 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=639 end=290058 loop_mode=no_loop
+<region> sample=81-NPPU.aif key=81 lokey=79 hikey=81 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=985 end=272393 loop_mode=no_loop
+<region> sample=84-H2A9.aif key=84 lokey=82 hikey=84 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=780 end=269471 loop_mode=no_loop
+<region> sample=87-J9ZK.aif key=87 lokey=85 hikey=87 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=929 end=270218 loop_mode=no_loop
+<region> sample=90-5STD.aif key=90 lokey=88 hikey=90 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=544 end=288128 loop_mode=no_loop
+<region> sample=93-7AUR.aif key=93 lokey=91 hikey=93 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=880 end=265482 loop_mode=no_loop
+<region> sample=96-E28J.aif key=96 lokey=94 hikey=125 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=899 end=284430 loop_mode=no_loop

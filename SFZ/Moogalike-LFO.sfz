@@ -1,307 +1,251 @@
-// this file was generated from Moogalike-LFO.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Moogalike-LFO.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
 
-<group>lokey=5 hikey=36 pitch_keycenter=36 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=965 sample=../Audio/Moogalike/36-NHFB.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=674 end=359109 sample=../Audio/Moogalike/36-ST29.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=668 end=358455 sample=../Audio/Moogalike/36-MRUX.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=418 sample=../Audio/Moogalike/36-JWZ9.aif
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=526 end=356055 sample=../Audio/Moogalike/37-0OPE.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=475 sample=../Audio/Moogalike/37-7O7N.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=968 end=361040 sample=../Audio/Moogalike/37-NYD1.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=713 sample=../Audio/Moogalike/37-LCL1.aif
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=1043 end=362679 sample=../Audio/Moogalike/38-KEHT.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=513 end=355364 sample=../Audio/Moogalike/38-SYW5.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=751 end=359856 sample=../Audio/Moogalike/38-GT1C.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=994 end=358577 sample=../Audio/Moogalike/38-8PZF.aif
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=611 end=362877 sample=../Audio/Moogalike/39-ZSGH.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=594 end=361302 sample=../Audio/Moogalike/39-TQ8Q.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=728 end=361601 sample=../Audio/Moogalike/39-J0RN.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=726 end=359903 sample=../Audio/Moogalike/39-353P.aif
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=1207 end=360569 sample=../Audio/Moogalike/40-RG10.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=877 end=363500 sample=../Audio/Moogalike/40-SG5X.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=742 end=362762 sample=../Audio/Moogalike/40-A85O.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=732 end=357085 sample=../Audio/Moogalike/40-5JVJ.aif
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=986 end=361459 sample=../Audio/Moogalike/41-RL69.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=838 end=359276 sample=../Audio/Moogalike/41-491C.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=961 end=364474 sample=../Audio/Moogalike/41-LDKV.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=950 end=361224 sample=../Audio/Moogalike/41-HMEF.aif
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=651 end=359979 sample=../Audio/Moogalike/42-17J7.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=617 end=359237 sample=../Audio/Moogalike/42-2JCU.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=975 end=361149 sample=../Audio/Moogalike/42-OGOB.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=593 end=355688 sample=../Audio/Moogalike/42-DMIV.aif
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=717 end=358669 sample=../Audio/Moogalike/43-236Y.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=923 end=356338 sample=../Audio/Moogalike/43-3W06.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=521 end=355435 sample=../Audio/Moogalike/43-E1W0.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=501 end=360929 sample=../Audio/Moogalike/43-V71B.aif
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=1085 end=359372 sample=../Audio/Moogalike/44-W2BI.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=924 end=359834 sample=../Audio/Moogalike/44-KIHB.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=779 end=360658 sample=../Audio/Moogalike/44-KNNV.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=626 end=355532 sample=../Audio/Moogalike/44-CVWD.aif
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=635 end=360328 sample=../Audio/Moogalike/45-FINQ.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=359 end=355098 sample=../Audio/Moogalike/45-0LCJ.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=723 end=360104 sample=../Audio/Moogalike/45-Q8Y7.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=486 end=361259 sample=../Audio/Moogalike/45-D8ED.aif
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=665 end=362311 sample=../Audio/Moogalike/46-63I0.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=1007 sample=../Audio/Moogalike/46-1GRR.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=989 end=358837 sample=../Audio/Moogalike/46-NBQ8.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=462 end=358156 sample=../Audio/Moogalike/46-S3V8.aif
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=827 end=364225 sample=../Audio/Moogalike/47-XYPD.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=562 end=361847 sample=../Audio/Moogalike/47-X53I.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=817 end=361700 sample=../Audio/Moogalike/47-8HIY.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=439 end=360960 sample=../Audio/Moogalike/47-5LPL.aif
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=756 end=355729 sample=../Audio/Moogalike/48-2QSE.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=721 end=355441 sample=../Audio/Moogalike/48-FATD.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=717 end=363020 sample=../Audio/Moogalike/48-TJBA.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=595 end=359972 sample=../Audio/Moogalike/48-YW9N.aif
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=732 end=355353 sample=../Audio/Moogalike/49-2SVJ.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=938 end=363608 sample=../Audio/Moogalike/49-HRIQ.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=949 end=355807 sample=../Audio/Moogalike/49-4IL4.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=820 end=361798 sample=../Audio/Moogalike/49-HVVH.aif
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=629 sample=../Audio/Moogalike/50-FO3F.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=824 end=357242 sample=../Audio/Moogalike/50-B6HJ.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=961 end=364924 sample=../Audio/Moogalike/50-TC5I.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=572 end=362493 sample=../Audio/Moogalike/50-NP3A.aif
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=440 end=355426 sample=../Audio/Moogalike/51-BVSN.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=1104 end=355572 sample=../Audio/Moogalike/51-NZGG.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=629 end=362173 sample=../Audio/Moogalike/51-SFC8.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=882 end=355671 sample=../Audio/Moogalike/51-REXJ.aif
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=951 end=355674 sample=../Audio/Moogalike/52-M5F6.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=902 end=362752 sample=../Audio/Moogalike/52-EEG4.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=753 end=355668 sample=../Audio/Moogalike/52-LKBM.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=976 sample=../Audio/Moogalike/52-P0NR.aif
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=877 end=355541 sample=../Audio/Moogalike/53-ID7C.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=811 end=358707 sample=../Audio/Moogalike/53-9338.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=571 sample=../Audio/Moogalike/53-OP0H.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=824 end=361289 sample=../Audio/Moogalike/53-AYS6.aif
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=775 end=355860 sample=../Audio/Moogalike/54-RJ8F.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=1238 end=358655 sample=../Audio/Moogalike/54-42YS.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=1106 sample=../Audio/Moogalike/54-IM1B.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=713 end=360099 sample=../Audio/Moogalike/54-T70Z.aif
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=1023 sample=../Audio/Moogalike/55-OA3K.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=590 end=359965 sample=../Audio/Moogalike/55-O208.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=722 end=355163 sample=../Audio/Moogalike/55-RXEB.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=708 end=355585 sample=../Audio/Moogalike/55-00F1.aif
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=758 end=360966 sample=../Audio/Moogalike/56-07Z9.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=848 end=354943 sample=../Audio/Moogalike/56-C60L.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=592 end=354756 sample=../Audio/Moogalike/56-1CID.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=716 sample=../Audio/Moogalike/56-HKX9.aif
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=703 end=358129 sample=../Audio/Moogalike/57-OQX6.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=924 end=360178 sample=../Audio/Moogalike/57-J759.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=799 end=360037 sample=../Audio/Moogalike/57-LMLJ.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=682 end=355456 sample=../Audio/Moogalike/57-2ATH.aif
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=871 end=357213 sample=../Audio/Moogalike/58-Z01C.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=704 end=356637 sample=../Audio/Moogalike/58-187C.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=818 sample=../Audio/Moogalike/58-S7NB.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=677 end=360490 sample=../Audio/Moogalike/58-RP3E.aif
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=795 end=358159 sample=../Audio/Moogalike/59-CUJ3.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=630 end=355278 sample=../Audio/Moogalike/59-SIUC.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=875 end=359417 sample=../Audio/Moogalike/59-W2YX.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=888 end=359015 sample=../Audio/Moogalike/59-VSX1.aif
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=749 end=357605 sample=../Audio/Moogalike/60-FCXU.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=864 end=356091 sample=../Audio/Moogalike/60-T8DM.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=982 end=355490 sample=../Audio/Moogalike/60-81XH.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=856 end=355400 sample=../Audio/Moogalike/60-QXTM.aif
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=587 end=354624 sample=../Audio/Moogalike/61-8N49.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=697 end=354445 sample=../Audio/Moogalike/61-N4RA.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=811 end=359777 sample=../Audio/Moogalike/61-SVI2.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=958 end=359403 sample=../Audio/Moogalike/61-PW1C.aif
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=648 end=358205 sample=../Audio/Moogalike/62-U4HZ.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=504 end=360399 sample=../Audio/Moogalike/62-G14C.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=873 end=361521 sample=../Audio/Moogalike/62-VAXU.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=501 end=358919 sample=../Audio/Moogalike/62-668M.aif
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=906 end=355546 sample=../Audio/Moogalike/63-DRXW.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=490 end=355255 sample=../Audio/Moogalike/63-UTDG.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=1017 end=357293 sample=../Audio/Moogalike/63-6GK8.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=494 end=354680 sample=../Audio/Moogalike/63-K0WP.aif
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=577 end=358744 sample=../Audio/Moogalike/64-CCGK.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=946 sample=../Audio/Moogalike/64-EPDW.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=557 end=363237 sample=../Audio/Moogalike/64-IV1J.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=1101 end=359408 sample=../Audio/Moogalike/64-YKN7.aif
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=602 end=359761 sample=../Audio/Moogalike/65-50P6.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=952 end=359845 sample=../Audio/Moogalike/65-N301.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=837 end=362147 sample=../Audio/Moogalike/65-U4TT.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=990 end=363051 sample=../Audio/Moogalike/65-8UE0.aif
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=822 end=354980 sample=../Audio/Moogalike/66-B8K5.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=926 end=358262 sample=../Audio/Moogalike/66-VCLK.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=781 end=359822 sample=../Audio/Moogalike/66-E8S5.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=1051 end=356199 sample=../Audio/Moogalike/66-3L8Q.aif
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=1078 end=358759 sample=../Audio/Moogalike/67-A412.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=635 end=359417 sample=../Audio/Moogalike/67-TIEH.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=512 end=358500 sample=../Audio/Moogalike/67-JMKK.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=891 end=360407 sample=../Audio/Moogalike/67-A91T.aif
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=728 end=356090 sample=../Audio/Moogalike/68-8APZ.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=952 end=355846 sample=../Audio/Moogalike/68-RFU6.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=1068 end=359418 sample=../Audio/Moogalike/68-VF8S.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=1086 end=360154 sample=../Audio/Moogalike/68-KK2G.aif
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=1040 end=358020 sample=../Audio/Moogalike/69-PM2T.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=798 end=358689 sample=../Audio/Moogalike/69-ICEC.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=848 end=359669 sample=../Audio/Moogalike/69-7M01.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=1144 end=359193 sample=../Audio/Moogalike/69-301W.aif
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=1079 sample=../Audio/Moogalike/70-KSO0.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=944 end=358719 sample=../Audio/Moogalike/70-ZV95.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=804 end=359018 sample=../Audio/Moogalike/70-RUO5.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=672 end=357848 sample=../Audio/Moogalike/70-IBRH.aif
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=805 end=358182 sample=../Audio/Moogalike/71-BWCF.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=930 end=358779 sample=../Audio/Moogalike/71-VGPM.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=678 end=356738 sample=../Audio/Moogalike/71-LMGA.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=693 end=358152 sample=../Audio/Moogalike/71-HN3L.aif
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=647 end=355259 sample=../Audio/Moogalike/72-G87K.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=763 end=357885 sample=../Audio/Moogalike/72-L3YM.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=626 end=356804 sample=../Audio/Moogalike/72-9W7F.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=502 end=357801 sample=../Audio/Moogalike/72-2883.aif
-<group> key=73 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=904 end=357759 sample=../Audio/Moogalike/73-76D8.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=691 end=357865 sample=../Audio/Moogalike/73-XGKY.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=781 end=357111 sample=../Audio/Moogalike/73-DC39.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=927 end=356979 sample=../Audio/Moogalike/73-TJ88.aif
-<group> key=74 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=887 end=354881 sample=../Audio/Moogalike/74-67ID.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=599 end=357392 sample=../Audio/Moogalike/74-EZPW.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=853 end=357531 sample=../Audio/Moogalike/74-3YZ7.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=852 end=357813 sample=../Audio/Moogalike/74-SPLN.aif
-<group> key=75 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=734 end=357125 sample=../Audio/Moogalike/75-N3V6.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=847 end=357592 sample=../Audio/Moogalike/75-TI12.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=1122 end=357671 sample=../Audio/Moogalike/75-YCA3.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=769 end=356397 sample=../Audio/Moogalike/75-ID67.aif
-<group> key=76 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=733 end=353731 sample=../Audio/Moogalike/76-9HP2.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=734 end=357405 sample=../Audio/Moogalike/76-7K9X.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=855 end=356793 sample=../Audio/Moogalike/76-29P8.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=1011 end=357791 sample=../Audio/Moogalike/76-R7SB.aif
-<group> key=77 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=775 end=357518 sample=../Audio/Moogalike/77-ZH4D.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=500 end=357049 sample=../Audio/Moogalike/77-AVLP.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=634 end=357791 sample=../Audio/Moogalike/77-3ISE.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=907 end=357625 sample=../Audio/Moogalike/77-PAJ0.aif
-<group> key=78 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=733 end=354550 sample=../Audio/Moogalike/78-IBR0.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=838 sample=../Audio/Moogalike/78-LG9W.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=825 end=357316 sample=../Audio/Moogalike/78-S3AJ.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=846 end=358659 sample=../Audio/Moogalike/78-QVJI.aif
-<group> key=79 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=621 end=357602 sample=../Audio/Moogalike/79-WZQE.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=457 end=357223 sample=../Audio/Moogalike/79-QVZX.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=592 end=358202 sample=../Audio/Moogalike/79-IKAS.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=480 end=356727 sample=../Audio/Moogalike/79-KV6C.aif
-<group> key=80 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=582 end=354257 sample=../Audio/Moogalike/80-1I07.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=686 end=356982 sample=../Audio/Moogalike/80-JO56.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=454 end=357511 sample=../Audio/Moogalike/80-Y93P.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=592 end=357524 sample=../Audio/Moogalike/80-HAKE.aif
-<group> key=81 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=751 end=357327 sample=../Audio/Moogalike/81-W3FM.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=995 end=357869 sample=../Audio/Moogalike/81-1LWL.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=1016 end=357908 sample=../Audio/Moogalike/81-V0OQ.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=396 end=356994 sample=../Audio/Moogalike/81-OZNQ.aif
-<group> key=82 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=987 end=354694 sample=../Audio/Moogalike/82-L94P.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=851 end=357682 sample=../Audio/Moogalike/82-1Y0D.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=849 end=357646 sample=../Audio/Moogalike/82-IZ5I.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=875 end=358328 sample=../Audio/Moogalike/82-TF9L.aif
-<group> key=83 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=760 end=357349 sample=../Audio/Moogalike/83-6QXC.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=757 end=357111 sample=../Audio/Moogalike/83-UJG8.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=531 end=357124 sample=../Audio/Moogalike/83-85IH.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=567 end=357138 sample=../Audio/Moogalike/83-BPET.aif
-<group> key=84 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=1026 end=354382 sample=../Audio/Moogalike/84-B6OW.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=773 end=357223 sample=../Audio/Moogalike/84-7DOE.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=796 end=357648 sample=../Audio/Moogalike/84-8LPR.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=804 end=358230 sample=../Audio/Moogalike/84-D991.aif
-<group> key=85 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=687 end=356756 sample=../Audio/Moogalike/85-5V1O.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=693 end=357280 sample=../Audio/Moogalike/85-P3AK.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=590 end=357786 sample=../Audio/Moogalike/85-TL4E.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=725 end=357090 sample=../Audio/Moogalike/85-8P8L.aif
-<group> key=86 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=950 end=354937 sample=../Audio/Moogalike/86-6WER.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=935 end=357011 sample=../Audio/Moogalike/86-2XNF.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=961 end=357300 sample=../Audio/Moogalike/86-9V1W.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=584 end=358152 sample=../Audio/Moogalike/86-JSLZ.aif
-<group> key=87 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=592 end=357892 sample=../Audio/Moogalike/87-DX91.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=708 end=357546 sample=../Audio/Moogalike/87-LGY4.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=601 end=357580 sample=../Audio/Moogalike/87-UFSK.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=746 end=357095 sample=../Audio/Moogalike/87-SAWB.aif
-<group> key=88 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=851 end=354201 sample=../Audio/Moogalike/88-N62D.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=728 end=357834 sample=../Audio/Moogalike/88-WOAQ.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=602 end=356725 sample=../Audio/Moogalike/88-3TNU.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=753 end=358576 sample=../Audio/Moogalike/88-B950.aif
-<group> key=89 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=637 end=358177 sample=../Audio/Moogalike/89-S3YH.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=875 end=357380 sample=../Audio/Moogalike/89-LQHE.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=781 end=357408 sample=../Audio/Moogalike/89-1V1H.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=678 end=357035 sample=../Audio/Moogalike/89-53P9.aif
-<group> key=90 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=766 end=354528 sample=../Audio/Moogalike/90-8T89.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=1142 end=357640 sample=../Audio/Moogalike/90-5TJQ.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=1059 end=357503 sample=../Audio/Moogalike/90-NNQA.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=957 end=358733 sample=../Audio/Moogalike/90-R72S.aif
-<group> key=91 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=592 end=357169 sample=../Audio/Moogalike/91-923D.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=721 end=358308 sample=../Audio/Moogalike/91-ZI6Z.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=987 end=357923 sample=../Audio/Moogalike/91-LKBQ.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=639 end=356689 sample=../Audio/Moogalike/91-Y6NA.aif
-<group> key=92 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=610 end=354593 sample=../Audio/Moogalike/92-UCPV.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=594 sample=../Audio/Moogalike/92-WU0R.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=754 end=357653 sample=../Audio/Moogalike/92-CC6M.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=1020 end=358541 sample=../Audio/Moogalike/92-OXYM.aif
-<group> key=93 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=419 end=356928 sample=../Audio/Moogalike/93-G2HN.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=549 end=357675 sample=../Audio/Moogalike/93-S2OK.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=825 end=357682 sample=../Audio/Moogalike/93-AF26.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=366 end=357009 sample=../Audio/Moogalike/93-V136.aif
-<group> key=94 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=1248 end=354616 sample=../Audio/Moogalike/94-TRBF.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=997 end=357979 sample=../Audio/Moogalike/94-O4XS.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=625 end=356848 sample=../Audio/Moogalike/94-YSNZ.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=655 end=358255 sample=../Audio/Moogalike/94-9BEP.aif
-<group> key=95 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=802 end=357089 sample=../Audio/Moogalike/95-ZESK.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=553 end=357291 sample=../Audio/Moogalike/95-MPF7.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=961 end=357512 sample=../Audio/Moogalike/95-5LJL.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=613 sample=../Audio/Moogalike/95-FQUI.aif
-<group>lokey=96 hikey=125 pitch_keycenter=96 pitch_keytrack=1
-	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=961 end=354354 sample=../Audio/Moogalike/96-FYYN.aif
-	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=720 end=357575 sample=../Audio/Moogalike/96-DIG6.aif
-	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=601 end=357010 sample=../Audio/Moogalike/96-PUFO.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=500 end=358254 sample=../Audio/Moogalike/96-Z4V2.aif
+<control>
+default_path=../Audio/Moogalike/
+
+<group>        // Moogalike
+<region> sample=36-NHFB.aif key=36 lokey=5 hikey=36 lovel=1 hivel=32 volume=7 offset=965 loop_mode=no_loop
+<region> sample=36-ST29.aif key=36 lokey=5 hikey=36 lovel=33 hivel=64 volume=7 offset=674 end=359109 loop_mode=no_loop
+<region> sample=36-MRUX.aif key=36 lokey=5 hikey=36 lovel=65 hivel=95 volume=7 offset=668 end=358455 loop_mode=no_loop
+<region> sample=36-JWZ9.aif key=36 lokey=5 hikey=36 lovel=96 hivel=127 volume=7 offset=418 loop_mode=no_loop
+<region> sample=37-0OPE.aif key=37 lokey=37 hikey=37 lovel=1 hivel=32 volume=7 offset=526 end=356055 loop_mode=no_loop
+<region> sample=37-7O7N.aif key=37 lokey=37 hikey=37 lovel=33 hivel=64 volume=7 offset=475 loop_mode=no_loop
+<region> sample=37-NYD1.aif key=37 lokey=37 hikey=37 lovel=65 hivel=95 volume=7 offset=968 end=361040 loop_mode=no_loop
+<region> sample=37-LCL1.aif key=37 lokey=37 hikey=37 lovel=96 hivel=127 volume=7 offset=713 loop_mode=no_loop
+<region> sample=38-KEHT.aif key=38 lokey=38 hikey=38 lovel=1 hivel=32 volume=7 offset=1043 end=362679 loop_mode=no_loop
+<region> sample=38-SYW5.aif key=38 lokey=38 hikey=38 lovel=33 hivel=64 volume=7 offset=513 end=355364 loop_mode=no_loop
+<region> sample=38-GT1C.aif key=38 lokey=38 hikey=38 lovel=65 hivel=95 volume=7 offset=751 end=359856 loop_mode=no_loop
+<region> sample=38-8PZF.aif key=38 lokey=38 hikey=38 lovel=96 hivel=127 volume=7 offset=994 end=358577 loop_mode=no_loop
+<region> sample=39-ZSGH.aif key=39 lokey=39 hikey=39 lovel=1 hivel=32 volume=7 offset=611 end=362877 loop_mode=no_loop
+<region> sample=39-TQ8Q.aif key=39 lokey=39 hikey=39 lovel=33 hivel=64 volume=7 offset=594 end=361302 loop_mode=no_loop
+<region> sample=39-J0RN.aif key=39 lokey=39 hikey=39 lovel=65 hivel=95 volume=7 offset=728 end=361601 loop_mode=no_loop
+<region> sample=39-353P.aif key=39 lokey=39 hikey=39 lovel=96 hivel=127 volume=7 offset=726 end=359903 loop_mode=no_loop
+<region> sample=40-RG10.aif key=40 lokey=40 hikey=40 lovel=1 hivel=32 volume=7 offset=1207 end=360569 loop_mode=no_loop
+<region> sample=40-SG5X.aif key=40 lokey=40 hikey=40 lovel=33 hivel=64 volume=7 offset=877 end=363500 loop_mode=no_loop
+<region> sample=40-A85O.aif key=40 lokey=40 hikey=40 lovel=65 hivel=95 volume=7 offset=742 end=362762 loop_mode=no_loop
+<region> sample=40-5JVJ.aif key=40 lokey=40 hikey=40 lovel=96 hivel=127 volume=7 offset=732 end=357085 loop_mode=no_loop
+<region> sample=41-RL69.aif key=41 lokey=41 hikey=41 lovel=1 hivel=32 volume=7 offset=986 end=361459 loop_mode=no_loop
+<region> sample=41-491C.aif key=41 lokey=41 hikey=41 lovel=33 hivel=64 volume=7 offset=838 end=359276 loop_mode=no_loop
+<region> sample=41-LDKV.aif key=41 lokey=41 hikey=41 lovel=65 hivel=95 volume=7 offset=961 end=364474 loop_mode=no_loop
+<region> sample=41-HMEF.aif key=41 lokey=41 hikey=41 lovel=96 hivel=127 volume=7 offset=950 end=361224 loop_mode=no_loop
+<region> sample=42-17J7.aif key=42 lokey=42 hikey=42 lovel=1 hivel=32 volume=7 offset=651 end=359979 loop_mode=no_loop
+<region> sample=42-2JCU.aif key=42 lokey=42 hikey=42 lovel=33 hivel=64 volume=7 offset=617 end=359237 loop_mode=no_loop
+<region> sample=42-OGOB.aif key=42 lokey=42 hikey=42 lovel=65 hivel=95 volume=7 offset=975 end=361149 loop_mode=no_loop
+<region> sample=42-DMIV.aif key=42 lokey=42 hikey=42 lovel=96 hivel=127 volume=7 offset=593 end=355688 loop_mode=no_loop
+<region> sample=43-236Y.aif key=43 lokey=43 hikey=43 lovel=1 hivel=32 volume=7 offset=717 end=358669 loop_mode=no_loop
+<region> sample=43-3W06.aif key=43 lokey=43 hikey=43 lovel=33 hivel=64 volume=7 offset=923 end=356338 loop_mode=no_loop
+<region> sample=43-E1W0.aif key=43 lokey=43 hikey=43 lovel=65 hivel=95 volume=7 offset=521 end=355435 loop_mode=no_loop
+<region> sample=43-V71B.aif key=43 lokey=43 hikey=43 lovel=96 hivel=127 volume=7 offset=501 end=360929 loop_mode=no_loop
+<region> sample=44-W2BI.aif key=44 lokey=44 hikey=44 lovel=1 hivel=32 volume=7 offset=1085 end=359372 loop_mode=no_loop
+<region> sample=44-KIHB.aif key=44 lokey=44 hikey=44 lovel=33 hivel=64 volume=7 offset=924 end=359834 loop_mode=no_loop
+<region> sample=44-KNNV.aif key=44 lokey=44 hikey=44 lovel=65 hivel=95 volume=7 offset=779 end=360658 loop_mode=no_loop
+<region> sample=44-CVWD.aif key=44 lokey=44 hikey=44 lovel=96 hivel=127 volume=7 offset=626 end=355532 loop_mode=no_loop
+<region> sample=45-FINQ.aif key=45 lokey=45 hikey=45 lovel=1 hivel=32 volume=7 offset=635 end=360328 loop_mode=no_loop
+<region> sample=45-0LCJ.aif key=45 lokey=45 hikey=45 lovel=33 hivel=64 volume=7 offset=359 end=355098 loop_mode=no_loop
+<region> sample=45-Q8Y7.aif key=45 lokey=45 hikey=45 lovel=65 hivel=95 volume=7 offset=723 end=360104 loop_mode=no_loop
+<region> sample=45-D8ED.aif key=45 lokey=45 hikey=45 lovel=96 hivel=127 volume=7 offset=486 end=361259 loop_mode=no_loop
+<region> sample=46-63I0.aif key=46 lokey=46 hikey=46 lovel=1 hivel=32 volume=7 offset=665 end=362311 loop_mode=no_loop
+<region> sample=46-1GRR.aif key=46 lokey=46 hikey=46 lovel=33 hivel=64 volume=7 offset=1007 loop_mode=no_loop
+<region> sample=46-NBQ8.aif key=46 lokey=46 hikey=46 lovel=65 hivel=95 volume=7 offset=989 end=358837 loop_mode=no_loop
+<region> sample=46-S3V8.aif key=46 lokey=46 hikey=46 lovel=96 hivel=127 volume=7 offset=462 end=358156 loop_mode=no_loop
+<region> sample=47-XYPD.aif key=47 lokey=47 hikey=47 lovel=1 hivel=32 volume=7 offset=827 end=364225 loop_mode=no_loop
+<region> sample=47-X53I.aif key=47 lokey=47 hikey=47 lovel=33 hivel=64 volume=7 offset=562 end=361847 loop_mode=no_loop
+<region> sample=47-8HIY.aif key=47 lokey=47 hikey=47 lovel=65 hivel=95 volume=7 offset=817 end=361700 loop_mode=no_loop
+<region> sample=47-5LPL.aif key=47 lokey=47 hikey=47 lovel=96 hivel=127 volume=7 offset=439 end=360960 loop_mode=no_loop
+<region> sample=48-2QSE.aif key=48 lokey=48 hikey=48 lovel=1 hivel=32 volume=7 offset=756 end=355729 loop_mode=no_loop
+<region> sample=48-FATD.aif key=48 lokey=48 hikey=48 lovel=33 hivel=64 volume=7 offset=721 end=355441 loop_mode=no_loop
+<region> sample=48-TJBA.aif key=48 lokey=48 hikey=48 lovel=65 hivel=95 volume=7 offset=717 end=363020 loop_mode=no_loop
+<region> sample=48-YW9N.aif key=48 lokey=48 hikey=48 lovel=96 hivel=127 volume=7 offset=595 end=359972 loop_mode=no_loop
+<region> sample=49-2SVJ.aif key=49 lokey=49 hikey=49 lovel=1 hivel=32 volume=7 offset=732 end=355353 loop_mode=no_loop
+<region> sample=49-HRIQ.aif key=49 lokey=49 hikey=49 lovel=33 hivel=64 volume=7 offset=938 end=363608 loop_mode=no_loop
+<region> sample=49-4IL4.aif key=49 lokey=49 hikey=49 lovel=65 hivel=95 volume=7 offset=949 end=355807 loop_mode=no_loop
+<region> sample=49-HVVH.aif key=49 lokey=49 hikey=49 lovel=96 hivel=127 volume=7 offset=820 end=361798 loop_mode=no_loop
+<region> sample=50-FO3F.aif key=50 lokey=50 hikey=50 lovel=1 hivel=32 volume=7 offset=629 loop_mode=no_loop
+<region> sample=50-B6HJ.aif key=50 lokey=50 hikey=50 lovel=33 hivel=64 volume=7 offset=824 end=357242 loop_mode=no_loop
+<region> sample=50-TC5I.aif key=50 lokey=50 hikey=50 lovel=65 hivel=95 volume=7 offset=961 end=364924 loop_mode=no_loop
+<region> sample=50-NP3A.aif key=50 lokey=50 hikey=50 lovel=96 hivel=127 volume=7 offset=572 end=362493 loop_mode=no_loop
+<region> sample=51-BVSN.aif key=51 lokey=51 hikey=51 lovel=1 hivel=32 volume=7 offset=440 end=355426 loop_mode=no_loop
+<region> sample=51-NZGG.aif key=51 lokey=51 hikey=51 lovel=33 hivel=64 volume=7 offset=1104 end=355572 loop_mode=no_loop
+<region> sample=51-SFC8.aif key=51 lokey=51 hikey=51 lovel=65 hivel=95 volume=7 offset=629 end=362173 loop_mode=no_loop
+<region> sample=51-REXJ.aif key=51 lokey=51 hikey=51 lovel=96 hivel=127 volume=7 offset=882 end=355671 loop_mode=no_loop
+<region> sample=52-M5F6.aif key=52 lokey=52 hikey=52 lovel=1 hivel=32 volume=7 offset=951 end=355674 loop_mode=no_loop
+<region> sample=52-EEG4.aif key=52 lokey=52 hikey=52 lovel=33 hivel=64 volume=7 offset=902 end=362752 loop_mode=no_loop
+<region> sample=52-LKBM.aif key=52 lokey=52 hikey=52 lovel=65 hivel=95 volume=7 offset=753 end=355668 loop_mode=no_loop
+<region> sample=52-P0NR.aif key=52 lokey=52 hikey=52 lovel=96 hivel=127 volume=7 offset=976 loop_mode=no_loop
+<region> sample=53-ID7C.aif key=53 lokey=53 hikey=53 lovel=1 hivel=32 volume=7 offset=877 end=355541 loop_mode=no_loop
+<region> sample=53-9338.aif key=53 lokey=53 hikey=53 lovel=33 hivel=64 volume=7 offset=811 end=358707 loop_mode=no_loop
+<region> sample=53-OP0H.aif key=53 lokey=53 hikey=53 lovel=65 hivel=95 volume=7 offset=571 loop_mode=no_loop
+<region> sample=53-AYS6.aif key=53 lokey=53 hikey=53 lovel=96 hivel=127 volume=7 offset=824 end=361289 loop_mode=no_loop
+<region> sample=54-RJ8F.aif key=54 lokey=54 hikey=54 lovel=1 hivel=32 volume=7 offset=775 end=355860 loop_mode=no_loop
+<region> sample=54-42YS.aif key=54 lokey=54 hikey=54 lovel=33 hivel=64 volume=7 offset=1238 end=358655 loop_mode=no_loop
+<region> sample=54-IM1B.aif key=54 lokey=54 hikey=54 lovel=65 hivel=95 volume=7 offset=1106 loop_mode=no_loop
+<region> sample=54-T70Z.aif key=54 lokey=54 hikey=54 lovel=96 hivel=127 volume=7 offset=713 end=360099 loop_mode=no_loop
+<region> sample=55-OA3K.aif key=55 lokey=55 hikey=55 lovel=1 hivel=32 volume=7 offset=1023 loop_mode=no_loop
+<region> sample=55-O208.aif key=55 lokey=55 hikey=55 lovel=33 hivel=64 volume=7 offset=590 end=359965 loop_mode=no_loop
+<region> sample=55-RXEB.aif key=55 lokey=55 hikey=55 lovel=65 hivel=95 volume=7 offset=722 end=355163 loop_mode=no_loop
+<region> sample=55-00F1.aif key=55 lokey=55 hikey=55 lovel=96 hivel=127 volume=7 offset=708 end=355585 loop_mode=no_loop
+<region> sample=56-07Z9.aif key=56 lokey=56 hikey=56 lovel=1 hivel=32 volume=7 offset=758 end=360966 loop_mode=no_loop
+<region> sample=56-C60L.aif key=56 lokey=56 hikey=56 lovel=33 hivel=64 volume=7 offset=848 end=354943 loop_mode=no_loop
+<region> sample=56-1CID.aif key=56 lokey=56 hikey=56 lovel=65 hivel=95 volume=7 offset=592 end=354756 loop_mode=no_loop
+<region> sample=56-HKX9.aif key=56 lokey=56 hikey=56 lovel=96 hivel=127 volume=7 offset=716 loop_mode=no_loop
+<region> sample=57-OQX6.aif key=57 lokey=57 hikey=57 lovel=1 hivel=32 volume=7 offset=703 end=358129 loop_mode=no_loop
+<region> sample=57-J759.aif key=57 lokey=57 hikey=57 lovel=33 hivel=64 volume=7 offset=924 end=360178 loop_mode=no_loop
+<region> sample=57-LMLJ.aif key=57 lokey=57 hikey=57 lovel=65 hivel=95 volume=7 offset=799 end=360037 loop_mode=no_loop
+<region> sample=57-2ATH.aif key=57 lokey=57 hikey=57 lovel=96 hivel=127 volume=7 offset=682 end=355456 loop_mode=no_loop
+<region> sample=58-Z01C.aif key=58 lokey=58 hikey=58 lovel=1 hivel=32 volume=7 offset=871 end=357213 loop_mode=no_loop
+<region> sample=58-187C.aif key=58 lokey=58 hikey=58 lovel=33 hivel=64 volume=7 offset=704 end=356637 loop_mode=no_loop
+<region> sample=58-S7NB.aif key=58 lokey=58 hikey=58 lovel=65 hivel=95 volume=7 offset=818 loop_mode=no_loop
+<region> sample=58-RP3E.aif key=58 lokey=58 hikey=58 lovel=96 hivel=127 volume=7 offset=677 end=360490 loop_mode=no_loop
+<region> sample=59-CUJ3.aif key=59 lokey=59 hikey=59 lovel=1 hivel=32 volume=7 offset=795 end=358159 loop_mode=no_loop
+<region> sample=59-SIUC.aif key=59 lokey=59 hikey=59 lovel=33 hivel=64 volume=7 offset=630 end=355278 loop_mode=no_loop
+<region> sample=59-W2YX.aif key=59 lokey=59 hikey=59 lovel=65 hivel=95 volume=7 offset=875 end=359417 loop_mode=no_loop
+<region> sample=59-VSX1.aif key=59 lokey=59 hikey=59 lovel=96 hivel=127 volume=7 offset=888 end=359015 loop_mode=no_loop
+<region> sample=60-FCXU.aif key=60 lokey=60 hikey=60 lovel=1 hivel=32 volume=7 offset=749 end=357605 loop_mode=no_loop
+<region> sample=60-T8DM.aif key=60 lokey=60 hikey=60 lovel=33 hivel=64 volume=7 offset=864 end=356091 loop_mode=no_loop
+<region> sample=60-81XH.aif key=60 lokey=60 hikey=60 lovel=65 hivel=95 volume=7 offset=982 end=355490 loop_mode=no_loop
+<region> sample=60-QXTM.aif key=60 lokey=60 hikey=60 lovel=96 hivel=127 volume=7 offset=856 end=355400 loop_mode=no_loop
+<region> sample=61-8N49.aif key=61 lokey=61 hikey=61 lovel=1 hivel=32 volume=7 offset=587 end=354624 loop_mode=no_loop
+<region> sample=61-N4RA.aif key=61 lokey=61 hikey=61 lovel=33 hivel=64 volume=7 offset=697 end=354445 loop_mode=no_loop
+<region> sample=61-SVI2.aif key=61 lokey=61 hikey=61 lovel=65 hivel=95 volume=7 offset=811 end=359777 loop_mode=no_loop
+<region> sample=61-PW1C.aif key=61 lokey=61 hikey=61 lovel=96 hivel=127 volume=7 offset=958 end=359403 loop_mode=no_loop
+<region> sample=62-U4HZ.aif key=62 lokey=62 hikey=62 lovel=1 hivel=32 volume=7 offset=648 end=358205 loop_mode=no_loop
+<region> sample=62-G14C.aif key=62 lokey=62 hikey=62 lovel=33 hivel=64 volume=7 offset=504 end=360399 loop_mode=no_loop
+<region> sample=62-VAXU.aif key=62 lokey=62 hikey=62 lovel=65 hivel=95 volume=7 offset=873 end=361521 loop_mode=no_loop
+<region> sample=62-668M.aif key=62 lokey=62 hikey=62 lovel=96 hivel=127 volume=7 offset=501 end=358919 loop_mode=no_loop
+<region> sample=63-DRXW.aif key=63 lokey=63 hikey=63 lovel=1 hivel=32 volume=7 offset=906 end=355546 loop_mode=no_loop
+<region> sample=63-UTDG.aif key=63 lokey=63 hikey=63 lovel=33 hivel=64 volume=7 offset=490 end=355255 loop_mode=no_loop
+<region> sample=63-6GK8.aif key=63 lokey=63 hikey=63 lovel=65 hivel=95 volume=7 offset=1017 end=357293 loop_mode=no_loop
+<region> sample=63-K0WP.aif key=63 lokey=63 hikey=63 lovel=96 hivel=127 volume=7 offset=494 end=354680 loop_mode=no_loop
+<region> sample=64-CCGK.aif key=64 lokey=64 hikey=64 lovel=1 hivel=32 volume=7 offset=577 end=358744 loop_mode=no_loop
+<region> sample=64-EPDW.aif key=64 lokey=64 hikey=64 lovel=33 hivel=64 volume=7 offset=946 loop_mode=no_loop
+<region> sample=64-IV1J.aif key=64 lokey=64 hikey=64 lovel=65 hivel=95 volume=7 offset=557 end=363237 loop_mode=no_loop
+<region> sample=64-YKN7.aif key=64 lokey=64 hikey=64 lovel=96 hivel=127 volume=7 offset=1101 end=359408 loop_mode=no_loop
+<region> sample=65-50P6.aif key=65 lokey=65 hikey=65 lovel=1 hivel=32 volume=7 offset=602 end=359761 loop_mode=no_loop
+<region> sample=65-N301.aif key=65 lokey=65 hikey=65 lovel=33 hivel=64 volume=7 offset=952 end=359845 loop_mode=no_loop
+<region> sample=65-U4TT.aif key=65 lokey=65 hikey=65 lovel=65 hivel=95 volume=7 offset=837 end=362147 loop_mode=no_loop
+<region> sample=65-8UE0.aif key=65 lokey=65 hikey=65 lovel=96 hivel=127 volume=7 offset=990 end=363051 loop_mode=no_loop
+<region> sample=66-B8K5.aif key=66 lokey=66 hikey=66 lovel=1 hivel=32 volume=7 offset=822 end=354980 loop_mode=no_loop
+<region> sample=66-VCLK.aif key=66 lokey=66 hikey=66 lovel=33 hivel=64 volume=7 offset=926 end=358262 loop_mode=no_loop
+<region> sample=66-E8S5.aif key=66 lokey=66 hikey=66 lovel=65 hivel=95 volume=7 offset=781 end=359822 loop_mode=no_loop
+<region> sample=66-3L8Q.aif key=66 lokey=66 hikey=66 lovel=96 hivel=127 volume=7 offset=1051 end=356199 loop_mode=no_loop
+<region> sample=67-A412.aif key=67 lokey=67 hikey=67 lovel=1 hivel=32 volume=7 offset=1078 end=358759 loop_mode=no_loop
+<region> sample=67-TIEH.aif key=67 lokey=67 hikey=67 lovel=33 hivel=64 volume=7 offset=635 end=359417 loop_mode=no_loop
+<region> sample=67-JMKK.aif key=67 lokey=67 hikey=67 lovel=65 hivel=95 volume=7 offset=512 end=358500 loop_mode=no_loop
+<region> sample=67-A91T.aif key=67 lokey=67 hikey=67 lovel=96 hivel=127 volume=7 offset=891 end=360407 loop_mode=no_loop
+<region> sample=68-8APZ.aif key=68 lokey=68 hikey=68 lovel=1 hivel=32 volume=7 offset=728 end=356090 loop_mode=no_loop
+<region> sample=68-RFU6.aif key=68 lokey=68 hikey=68 lovel=33 hivel=64 volume=7 offset=952 end=355846 loop_mode=no_loop
+<region> sample=68-VF8S.aif key=68 lokey=68 hikey=68 lovel=65 hivel=95 volume=7 offset=1068 end=359418 loop_mode=no_loop
+<region> sample=68-KK2G.aif key=68 lokey=68 hikey=68 lovel=96 hivel=127 volume=7 offset=1086 end=360154 loop_mode=no_loop
+<region> sample=69-PM2T.aif key=69 lokey=69 hikey=69 lovel=1 hivel=32 volume=7 offset=1040 end=358020 loop_mode=no_loop
+<region> sample=69-ICEC.aif key=69 lokey=69 hikey=69 lovel=33 hivel=64 volume=7 offset=798 end=358689 loop_mode=no_loop
+<region> sample=69-7M01.aif key=69 lokey=69 hikey=69 lovel=65 hivel=95 volume=7 offset=848 end=359669 loop_mode=no_loop
+<region> sample=69-301W.aif key=69 lokey=69 hikey=69 lovel=96 hivel=127 volume=7 offset=1144 end=359193 loop_mode=no_loop
+<region> sample=70-KSO0.aif key=70 lokey=70 hikey=70 lovel=1 hivel=32 volume=7 offset=1079 loop_mode=no_loop
+<region> sample=70-ZV95.aif key=70 lokey=70 hikey=70 lovel=33 hivel=64 volume=7 offset=944 end=358719 loop_mode=no_loop
+<region> sample=70-RUO5.aif key=70 lokey=70 hikey=70 lovel=65 hivel=95 volume=7 offset=804 end=359018 loop_mode=no_loop
+<region> sample=70-IBRH.aif key=70 lokey=70 hikey=70 lovel=96 hivel=127 volume=7 offset=672 end=357848 loop_mode=no_loop
+<region> sample=71-BWCF.aif key=71 lokey=71 hikey=71 lovel=1 hivel=32 volume=7 offset=805 end=358182 loop_mode=no_loop
+<region> sample=71-VGPM.aif key=71 lokey=71 hikey=71 lovel=33 hivel=64 volume=7 offset=930 end=358779 loop_mode=no_loop
+<region> sample=71-LMGA.aif key=71 lokey=71 hikey=71 lovel=65 hivel=95 volume=7 offset=678 end=356738 loop_mode=no_loop
+<region> sample=71-HN3L.aif key=71 lokey=71 hikey=71 lovel=96 hivel=127 volume=7 offset=693 end=358152 loop_mode=no_loop
+<region> sample=72-G87K.aif key=72 lokey=72 hikey=72 lovel=1 hivel=32 volume=7 offset=647 end=355259 loop_mode=no_loop
+<region> sample=72-L3YM.aif key=72 lokey=72 hikey=72 lovel=33 hivel=64 volume=7 offset=763 end=357885 loop_mode=no_loop
+<region> sample=72-9W7F.aif key=72 lokey=72 hikey=72 lovel=65 hivel=95 volume=7 offset=626 end=356804 loop_mode=no_loop
+<region> sample=72-2883.aif key=72 lokey=72 hikey=72 lovel=96 hivel=127 volume=7 offset=502 end=357801 loop_mode=no_loop
+<region> sample=73-76D8.aif key=73 lokey=73 hikey=73 lovel=1 hivel=32 volume=7 offset=904 end=357759 loop_mode=no_loop
+<region> sample=73-XGKY.aif key=73 lokey=73 hikey=73 lovel=33 hivel=64 volume=7 offset=691 end=357865 loop_mode=no_loop
+<region> sample=73-DC39.aif key=73 lokey=73 hikey=73 lovel=65 hivel=95 volume=7 offset=781 end=357111 loop_mode=no_loop
+<region> sample=73-TJ88.aif key=73 lokey=73 hikey=73 lovel=96 hivel=127 volume=7 offset=927 end=356979 loop_mode=no_loop
+<region> sample=74-67ID.aif key=74 lokey=74 hikey=74 lovel=1 hivel=32 volume=7 offset=887 end=354881 loop_mode=no_loop
+<region> sample=74-EZPW.aif key=74 lokey=74 hikey=74 lovel=33 hivel=64 volume=7 offset=599 end=357392 loop_mode=no_loop
+<region> sample=74-3YZ7.aif key=74 lokey=74 hikey=74 lovel=65 hivel=95 volume=7 offset=853 end=357531 loop_mode=no_loop
+<region> sample=74-SPLN.aif key=74 lokey=74 hikey=74 lovel=96 hivel=127 volume=7 offset=852 end=357813 loop_mode=no_loop
+<region> sample=75-N3V6.aif key=75 lokey=75 hikey=75 lovel=1 hivel=32 volume=7 offset=734 end=357125 loop_mode=no_loop
+<region> sample=75-TI12.aif key=75 lokey=75 hikey=75 lovel=33 hivel=64 volume=7 offset=847 end=357592 loop_mode=no_loop
+<region> sample=75-YCA3.aif key=75 lokey=75 hikey=75 lovel=65 hivel=95 volume=7 offset=1122 end=357671 loop_mode=no_loop
+<region> sample=75-ID67.aif key=75 lokey=75 hikey=75 lovel=96 hivel=127 volume=7 offset=769 end=356397 loop_mode=no_loop
+<region> sample=76-9HP2.aif key=76 lokey=76 hikey=76 lovel=1 hivel=32 volume=7 offset=733 end=353731 loop_mode=no_loop
+<region> sample=76-7K9X.aif key=76 lokey=76 hikey=76 lovel=33 hivel=64 volume=7 offset=734 end=357405 loop_mode=no_loop
+<region> sample=76-29P8.aif key=76 lokey=76 hikey=76 lovel=65 hivel=95 volume=7 offset=855 end=356793 loop_mode=no_loop
+<region> sample=76-R7SB.aif key=76 lokey=76 hikey=76 lovel=96 hivel=127 volume=7 offset=1011 end=357791 loop_mode=no_loop
+<region> sample=77-ZH4D.aif key=77 lokey=77 hikey=77 lovel=1 hivel=32 volume=7 offset=775 end=357518 loop_mode=no_loop
+<region> sample=77-AVLP.aif key=77 lokey=77 hikey=77 lovel=33 hivel=64 volume=7 offset=500 end=357049 loop_mode=no_loop
+<region> sample=77-3ISE.aif key=77 lokey=77 hikey=77 lovel=65 hivel=95 volume=7 offset=634 end=357791 loop_mode=no_loop
+<region> sample=77-PAJ0.aif key=77 lokey=77 hikey=77 lovel=96 hivel=127 volume=7 offset=907 end=357625 loop_mode=no_loop
+<region> sample=78-IBR0.aif key=78 lokey=78 hikey=78 lovel=1 hivel=32 volume=7 offset=733 end=354550 loop_mode=no_loop
+<region> sample=78-LG9W.aif key=78 lokey=78 hikey=78 lovel=33 hivel=64 volume=7 offset=838 loop_mode=no_loop
+<region> sample=78-S3AJ.aif key=78 lokey=78 hikey=78 lovel=65 hivel=95 volume=7 offset=825 end=357316 loop_mode=no_loop
+<region> sample=78-QVJI.aif key=78 lokey=78 hikey=78 lovel=96 hivel=127 volume=7 offset=846 end=358659 loop_mode=no_loop
+<region> sample=79-WZQE.aif key=79 lokey=79 hikey=79 lovel=1 hivel=32 volume=7 offset=621 end=357602 loop_mode=no_loop
+<region> sample=79-QVZX.aif key=79 lokey=79 hikey=79 lovel=33 hivel=64 volume=7 offset=457 end=357223 loop_mode=no_loop
+<region> sample=79-IKAS.aif key=79 lokey=79 hikey=79 lovel=65 hivel=95 volume=7 offset=592 end=358202 loop_mode=no_loop
+<region> sample=79-KV6C.aif key=79 lokey=79 hikey=79 lovel=96 hivel=127 volume=7 offset=480 end=356727 loop_mode=no_loop
+<region> sample=80-1I07.aif key=80 lokey=80 hikey=80 lovel=1 hivel=32 volume=7 offset=582 end=354257 loop_mode=no_loop
+<region> sample=80-JO56.aif key=80 lokey=80 hikey=80 lovel=33 hivel=64 volume=7 offset=686 end=356982 loop_mode=no_loop
+<region> sample=80-Y93P.aif key=80 lokey=80 hikey=80 lovel=65 hivel=95 volume=7 offset=454 end=357511 loop_mode=no_loop
+<region> sample=80-HAKE.aif key=80 lokey=80 hikey=80 lovel=96 hivel=127 volume=7 offset=592 end=357524 loop_mode=no_loop
+<region> sample=81-W3FM.aif key=81 lokey=81 hikey=81 lovel=1 hivel=32 volume=7 offset=751 end=357327 loop_mode=no_loop
+<region> sample=81-1LWL.aif key=81 lokey=81 hikey=81 lovel=33 hivel=64 volume=7 offset=995 end=357869 loop_mode=no_loop
+<region> sample=81-V0OQ.aif key=81 lokey=81 hikey=81 lovel=65 hivel=95 volume=7 offset=1016 end=357908 loop_mode=no_loop
+<region> sample=81-OZNQ.aif key=81 lokey=81 hikey=81 lovel=96 hivel=127 volume=7 offset=396 end=356994 loop_mode=no_loop
+<region> sample=82-L94P.aif key=82 lokey=82 hikey=82 lovel=1 hivel=32 volume=7 offset=987 end=354694 loop_mode=no_loop
+<region> sample=82-1Y0D.aif key=82 lokey=82 hikey=82 lovel=33 hivel=64 volume=7 offset=851 end=357682 loop_mode=no_loop
+<region> sample=82-IZ5I.aif key=82 lokey=82 hikey=82 lovel=65 hivel=95 volume=7 offset=849 end=357646 loop_mode=no_loop
+<region> sample=82-TF9L.aif key=82 lokey=82 hikey=82 lovel=96 hivel=127 volume=7 offset=875 end=358328 loop_mode=no_loop
+<region> sample=83-6QXC.aif key=83 lokey=83 hikey=83 lovel=1 hivel=32 volume=7 offset=760 end=357349 loop_mode=no_loop
+<region> sample=83-UJG8.aif key=83 lokey=83 hikey=83 lovel=33 hivel=64 volume=7 offset=757 end=357111 loop_mode=no_loop
+<region> sample=83-85IH.aif key=83 lokey=83 hikey=83 lovel=65 hivel=95 volume=7 offset=531 end=357124 loop_mode=no_loop
+<region> sample=83-BPET.aif key=83 lokey=83 hikey=83 lovel=96 hivel=127 volume=7 offset=567 end=357138 loop_mode=no_loop
+<region> sample=84-B6OW.aif key=84 lokey=84 hikey=84 lovel=1 hivel=32 volume=7 offset=1026 end=354382 loop_mode=no_loop
+<region> sample=84-7DOE.aif key=84 lokey=84 hikey=84 lovel=33 hivel=64 volume=7 offset=773 end=357223 loop_mode=no_loop
+<region> sample=84-8LPR.aif key=84 lokey=84 hikey=84 lovel=65 hivel=95 volume=7 offset=796 end=357648 loop_mode=no_loop
+<region> sample=84-D991.aif key=84 lokey=84 hikey=84 lovel=96 hivel=127 volume=7 offset=804 end=358230 loop_mode=no_loop
+<region> sample=85-5V1O.aif key=85 lokey=85 hikey=85 lovel=1 hivel=32 volume=7 offset=687 end=356756 loop_mode=no_loop
+<region> sample=85-P3AK.aif key=85 lokey=85 hikey=85 lovel=33 hivel=64 volume=7 offset=693 end=357280 loop_mode=no_loop
+<region> sample=85-TL4E.aif key=85 lokey=85 hikey=85 lovel=65 hivel=95 volume=7 offset=590 end=357786 loop_mode=no_loop
+<region> sample=85-8P8L.aif key=85 lokey=85 hikey=85 lovel=96 hivel=127 volume=7 offset=725 end=357090 loop_mode=no_loop
+<region> sample=86-6WER.aif key=86 lokey=86 hikey=86 lovel=1 hivel=32 volume=7 offset=950 end=354937 loop_mode=no_loop
+<region> sample=86-2XNF.aif key=86 lokey=86 hikey=86 lovel=33 hivel=64 volume=7 offset=935 end=357011 loop_mode=no_loop
+<region> sample=86-9V1W.aif key=86 lokey=86 hikey=86 lovel=65 hivel=95 volume=7 offset=961 end=357300 loop_mode=no_loop
+<region> sample=86-JSLZ.aif key=86 lokey=86 hikey=86 lovel=96 hivel=127 volume=7 offset=584 end=358152 loop_mode=no_loop
+<region> sample=87-DX91.aif key=87 lokey=87 hikey=87 lovel=1 hivel=32 volume=7 offset=592 end=357892 loop_mode=no_loop
+<region> sample=87-LGY4.aif key=87 lokey=87 hikey=87 lovel=33 hivel=64 volume=7 offset=708 end=357546 loop_mode=no_loop
+<region> sample=87-UFSK.aif key=87 lokey=87 hikey=87 lovel=65 hivel=95 volume=7 offset=601 end=357580 loop_mode=no_loop
+<region> sample=87-SAWB.aif key=87 lokey=87 hikey=87 lovel=96 hivel=127 volume=7 offset=746 end=357095 loop_mode=no_loop
+<region> sample=88-N62D.aif key=88 lokey=88 hikey=88 lovel=1 hivel=32 volume=7 offset=851 end=354201 loop_mode=no_loop
+<region> sample=88-WOAQ.aif key=88 lokey=88 hikey=88 lovel=33 hivel=64 volume=7 offset=728 end=357834 loop_mode=no_loop
+<region> sample=88-3TNU.aif key=88 lokey=88 hikey=88 lovel=65 hivel=95 volume=7 offset=602 end=356725 loop_mode=no_loop
+<region> sample=88-B950.aif key=88 lokey=88 hikey=88 lovel=96 hivel=127 volume=7 offset=753 end=358576 loop_mode=no_loop
+<region> sample=89-S3YH.aif key=89 lokey=89 hikey=89 lovel=1 hivel=32 volume=7 offset=637 end=358177 loop_mode=no_loop
+<region> sample=89-LQHE.aif key=89 lokey=89 hikey=89 lovel=33 hivel=64 volume=7 offset=875 end=357380 loop_mode=no_loop
+<region> sample=89-1V1H.aif key=89 lokey=89 hikey=89 lovel=65 hivel=95 volume=7 offset=781 end=357408 loop_mode=no_loop
+<region> sample=89-53P9.aif key=89 lokey=89 hikey=89 lovel=96 hivel=127 volume=7 offset=678 end=357035 loop_mode=no_loop
+<region> sample=90-8T89.aif key=90 lokey=90 hikey=90 lovel=1 hivel=32 volume=7 offset=766 end=354528 loop_mode=no_loop
+<region> sample=90-5TJQ.aif key=90 lokey=90 hikey=90 lovel=33 hivel=64 volume=7 offset=1142 end=357640 loop_mode=no_loop
+<region> sample=90-NNQA.aif key=90 lokey=90 hikey=90 lovel=65 hivel=95 volume=7 offset=1059 end=357503 loop_mode=no_loop
+<region> sample=90-R72S.aif key=90 lokey=90 hikey=90 lovel=96 hivel=127 volume=7 offset=957 end=358733 loop_mode=no_loop
+<region> sample=91-923D.aif key=91 lokey=91 hikey=91 lovel=1 hivel=32 volume=7 offset=592 end=357169 loop_mode=no_loop
+<region> sample=91-ZI6Z.aif key=91 lokey=91 hikey=91 lovel=33 hivel=64 volume=7 offset=721 end=358308 loop_mode=no_loop
+<region> sample=91-LKBQ.aif key=91 lokey=91 hikey=91 lovel=65 hivel=95 volume=7 offset=987 end=357923 loop_mode=no_loop
+<region> sample=91-Y6NA.aif key=91 lokey=91 hikey=91 lovel=96 hivel=127 volume=7 offset=639 end=356689 loop_mode=no_loop
+<region> sample=92-UCPV.aif key=92 lokey=92 hikey=92 lovel=1 hivel=32 volume=7 offset=610 end=354593 loop_mode=no_loop
+<region> sample=92-WU0R.aif key=92 lokey=92 hikey=92 lovel=33 hivel=64 volume=7 offset=594 loop_mode=no_loop
+<region> sample=92-CC6M.aif key=92 lokey=92 hikey=92 lovel=65 hivel=95 volume=7 offset=754 end=357653 loop_mode=no_loop
+<region> sample=92-OXYM.aif key=92 lokey=92 hikey=92 lovel=96 hivel=127 volume=7 offset=1020 end=358541 loop_mode=no_loop
+<region> sample=93-G2HN.aif key=93 lokey=93 hikey=93 lovel=1 hivel=32 volume=7 offset=419 end=356928 loop_mode=no_loop
+<region> sample=93-S2OK.aif key=93 lokey=93 hikey=93 lovel=33 hivel=64 volume=7 offset=549 end=357675 loop_mode=no_loop
+<region> sample=93-AF26.aif key=93 lokey=93 hikey=93 lovel=65 hivel=95 volume=7 offset=825 end=357682 loop_mode=no_loop
+<region> sample=93-V136.aif key=93 lokey=93 hikey=93 lovel=96 hivel=127 volume=7 offset=366 end=357009 loop_mode=no_loop
+<region> sample=94-TRBF.aif key=94 lokey=94 hikey=94 lovel=1 hivel=32 volume=7 offset=1248 end=354616 loop_mode=no_loop
+<region> sample=94-O4XS.aif key=94 lokey=94 hikey=94 lovel=33 hivel=64 volume=7 offset=997 end=357979 loop_mode=no_loop
+<region> sample=94-YSNZ.aif key=94 lokey=94 hikey=94 lovel=65 hivel=95 volume=7 offset=625 end=356848 loop_mode=no_loop
+<region> sample=94-9BEP.aif key=94 lokey=94 hikey=94 lovel=96 hivel=127 volume=7 offset=655 end=358255 loop_mode=no_loop
+<region> sample=95-ZESK.aif key=95 lokey=95 hikey=95 lovel=1 hivel=32 volume=7 offset=802 end=357089 loop_mode=no_loop
+<region> sample=95-MPF7.aif key=95 lokey=95 hikey=95 lovel=33 hivel=64 volume=7 offset=553 end=357291 loop_mode=no_loop
+<region> sample=95-5LJL.aif key=95 lokey=95 hikey=95 lovel=65 hivel=95 volume=7 offset=961 end=357512 loop_mode=no_loop
+<region> sample=95-FQUI.aif key=95 lokey=95 hikey=95 lovel=96 hivel=127 volume=7 offset=613 loop_mode=no_loop
+<region> sample=96-FYYN.aif key=96 lokey=96 hikey=125 lovel=1 hivel=32 volume=7 offset=961 end=354354 loop_mode=no_loop
+<region> sample=96-DIG6.aif key=96 lokey=96 hikey=125 lovel=33 hivel=64 volume=7 offset=720 end=357575 loop_mode=no_loop
+<region> sample=96-PUFO.aif key=96 lokey=96 hikey=125 lovel=65 hivel=95 volume=7 offset=601 end=357010 loop_mode=no_loop
+<region> sample=96-Z4V2.aif key=96 lokey=96 hikey=125 lovel=96 hivel=127 volume=7 offset=500 end=358254 loop_mode=no_loop

@@ -1,124 +1,68 @@
-// this file was generated from CrackBass.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - CrackBass.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
 
-<group>lokey=5 hikey=36 pitch_keycenter=36 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=1024 end=363135 sample=../Audio/CrackBass/36-Q36J.aif
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=670 end=362991 sample=../Audio/CrackBass/37-RI0R.aif
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=624 end=370512 sample=../Audio/CrackBass/38-FXVC.aif
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=608 end=361472 sample=../Audio/CrackBass/39-FST0.aif
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=962 end=363008 sample=../Audio/CrackBass/40-VB04.aif
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=728 sample=../Audio/CrackBass/41-H8GQ.aif
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=560 end=355979 sample=../Audio/CrackBass/42-9N6T.aif
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=414 end=367190 sample=../Audio/CrackBass/43-TMBI.aif
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=841 sample=../Audio/CrackBass/44-15VH.aif
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=824 end=356991 sample=../Audio/CrackBass/45-9DUS.aif
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=645 end=365405 sample=../Audio/CrackBass/46-SXD4.aif
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=876 end=363845 sample=../Audio/CrackBass/47-MMQQ.aif
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=849 end=362908 sample=../Audio/CrackBass/48-ZZMD.aif
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=559 end=356857 sample=../Audio/CrackBass/49-4F9G.aif
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=921 end=363904 sample=../Audio/CrackBass/50-QDUX.aif
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=801 end=359552 sample=../Audio/CrackBass/51-L4Q9.aif
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=1087 end=362191 sample=../Audio/CrackBass/52-FHQT.aif
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=678 end=359397 sample=../Audio/CrackBass/53-MWIT.aif
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=1023 end=355355 sample=../Audio/CrackBass/54-CWGJ.aif
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=1104 end=362278 sample=../Audio/CrackBass/55-YP5Z.aif
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=677 end=360950 sample=../Audio/CrackBass/56-YDFI.aif
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=507 end=357773 sample=../Audio/CrackBass/57-L14U.aif
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=677 end=364464 sample=../Audio/CrackBass/58-OE3R.aif
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=877 end=360656 sample=../Audio/CrackBass/59-C875.aif
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=796 end=362930 sample=../Audio/CrackBass/60-3LHO.aif
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=1017 end=358713 sample=../Audio/CrackBass/61-NHQ3.aif
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=469 end=355047 sample=../Audio/CrackBass/62-PQNI.aif
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=677 end=354426 sample=../Audio/CrackBass/63-U4B8.aif
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=541 end=359949 sample=../Audio/CrackBass/64-LQ30.aif
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=882 end=359906 sample=../Audio/CrackBass/65-005Z.aif
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=720 end=358139 sample=../Audio/CrackBass/66-OJS4.aif
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=802 end=361234 sample=../Audio/CrackBass/67-S56R.aif
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=733 end=355148 sample=../Audio/CrackBass/68-TCL5.aif
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=926 end=356271 sample=../Audio/CrackBass/69-UXRC.aif
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=846 end=356352 sample=../Audio/CrackBass/70-2X49.aif
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=951 end=357996 sample=../Audio/CrackBass/71-S76M.aif
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=688 end=361980 sample=../Audio/CrackBass/72-IWIL.aif
-<group> key=73 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=659 end=357979 sample=../Audio/CrackBass/73-7HZA.aif
-<group> key=74 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=739 end=359864 sample=../Audio/CrackBass/74-36HJ.aif
-<group> key=75 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=589 end=354795 sample=../Audio/CrackBass/75-16NM.aif
-<group> key=76 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=858 end=359363 sample=../Audio/CrackBass/76-HP6F.aif
-<group> key=77 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=957 end=357975 sample=../Audio/CrackBass/77-DYUX.aif
-<group> key=78 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=524 end=357772 sample=../Audio/CrackBass/78-52XU.aif
-<group> key=79 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=736 end=359606 sample=../Audio/CrackBass/79-D6YP.aif
-<group> key=80 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=709 end=354619 sample=../Audio/CrackBass/80-UMF0.aif
-<group> key=81 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=801 end=361014 sample=../Audio/CrackBass/81-FPYE.aif
-<group> key=82 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=909 end=354971 sample=../Audio/CrackBass/82-PVFC.aif
-<group> key=83 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=817 end=359270 sample=../Audio/CrackBass/83-ZAAX.aif
-<group> key=84 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=799 end=357414 sample=../Audio/CrackBass/84-ARU5.aif
-<group> key=85 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=488 end=359229 sample=../Audio/CrackBass/85-2605.aif
-<group> key=86 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=458 end=354645 sample=../Audio/CrackBass/86-ZELA.aif
-<group> key=87 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=808 end=360050 sample=../Audio/CrackBass/87-KMCB.aif
-<group> key=88 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=761 end=354892 sample=../Audio/CrackBass/88-M26M.aif
-<group> key=89 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=591 end=357816 sample=../Audio/CrackBass/89-W9S1.aif
-<group> key=90 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=919 end=360399 sample=../Audio/CrackBass/90-WH0H.aif
-<group> key=91 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=898 end=356757 sample=../Audio/CrackBass/91-5CDE.aif
-<group> key=92 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=819 end=360469 sample=../Audio/CrackBass/92-TBA2.aif
-<group> key=93 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=763 end=356924 sample=../Audio/CrackBass/93-9VGK.aif
-<group> key=94 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=993 end=359621 sample=../Audio/CrackBass/94-PT8T.aif
-<group> key=95 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=821 end=360485 sample=../Audio/CrackBass/95-G6BC.aif
-<group>lokey=96 hikey=125 pitch_keycenter=96 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=2 offset=473 end=354974 sample=../Audio/CrackBass/96-18OX.aif
+<control>
+default_path=../Audio/CrackBass/
+
+<group>        // CrackBass
+<region> sample=36-Q36J.aif key=36 lokey=5 hikey=36 lovel=1 hivel=127 volume=2 offset=1024 end=363135 loop_mode=no_loop
+<region> sample=37-RI0R.aif key=37 lokey=37 hikey=37 lovel=1 hivel=127 volume=2 offset=670 end=362991 loop_mode=no_loop
+<region> sample=38-FXVC.aif key=38 lokey=38 hikey=38 lovel=1 hivel=127 volume=2 offset=624 end=370512 loop_mode=no_loop
+<region> sample=39-FST0.aif key=39 lokey=39 hikey=39 lovel=1 hivel=127 volume=2 offset=608 end=361472 loop_mode=no_loop
+<region> sample=40-VB04.aif key=40 lokey=40 hikey=40 lovel=1 hivel=127 volume=2 offset=962 end=363008 loop_mode=no_loop
+<region> sample=41-H8GQ.aif key=41 lokey=41 hikey=41 lovel=1 hivel=127 volume=2 offset=728 loop_mode=no_loop
+<region> sample=42-9N6T.aif key=42 lokey=42 hikey=42 lovel=1 hivel=127 volume=2 offset=560 end=355979 loop_mode=no_loop
+<region> sample=43-TMBI.aif key=43 lokey=43 hikey=43 lovel=1 hivel=127 volume=2 offset=414 end=367190 loop_mode=no_loop
+<region> sample=44-15VH.aif key=44 lokey=44 hikey=44 lovel=1 hivel=127 volume=2 offset=841 loop_mode=no_loop
+<region> sample=45-9DUS.aif key=45 lokey=45 hikey=45 lovel=1 hivel=127 volume=2 offset=824 end=356991 loop_mode=no_loop
+<region> sample=46-SXD4.aif key=46 lokey=46 hikey=46 lovel=1 hivel=127 volume=2 offset=645 end=365405 loop_mode=no_loop
+<region> sample=47-MMQQ.aif key=47 lokey=47 hikey=47 lovel=1 hivel=127 volume=2 offset=876 end=363845 loop_mode=no_loop
+<region> sample=48-ZZMD.aif key=48 lokey=48 hikey=48 lovel=1 hivel=127 volume=2 offset=849 end=362908 loop_mode=no_loop
+<region> sample=49-4F9G.aif key=49 lokey=49 hikey=49 lovel=1 hivel=127 volume=2 offset=559 end=356857 loop_mode=no_loop
+<region> sample=50-QDUX.aif key=50 lokey=50 hikey=50 lovel=1 hivel=127 volume=2 offset=921 end=363904 loop_mode=no_loop
+<region> sample=51-L4Q9.aif key=51 lokey=51 hikey=51 lovel=1 hivel=127 volume=2 offset=801 end=359552 loop_mode=no_loop
+<region> sample=52-FHQT.aif key=52 lokey=52 hikey=52 lovel=1 hivel=127 volume=2 offset=1087 end=362191 loop_mode=no_loop
+<region> sample=53-MWIT.aif key=53 lokey=53 hikey=53 lovel=1 hivel=127 volume=2 offset=678 end=359397 loop_mode=no_loop
+<region> sample=54-CWGJ.aif key=54 lokey=54 hikey=54 lovel=1 hivel=127 volume=2 offset=1023 end=355355 loop_mode=no_loop
+<region> sample=55-YP5Z.aif key=55 lokey=55 hikey=55 lovel=1 hivel=127 volume=2 offset=1104 end=362278 loop_mode=no_loop
+<region> sample=56-YDFI.aif key=56 lokey=56 hikey=56 lovel=1 hivel=127 volume=2 offset=677 end=360950 loop_mode=no_loop
+<region> sample=57-L14U.aif key=57 lokey=57 hikey=57 lovel=1 hivel=127 volume=2 offset=507 end=357773 loop_mode=no_loop
+<region> sample=58-OE3R.aif key=58 lokey=58 hikey=58 lovel=1 hivel=127 volume=2 offset=677 end=364464 loop_mode=no_loop
+<region> sample=59-C875.aif key=59 lokey=59 hikey=59 lovel=1 hivel=127 volume=2 offset=877 end=360656 loop_mode=no_loop
+<region> sample=60-3LHO.aif key=60 lokey=60 hikey=60 lovel=1 hivel=127 volume=2 offset=796 end=362930 loop_mode=no_loop
+<region> sample=61-NHQ3.aif key=61 lokey=61 hikey=61 lovel=1 hivel=127 volume=2 offset=1017 end=358713 loop_mode=no_loop
+<region> sample=62-PQNI.aif key=62 lokey=62 hikey=62 lovel=1 hivel=127 volume=2 offset=469 end=355047 loop_mode=no_loop
+<region> sample=63-U4B8.aif key=63 lokey=63 hikey=63 lovel=1 hivel=127 volume=2 offset=677 end=354426 loop_mode=no_loop
+<region> sample=64-LQ30.aif key=64 lokey=64 hikey=64 lovel=1 hivel=127 volume=2 offset=541 end=359949 loop_mode=no_loop
+<region> sample=65-005Z.aif key=65 lokey=65 hikey=65 lovel=1 hivel=127 volume=2 offset=882 end=359906 loop_mode=no_loop
+<region> sample=66-OJS4.aif key=66 lokey=66 hikey=66 lovel=1 hivel=127 volume=2 offset=720 end=358139 loop_mode=no_loop
+<region> sample=67-S56R.aif key=67 lokey=67 hikey=67 lovel=1 hivel=127 volume=2 offset=802 end=361234 loop_mode=no_loop
+<region> sample=68-TCL5.aif key=68 lokey=68 hikey=68 lovel=1 hivel=127 volume=2 offset=733 end=355148 loop_mode=no_loop
+<region> sample=69-UXRC.aif key=69 lokey=69 hikey=69 lovel=1 hivel=127 volume=2 offset=926 end=356271 loop_mode=no_loop
+<region> sample=70-2X49.aif key=70 lokey=70 hikey=70 lovel=1 hivel=127 volume=2 offset=846 end=356352 loop_mode=no_loop
+<region> sample=71-S76M.aif key=71 lokey=71 hikey=71 lovel=1 hivel=127 volume=2 offset=951 end=357996 loop_mode=no_loop
+<region> sample=72-IWIL.aif key=72 lokey=72 hikey=72 lovel=1 hivel=127 volume=2 offset=688 end=361980 loop_mode=no_loop
+<region> sample=73-7HZA.aif key=73 lokey=73 hikey=73 lovel=1 hivel=127 volume=2 offset=659 end=357979 loop_mode=no_loop
+<region> sample=74-36HJ.aif key=74 lokey=74 hikey=74 lovel=1 hivel=127 volume=2 offset=739 end=359864 loop_mode=no_loop
+<region> sample=75-16NM.aif key=75 lokey=75 hikey=75 lovel=1 hivel=127 volume=2 offset=589 end=354795 loop_mode=no_loop
+<region> sample=76-HP6F.aif key=76 lokey=76 hikey=76 lovel=1 hivel=127 volume=2 offset=858 end=359363 loop_mode=no_loop
+<region> sample=77-DYUX.aif key=77 lokey=77 hikey=77 lovel=1 hivel=127 volume=2 offset=957 end=357975 loop_mode=no_loop
+<region> sample=78-52XU.aif key=78 lokey=78 hikey=78 lovel=1 hivel=127 volume=2 offset=524 end=357772 loop_mode=no_loop
+<region> sample=79-D6YP.aif key=79 lokey=79 hikey=79 lovel=1 hivel=127 volume=2 offset=736 end=359606 loop_mode=no_loop
+<region> sample=80-UMF0.aif key=80 lokey=80 hikey=80 lovel=1 hivel=127 volume=2 offset=709 end=354619 loop_mode=no_loop
+<region> sample=81-FPYE.aif key=81 lokey=81 hikey=81 lovel=1 hivel=127 volume=2 offset=801 end=361014 loop_mode=no_loop
+<region> sample=82-PVFC.aif key=82 lokey=82 hikey=82 lovel=1 hivel=127 volume=2 offset=909 end=354971 loop_mode=no_loop
+<region> sample=83-ZAAX.aif key=83 lokey=83 hikey=83 lovel=1 hivel=127 volume=2 offset=817 end=359270 loop_mode=no_loop
+<region> sample=84-ARU5.aif key=84 lokey=84 hikey=84 lovel=1 hivel=127 volume=2 offset=799 end=357414 loop_mode=no_loop
+<region> sample=85-2605.aif key=85 lokey=85 hikey=85 lovel=1 hivel=127 volume=2 offset=488 end=359229 loop_mode=no_loop
+<region> sample=86-ZELA.aif key=86 lokey=86 hikey=86 lovel=1 hivel=127 volume=2 offset=458 end=354645 loop_mode=no_loop
+<region> sample=87-KMCB.aif key=87 lokey=87 hikey=87 lovel=1 hivel=127 volume=2 offset=808 end=360050 loop_mode=no_loop
+<region> sample=88-M26M.aif key=88 lokey=88 hikey=88 lovel=1 hivel=127 volume=2 offset=761 end=354892 loop_mode=no_loop
+<region> sample=89-W9S1.aif key=89 lokey=89 hikey=89 lovel=1 hivel=127 volume=2 offset=591 end=357816 loop_mode=no_loop
+<region> sample=90-WH0H.aif key=90 lokey=90 hikey=90 lovel=1 hivel=127 volume=2 offset=919 end=360399 loop_mode=no_loop
+<region> sample=91-5CDE.aif key=91 lokey=91 hikey=91 lovel=1 hivel=127 volume=2 offset=898 end=356757 loop_mode=no_loop
+<region> sample=92-TBA2.aif key=92 lokey=92 hikey=92 lovel=1 hivel=127 volume=2 offset=819 end=360469 loop_mode=no_loop
+<region> sample=93-9VGK.aif key=93 lokey=93 hikey=93 lovel=1 hivel=127 volume=2 offset=763 end=356924 loop_mode=no_loop
+<region> sample=94-PT8T.aif key=94 lokey=94 hikey=94 lovel=1 hivel=127 volume=2 offset=993 end=359621 loop_mode=no_loop
+<region> sample=95-G6BC.aif key=95 lokey=95 hikey=95 lovel=1 hivel=127 volume=2 offset=821 end=360485 loop_mode=no_loop
+<region> sample=96-18OX.aif key=96 lokey=96 hikey=125 lovel=1 hivel=127 volume=2 offset=473 end=354974 loop_mode=no_loop

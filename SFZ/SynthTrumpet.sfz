@@ -1,28 +1,20 @@
-// this file was generated from SynthTrumpet.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - SynthTrumpet.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
 
-<group>lokey=7 hikey=37 pitch_keycenter=36 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=869 end=357448 sample=../Audio/SynthTrumpet/37-M2AC.aif
-<group>lokey=38 hikey=42 pitch_keycenter=41 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=878 end=359733 sample=../Audio/SynthTrumpet/42-2Z2J.aif
-<group>lokey=43 hikey=47 pitch_keycenter=46 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1009 end=356559 sample=../Audio/SynthTrumpet/47-YCCU.aif
-<group>lokey=48 hikey=52 pitch_keycenter=51 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1053 end=358035 sample=../Audio/SynthTrumpet/52-Y3XV.aif
-<group>lokey=53 hikey=57 pitch_keycenter=56 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=845 end=355320 sample=../Audio/SynthTrumpet/57-Z0QR.aif
-<group>lokey=58 hikey=62 pitch_keycenter=61 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=782 end=356308 sample=../Audio/SynthTrumpet/62-QVKI.aif
-<group>lokey=63 hikey=67 pitch_keycenter=66 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=378 end=358152 sample=../Audio/SynthTrumpet/67-C3UH.aif
-<group>lokey=68 hikey=72 pitch_keycenter=71 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=739 end=356126 sample=../Audio/SynthTrumpet/72-IPAI.aif
-<group>lokey=73 hikey=77 pitch_keycenter=76 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=720 end=354345 sample=../Audio/SynthTrumpet/77-J4RZ.aif
-<group>lokey=78 hikey=82 pitch_keycenter=81 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=956 end=357917 sample=../Audio/SynthTrumpet/82-2FKQ.aif
-<group>lokey=83 hikey=87 pitch_keycenter=86 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=619 end=357608 sample=../Audio/SynthTrumpet/87-SEGE.aif
-<group>lokey=88 hikey=92 pitch_keycenter=91 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=976 end=358469 sample=../Audio/SynthTrumpet/92-L3XK.aif
-<group>lokey=93 hikey=123 pitch_keycenter=96 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=789 end=357288 sample=../Audio/SynthTrumpet/96-PIIV.aif
+<control>
+default_path=../Audio/AKAIAX80/Audio/
+
+<group>        // SynthTrumpet
+<region> sample=37-M2AC.aif key=36 lokey=7 hikey=37 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=869 end=357448 loop_mode=no_loop
+<region> sample=42-2Z2J.aif key=41 lokey=38 hikey=42 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=878 end=359733 loop_mode=no_loop
+<region> sample=47-YCCU.aif key=46 lokey=43 hikey=47 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=1009 end=356559 loop_mode=no_loop
+<region> sample=52-Y3XV.aif key=51 lokey=48 hikey=52 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=1053 end=358035 loop_mode=no_loop
+<region> sample=57-Z0QR.aif key=56 lokey=53 hikey=57 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=845 end=355320 loop_mode=no_loop
+<region> sample=62-QVKI.aif key=61 lokey=58 hikey=62 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=782 end=356308 loop_mode=no_loop
+<region> sample=67-C3UH.aif key=66 lokey=63 hikey=67 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=378 end=358152 loop_mode=no_loop
+<region> sample=72-IPAI.aif key=71 lokey=68 hikey=72 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=739 end=356126 loop_mode=no_loop
+<region> sample=77-J4RZ.aif key=76 lokey=73 hikey=77 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=720 end=354345 loop_mode=no_loop
+<region> sample=82-2FKQ.aif key=81 lokey=78 hikey=82 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=956 end=357917 loop_mode=no_loop
+<region> sample=87-SEGE.aif key=86 lokey=83 hikey=87 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=619 end=357608 loop_mode=no_loop
+<region> sample=92-L3XK.aif key=91 lokey=88 hikey=92 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=976 end=358469 loop_mode=no_loop
+<region> sample=96-PIIV.aif key=96 lokey=93 hikey=123 lovel=1 hivel=127 volume=12 amp_veltrack=30 offset=789 end=357288 loop_mode=no_loop

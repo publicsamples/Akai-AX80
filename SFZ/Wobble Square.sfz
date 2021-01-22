@@ -1,124 +1,68 @@
-// this file was generated from Wobble Square.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Wobble Square.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
 
-<group>lokey=0 hikey=36 pitch_keycenter=36 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=903 end=450693 loop_mode=loop_sustain loop_start=162635 loop_end=243529 sample=../Audio/Wobble Square/36-RM6R.aif
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=946 end=451155 loop_mode=loop_sustain loop_start=104021 loop_end=335655 sample=../Audio/Wobble Square/37-3H14.aif
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=841 end=448443 loop_mode=loop_sustain loop_start=277078 loop_end=358821 sample=../Audio/Wobble Square/38-EXVP.aif
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=1084 end=450848 loop_mode=loop_sustain loop_start=179097 loop_end=326538 sample=../Audio/Wobble Square/39-7IIQ.aif
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=860 end=448862 loop_mode=loop_sustain loop_start=184819 loop_end=349677 sample=../Audio/Wobble Square/40-N3EV.aif
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=477 end=450342 loop_mode=loop_sustain loop_start=72298 loop_end=302662 sample=../Audio/Wobble Square/41-9RLN.aif
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=640 end=450102 loop_mode=loop_sustain loop_start=179985 loop_end=277236 sample=../Audio/Wobble Square/42-MCS6.aif
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=410 end=448974 loop_mode=loop_sustain loop_start=180455 loop_end=344296 sample=../Audio/Wobble Square/43-VL1E.aif
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=679 end=449849 loop_mode=loop_sustain loop_start=69449 loop_end=234310 sample=../Audio/Wobble Square/44-XHFI.aif
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=1011 end=449765 loop_mode=loop_sustain loop_start=82815 loop_end=312187 sample=../Audio/Wobble Square/45-RVHV.aif
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=951 end=447475 loop_mode=loop_sustain loop_start=109828 loop_end=358138 sample=../Audio/Wobble Square/46-F8TI.aif
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=1224 end=448240 loop_mode=loop_sustain loop_start=204749 loop_end=303357 sample=../Audio/Wobble Square/47-JCEC.aif
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=653 end=449370 loop_mode=loop_sustain loop_start=193572 loop_end=308221 sample=../Audio/Wobble Square/48-EHHX.aif
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=975 end=449487 loop_mode=loop_sustain loop_start=228906 loop_end=360020 sample=../Audio/Wobble Square/49-6HB0.aif
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=872 end=449415 loop_mode=loop_sustain loop_start=175698 loop_end=355929 sample=../Audio/Wobble Square/50-F7QJ.aif
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=511 end=448486 loop_mode=loop_sustain loop_start=203846 loop_end=351278 sample=../Audio/Wobble Square/51-QNKV.aif
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=623 end=445281 loop_mode=loop_sustain loop_start=190063 loop_end=355968 sample=../Audio/Wobble Square/52-NIAR.aif
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=1028 end=447941 loop_mode=loop_sustain loop_start=114723 loop_end=344097 sample=../Audio/Wobble Square/53-VHKK.aif
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=698 end=448791 loop_mode=loop_sustain loop_start=159504 loop_end=339744 sample=../Audio/Wobble Square/54-36MD.aif
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=841 end=449880 loop_mode=loop_sustain loop_start=247499 loop_end=328542 sample=../Audio/Wobble Square/55-E4NO.aif
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=919 end=449374 loop_mode=loop_sustain loop_start=243085 loop_end=358629 sample=../Audio/Wobble Square/56-E47S.aif
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=572 end=442990 loop_mode=loop_sustain loop_start=248727 loop_end=362621 sample=../Audio/Wobble Square/57-RILW.aif
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=645 end=446744 loop_mode=loop_sustain loop_start=236720 loop_end=351774 sample=../Audio/Wobble Square/58-T1D1.aif
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=797 end=448724 loop_mode=loop_sustain loop_start=78248 loop_end=193268 sample=../Audio/Wobble Square/59-CM7N.aif
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=620 end=446654 loop_mode=loop_sustain loop_start=195802 loop_end=278074 sample=../Audio/Wobble Square/60-U0ES.aif
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=1180 end=443964 loop_mode=loop_sustain loop_start=230072 loop_end=328085 sample=../Audio/Wobble Square/61-VGPQ.aif
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=1047 end=448860 loop_mode=loop_sustain loop_start=75006 loop_end=338746 sample=../Audio/Wobble Square/62-I0TH.aif
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=775 end=446796 loop_mode=loop_sustain loop_start=208611 loop_end=356038 sample=../Audio/Wobble Square/63-3X98.aif
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=775 end=447761 loop_mode=loop_sustain loop_start=100351 loop_end=363702 sample=../Audio/Wobble Square/64-6291.aif
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=852 end=442662 loop_mode=loop_sustain loop_start=78847 loop_end=160678 sample=../Audio/Wobble Square/65-ZA94.aif
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=631 end=443429 loop_mode=loop_sustain loop_start=113703 loop_end=229574 sample=../Audio/Wobble Square/66-JV4R.aif
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=626 end=447699 loop_mode=loop_sustain loop_start=126689 loop_end=207693 sample=../Audio/Wobble Square/67-OVA9.aif
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=714 end=446664 loop_mode=loop_sustain loop_start=196362 loop_end=278352 sample=../Audio/Wobble Square/68-XOSY.aif
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=711 end=443565 loop_mode=loop_sustain loop_start=112767 loop_end=194955 sample=../Audio/Wobble Square/69-QTGW.aif
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=1098 end=446690 loop_mode=loop_sustain loop_start=223485 loop_end=305601 sample=../Audio/Wobble Square/70-APP3.aif
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=847 loop_mode=loop_sustain loop_start=253764 loop_end=335922 sample=../Audio/Wobble Square/71-U2SA.aif
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=858 end=447911 loop_mode=loop_sustain loop_start=161847 loop_end=259966 sample=../Audio/Wobble Square/72-RCGV.aif
-<group> key=73 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=1158 end=443868 loop_mode=loop_sustain loop_start=206798 loop_end=288585 sample=../Audio/Wobble Square/73-6399.aif
-<group> key=74 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=658 end=443230 loop_mode=loop_sustain loop_start=130444 loop_end=344624 sample=../Audio/Wobble Square/74-T0YA.aif
-<group> key=75 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=732 end=443315 loop_mode=loop_sustain loop_start=271366 loop_end=353287 sample=../Audio/Wobble Square/75-8L25.aif
-<group> key=76 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=1055 end=443885 loop_mode=loop_sustain loop_start=263942 loop_end=362393 sample=../Audio/Wobble Square/76-91ZK.aif
-<group> key=77 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=795 end=445968 loop_mode=loop_sustain loop_start=80227 loop_end=162562 sample=../Audio/Wobble Square/77-PB0T.aif
-<group> key=78 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=589 end=447849 loop_mode=loop_sustain loop_start=213359 loop_end=310848 sample=../Audio/Wobble Square/78-IDN0.aif
-<group> key=79 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=599 end=447432 loop_mode=loop_sustain loop_start=109165 loop_end=191291 sample=../Audio/Wobble Square/79-1LQO.aif
-<group> key=80 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=865 loop_mode=loop_sustain loop_start=80863 loop_end=179208 sample=../Audio/Wobble Square/80-Q5QL.aif
-<group> key=81 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=672 end=447881 loop_mode=loop_sustain loop_start=244936 loop_end=328124 sample=../Audio/Wobble Square/81-HO75.aif
-<group> key=82 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=667 end=448466 loop_mode=loop_sustain loop_start=169046 loop_end=267973 sample=../Audio/Wobble Square/82-CANO.aif
-<group> key=83 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=565 end=449912 loop_mode=loop_sustain loop_start=227000 loop_end=325232 sample=../Audio/Wobble Square/83-NM2Y.aif
-<group> key=84 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=1058 end=450516 loop_mode=loop_sustain loop_start=142552 loop_end=225834 sample=../Audio/Wobble Square/84-Q3TW.aif
-<group> key=85 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=560 end=443386 loop_mode=loop_sustain loop_start=101896 loop_end=183682 sample=../Audio/Wobble Square/85-ZK7B.aif
-<group> key=86 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=808 end=446349 loop_mode=loop_sustain loop_start=224352 loop_end=355461 sample=../Audio/Wobble Square/86-41X5.aif
-<group> key=87 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=706 end=447575 loop_mode=loop_sustain loop_start=91344 loop_end=354056 sample=../Audio/Wobble Square/87-C5X7.aif
-<group> key=88 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=787 end=447476 loop_mode=loop_sustain loop_start=92035 loop_end=222937 sample=../Audio/Wobble Square/88-FFTO.aif
-<group> key=89 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=681 end=446198 loop_mode=loop_sustain loop_start=85599 loop_end=364811 sample=../Audio/Wobble Square/89-8MX9.aif
-<group> key=90 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=482 end=445090 loop_mode=loop_sustain loop_start=86529 loop_end=168761 sample=../Audio/Wobble Square/90-IZGR.aif
-<group> key=91 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=779 loop_mode=loop_sustain loop_start=198269 loop_end=295697 sample=../Audio/Wobble Square/91-KPOO.aif
-<group> key=92 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=713 end=445363 loop_mode=loop_sustain loop_start=157491 loop_end=240820 sample=../Audio/Wobble Square/92-SNQM.aif
-<group> key=93 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=1084 loop_mode=loop_sustain loop_start=132630 loop_end=214015 sample=../Audio/Wobble Square/93-4LJD.aif
-<group> key=94 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=870 end=446468 loop_mode=loop_sustain loop_start=180145 loop_end=263230 sample=../Audio/Wobble Square/94-RF55.aif
-<group> key=95 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=400 end=445244 loop_mode=loop_sustain loop_start=82425 loop_end=362398 sample=../Audio/Wobble Square/95-1S3I.aif
-<group>lokey=96 hikey=127 pitch_keycenter=96 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=721 end=444871 loop_mode=loop_sustain loop_start=267351 loop_end=348527 sample=../Audio/Wobble Square/96-2VMO.aif
+<control>
+default_path=../Audio/Wobble Square/
+
+<group>        // Wobble Square
+<region> sample=36-RM6R.aif key=36 lokey=0 hikey=36 lovel=1 hivel=127 volume=10 offset=903 end=450693 loop_mode=loop_continuous loop_start=162635 loop_end=243530
+<region> sample=37-3H14.aif key=37 lokey=37 hikey=37 lovel=1 hivel=127 volume=10 offset=946 end=451155 loop_mode=loop_continuous loop_start=104021 loop_end=335656
+<region> sample=38-EXVP.aif key=38 lokey=38 hikey=38 lovel=1 hivel=127 volume=10 offset=841 end=448443 loop_mode=loop_continuous loop_start=277078 loop_end=358822
+<region> sample=39-7IIQ.aif key=39 lokey=39 hikey=39 lovel=1 hivel=127 volume=10 offset=1084 end=450848 loop_mode=loop_continuous loop_start=179097 loop_end=326539
+<region> sample=40-N3EV.aif key=40 lokey=40 hikey=40 lovel=1 hivel=127 volume=10 offset=860 end=448862 loop_mode=loop_continuous loop_start=184819 loop_end=349678
+<region> sample=41-9RLN.aif key=41 lokey=41 hikey=41 lovel=1 hivel=127 volume=10 offset=477 end=450342 loop_mode=loop_continuous loop_start=72298 loop_end=302663
+<region> sample=42-MCS6.aif key=42 lokey=42 hikey=42 lovel=1 hivel=127 volume=10 offset=640 end=450102 loop_mode=loop_continuous loop_start=179985 loop_end=277237
+<region> sample=43-VL1E.aif key=43 lokey=43 hikey=43 lovel=1 hivel=127 volume=10 offset=410 end=448974 loop_mode=loop_continuous loop_start=180455 loop_end=344297
+<region> sample=44-XHFI.aif key=44 lokey=44 hikey=44 lovel=1 hivel=127 volume=10 offset=679 end=449849 loop_mode=loop_continuous loop_start=69449 loop_end=234311
+<region> sample=45-RVHV.aif key=45 lokey=45 hikey=45 lovel=1 hivel=127 volume=10 offset=1011 end=449765 loop_mode=loop_continuous loop_start=82815 loop_end=312188
+<region> sample=46-F8TI.aif key=46 lokey=46 hikey=46 lovel=1 hivel=127 volume=10 offset=951 end=447475 loop_mode=loop_continuous loop_start=109828 loop_end=358139
+<region> sample=47-JCEC.aif key=47 lokey=47 hikey=47 lovel=1 hivel=127 volume=10 offset=1224 end=448240 loop_mode=loop_continuous loop_start=204749 loop_end=303358
+<region> sample=48-EHHX.aif key=48 lokey=48 hikey=48 lovel=1 hivel=127 volume=10 offset=653 end=449370 loop_mode=loop_continuous loop_start=193572 loop_end=308222
+<region> sample=49-6HB0.aif key=49 lokey=49 hikey=49 lovel=1 hivel=127 volume=10 offset=975 end=449487 loop_mode=loop_continuous loop_start=228906 loop_end=360021
+<region> sample=50-F7QJ.aif key=50 lokey=50 hikey=50 lovel=1 hivel=127 volume=10 offset=872 end=449415 loop_mode=loop_continuous loop_start=175698 loop_end=355930
+<region> sample=51-QNKV.aif key=51 lokey=51 hikey=51 lovel=1 hivel=127 volume=10 offset=511 end=448486 loop_mode=loop_continuous loop_start=203846 loop_end=351279
+<region> sample=52-NIAR.aif key=52 lokey=52 hikey=52 lovel=1 hivel=127 volume=10 offset=623 end=445281 loop_mode=loop_continuous loop_start=190063 loop_end=355969
+<region> sample=53-VHKK.aif key=53 lokey=53 hikey=53 lovel=1 hivel=127 volume=10 offset=1028 end=447941 loop_mode=loop_continuous loop_start=114723 loop_end=344098
+<region> sample=54-36MD.aif key=54 lokey=54 hikey=54 lovel=1 hivel=127 volume=10 offset=698 end=448791 loop_mode=loop_continuous loop_start=159504 loop_end=339745
+<region> sample=55-E4NO.aif key=55 lokey=55 hikey=55 lovel=1 hivel=127 volume=10 offset=841 end=449880 loop_mode=loop_continuous loop_start=247499 loop_end=328543
+<region> sample=56-E47S.aif key=56 lokey=56 hikey=56 lovel=1 hivel=127 volume=10 offset=919 end=449374 loop_mode=loop_continuous loop_start=243085 loop_end=358630
+<region> sample=57-RILW.aif key=57 lokey=57 hikey=57 lovel=1 hivel=127 volume=10 offset=572 end=442990 loop_mode=loop_continuous loop_start=248727 loop_end=362622
+<region> sample=58-T1D1.aif key=58 lokey=58 hikey=58 lovel=1 hivel=127 volume=10 offset=645 end=446744 loop_mode=loop_continuous loop_start=236720 loop_end=351775
+<region> sample=59-CM7N.aif key=59 lokey=59 hikey=59 lovel=1 hivel=127 volume=10 offset=797 end=448724 loop_mode=loop_continuous loop_start=78248 loop_end=193269
+<region> sample=60-U0ES.aif key=60 lokey=60 hikey=60 lovel=1 hivel=127 volume=10 offset=620 end=446654 loop_mode=loop_continuous loop_start=195802 loop_end=278075
+<region> sample=61-VGPQ.aif key=61 lokey=61 hikey=61 lovel=1 hivel=127 volume=10 offset=1180 end=443964 loop_mode=loop_continuous loop_start=230072 loop_end=328086
+<region> sample=62-I0TH.aif key=62 lokey=62 hikey=62 lovel=1 hivel=127 volume=10 offset=1047 end=448860 loop_mode=loop_continuous loop_start=75006 loop_end=338747
+<region> sample=63-3X98.aif key=63 lokey=63 hikey=63 lovel=1 hivel=127 volume=10 offset=775 end=446796 loop_mode=loop_continuous loop_start=208611 loop_end=356039
+<region> sample=64-6291.aif key=64 lokey=64 hikey=64 lovel=1 hivel=127 volume=10 offset=775 end=447761 loop_mode=loop_continuous loop_start=100351 loop_end=363703
+<region> sample=65-ZA94.aif key=65 lokey=65 hikey=65 lovel=1 hivel=127 volume=10 offset=852 end=442662 loop_mode=loop_continuous loop_start=78847 loop_end=160679
+<region> sample=66-JV4R.aif key=66 lokey=66 hikey=66 lovel=1 hivel=127 volume=10 offset=631 end=443429 loop_mode=loop_continuous loop_start=113703 loop_end=229575
+<region> sample=67-OVA9.aif key=67 lokey=67 hikey=67 lovel=1 hivel=127 volume=10 offset=626 end=447699 loop_mode=loop_continuous loop_start=126689 loop_end=207694
+<region> sample=68-XOSY.aif key=68 lokey=68 hikey=68 lovel=1 hivel=127 volume=10 offset=714 end=446664 loop_mode=loop_continuous loop_start=196362 loop_end=278353
+<region> sample=69-QTGW.aif key=69 lokey=69 hikey=69 lovel=1 hivel=127 volume=10 offset=711 end=443565 loop_mode=loop_continuous loop_start=112767 loop_end=194956
+<region> sample=70-APP3.aif key=70 lokey=70 hikey=70 lovel=1 hivel=127 volume=10 offset=1098 end=446690 loop_mode=loop_continuous loop_start=223485 loop_end=305602
+<region> sample=71-U2SA.aif key=71 lokey=71 hikey=71 lovel=1 hivel=127 volume=10 offset=847 loop_mode=loop_continuous loop_start=253764 loop_end=335923
+<region> sample=72-RCGV.aif key=72 lokey=72 hikey=72 lovel=1 hivel=127 volume=10 offset=858 end=447911 loop_mode=loop_continuous loop_start=161847 loop_end=259967
+<region> sample=73-6399.aif key=73 lokey=73 hikey=73 lovel=1 hivel=127 volume=10 offset=1158 end=443868 loop_mode=loop_continuous loop_start=206798 loop_end=288586
+<region> sample=74-T0YA.aif key=74 lokey=74 hikey=74 lovel=1 hivel=127 volume=10 offset=658 end=443230 loop_mode=loop_continuous loop_start=130444 loop_end=344625
+<region> sample=75-8L25.aif key=75 lokey=75 hikey=75 lovel=1 hivel=127 volume=10 offset=732 end=443315 loop_mode=loop_continuous loop_start=271366 loop_end=353288
+<region> sample=76-91ZK.aif key=76 lokey=76 hikey=76 lovel=1 hivel=127 volume=10 offset=1055 end=443885 loop_mode=loop_continuous loop_start=263942 loop_end=362394
+<region> sample=77-PB0T.aif key=77 lokey=77 hikey=77 lovel=1 hivel=127 volume=10 offset=795 end=445968 loop_mode=loop_continuous loop_start=80227 loop_end=162563
+<region> sample=78-IDN0.aif key=78 lokey=78 hikey=78 lovel=1 hivel=127 volume=10 offset=589 end=447849 loop_mode=loop_continuous loop_start=213359 loop_end=310849
+<region> sample=79-1LQO.aif key=79 lokey=79 hikey=79 lovel=1 hivel=127 volume=10 offset=599 end=447432 loop_mode=loop_continuous loop_start=109165 loop_end=191292
+<region> sample=80-Q5QL.aif key=80 lokey=80 hikey=80 lovel=1 hivel=127 volume=10 offset=865 loop_mode=loop_continuous loop_start=80863 loop_end=179209
+<region> sample=81-HO75.aif key=81 lokey=81 hikey=81 lovel=1 hivel=127 volume=10 offset=672 end=447881 loop_mode=loop_continuous loop_start=244936 loop_end=328125
+<region> sample=82-CANO.aif key=82 lokey=82 hikey=82 lovel=1 hivel=127 volume=10 offset=667 end=448466 loop_mode=loop_continuous loop_start=169046 loop_end=267974
+<region> sample=83-NM2Y.aif key=83 lokey=83 hikey=83 lovel=1 hivel=127 volume=10 offset=565 end=449912 loop_mode=loop_continuous loop_start=227000 loop_end=325233
+<region> sample=84-Q3TW.aif key=84 lokey=84 hikey=84 lovel=1 hivel=127 volume=10 offset=1058 end=450516 loop_mode=loop_continuous loop_start=142552 loop_end=225835
+<region> sample=85-ZK7B.aif key=85 lokey=85 hikey=85 lovel=1 hivel=127 volume=10 offset=560 end=443386 loop_mode=loop_continuous loop_start=101896 loop_end=183683
+<region> sample=86-41X5.aif key=86 lokey=86 hikey=86 lovel=1 hivel=127 volume=10 offset=808 end=446349 loop_mode=loop_continuous loop_start=224352 loop_end=355462
+<region> sample=87-C5X7.aif key=87 lokey=87 hikey=87 lovel=1 hivel=127 volume=10 offset=706 end=447575 loop_mode=loop_continuous loop_start=91344 loop_end=354057
+<region> sample=88-FFTO.aif key=88 lokey=88 hikey=88 lovel=1 hivel=127 volume=10 offset=787 end=447476 loop_mode=loop_continuous loop_start=92035 loop_end=222938
+<region> sample=89-8MX9.aif key=89 lokey=89 hikey=89 lovel=1 hivel=127 volume=10 offset=681 end=446198 loop_mode=loop_continuous loop_start=85599 loop_end=364812
+<region> sample=90-IZGR.aif key=90 lokey=90 hikey=90 lovel=1 hivel=127 volume=10 offset=482 end=445090 loop_mode=loop_continuous loop_start=86529 loop_end=168762
+<region> sample=91-KPOO.aif key=91 lokey=91 hikey=91 lovel=1 hivel=127 volume=10 offset=779 loop_mode=loop_continuous loop_start=198269 loop_end=295698
+<region> sample=92-SNQM.aif key=92 lokey=92 hikey=92 lovel=1 hivel=127 volume=10 offset=713 end=445363 loop_mode=loop_continuous loop_start=157491 loop_end=240821
+<region> sample=93-4LJD.aif key=93 lokey=93 hikey=93 lovel=1 hivel=127 volume=10 offset=1084 loop_mode=loop_continuous loop_start=132630 loop_end=214016
+<region> sample=94-RF55.aif key=94 lokey=94 hikey=94 lovel=1 hivel=127 volume=10 offset=870 end=446468 loop_mode=loop_continuous loop_start=180145 loop_end=263231
+<region> sample=95-1S3I.aif key=95 lokey=95 hikey=95 lovel=1 hivel=127 volume=10 offset=400 end=445244 loop_mode=loop_continuous loop_start=82425 loop_end=362399
+<region> sample=96-2VMO.aif key=96 lokey=96 hikey=127 lovel=1 hivel=127 volume=10 offset=721 end=444871 loop_mode=loop_continuous loop_start=267351 loop_end=348528
