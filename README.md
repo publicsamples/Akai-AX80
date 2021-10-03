@@ -1,7 +1,7 @@
 
 # Akai AX 80
 
-The Akai AX-80 is an aggressive sounding CEM based polysynth from the early 80s. It looks cool.
+The Akai AX-80 is an aggressive sounding CEM based polysynth from the early 80s. It looks pretty cool too.
 
 
 -   **Formats:** EXS24, Kontakt & SFZ
@@ -10,7 +10,7 @@ The Akai AX-80 is an aggressive sounding CEM based polysynth from the early 80s.
 
 **This collection requires you to download the audio seperately**
 
-[Download Audio from Dropbox](https://www.dropbox.com/sh/164wbhj80fsibvw/AAAsQPPOeNFyOmKh2V7aMe6Ua?dl=0)
+[Download Audio from Releases](https://github.com/publicsamples/Akai-AX80/releases/tag/v1.0)
 
 # Loading
 
