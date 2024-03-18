@@ -7,10 +7,3 @@ The Akai AX-80 is an aggressive sounding CEM based polysynth from the early 80s.
 -   **Info:** [Wikipedia](https://en.wikipedia.org/wiki/Akai_AX80)
 
 **[Download Audio](https://github.com/publicsamples/Akai-AX80/releases/tag/v1.0)**
-
-## **Support this project**
-
-[
-![excessivehits](https://www.modularsamples.com/img/ex2.png)
-](https://www.modularsamples.com/excessive-hits-one-shot-sample-library/)
-
